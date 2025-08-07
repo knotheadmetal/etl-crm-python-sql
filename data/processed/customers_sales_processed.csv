@@ -1,0 +1,1260 @@
+customer_id,customer_name,segment,region,sale_id,sale_date,sale_value,product,sale_month
+CUST0001,Cliente 1,Pequena Empresa,Centro-Oeste,,,,,
+CUST0002,Cliente 2,Autônomo,Nordeste,,,,,
+CUST0003,Cliente 3,Grande Empresa,Norte,,,,,
+CUST0004,Cliente 4,Média Empresa,Sudeste,,,,,
+CUST0005,Cliente 5,Pequena Empresa,Norte,SALE0200,2025-05-26 10:37:23.100327,576.52,Serviço Y,2025-05
+CUST0005,Cliente 5,Pequena Empresa,Norte,SALE0444,2024-10-22 10:37:23.101131,697.84,Serviço Y,2024-10
+CUST0006,Cliente 6,Pequena Empresa,Sudeste,,,,,
+CUST0007,Cliente 7,Pequena Empresa,Sul,SALE0670,2024-11-07 10:37:23.101958,2242.11,Serviço X,2024-11
+CUST0008,Cliente 8,Grande Empresa,Sudeste,SALE0423,2025-02-18 10:37:23.101065,4332.06,Produto A,2025-02
+CUST0008,Cliente 8,Grande Empresa,Sudeste,SALE0454,2025-07-27 10:37:23.101163,2007.01,Produto A,2025-07
+CUST0008,Cliente 8,Grande Empresa,Sudeste,SALE0506,2025-04-17 10:37:23.101330,3826.84,Serviço Y,2025-04
+CUST0008,Cliente 8,Grande Empresa,Sudeste,SALE0633,2024-11-30 10:37:23.101837,1867.31,Produto A,2024-11
+CUST0009,Cliente 9,Média Empresa,Centro-Oeste,,,,,
+CUST0010,Cliente 10,Grande Empresa,Nordeste,,,,,
+CUST0011,Cliente 11,Pequena Empresa,Sul,SALE0452,2025-01-11 10:37:23.101157,2574.8,Produto A,2025-01
+CUST0012,Cliente 12,Autônomo,Sudeste,SALE0023,2024-12-04 10:37:23.099690,4409.31,Serviço X,2024-12
+CUST0012,Cliente 12,Autônomo,Sudeste,SALE0532,2024-11-16 10:37:23.101413,159.68,Serviço X,2024-11
+CUST0013,Cliente 13,Grande Empresa,Norte,,,,,
+CUST0014,Cliente 14,Pequena Empresa,Sul,SALE0398,2025-06-28 10:37:23.100984,4576.48,Produto A,2025-06
+CUST0014,Cliente 14,Pequena Empresa,Sul,SALE0689,2025-05-10 10:37:23.102019,3762.96,Serviço Y,2025-05
+CUST0015,Cliente 15,Pequena Empresa,Sul,SALE0551,2025-01-25 10:37:23.101473,818.62,Produto B,2025-01
+CUST0015,Cliente 15,Pequena Empresa,Sul,SALE0755,2025-07-01 10:37:23.102229,2620.17,Serviço Y,2025-07
+CUST0016,Cliente 16,Pequena Empresa,Sudeste,,,,,
+CUST0017,Cliente 17,Pequena Empresa,Sul,,,,,
+CUST0018,Cliente 18,Média Empresa,Norte,SALE0530,2025-07-12 10:37:23.101406,4395.13,Serviço Y,2025-07
+CUST0019,Cliente 19,Média Empresa,Sul,SALE0159,2025-01-06 10:37:23.100198,4862.22,Serviço Y,2025-01
+CUST0019,Cliente 19,Média Empresa,Sul,SALE0376,2025-07-25 10:37:23.100910,2031.76,Produto A,2025-07
+CUST0020,Cliente 20,Pequena Empresa,Norte,,,,,
+CUST0021,Cliente 21,Média Empresa,Sudeste,,,,,
+CUST0022,Cliente 22,Pequena Empresa,Nordeste,SALE0363,2025-06-18 10:37:23.100869,4936.48,Produto A,2025-06
+CUST0023,Cliente 23,Pequena Empresa,Sul,,,,,
+CUST0024,Cliente 24,Pequena Empresa,Nordeste,SALE0313,2025-06-22 10:37:23.100710,322.44,Serviço X,2025-06
+CUST0024,Cliente 24,Pequena Empresa,Nordeste,SALE0550,2025-07-22 10:37:23.101470,297.61,Produto B,2025-07
+CUST0025,Cliente 25,Média Empresa,Norte,SALE0641,2024-11-22 10:37:23.101867,2915.74,Produto B,2024-11
+CUST0026,Cliente 26,Grande Empresa,Sul,SALE0435,2025-04-16 10:37:23.101103,3975.4,Produto B,2025-04
+CUST0026,Cliente 26,Grande Empresa,Sul,SALE0631,2025-06-08 10:37:23.101828,1356.61,Produto B,2025-06
+CUST0027,Cliente 27,Pequena Empresa,Centro-Oeste,SALE0696,2025-04-03 10:37:23.102041,2918.5,Serviço X,2025-04
+CUST0028,Cliente 28,Média Empresa,Nordeste,,,,,
+CUST0029,Cliente 29,Média Empresa,Sul,SALE0139,2025-02-16 10:37:23.100135,4921.76,Serviço Y,2025-02
+CUST0030,Cliente 30,Pequena Empresa,Nordeste,SALE0783,2025-06-18 10:37:23.102317,3727.4,Produto B,2025-06
+CUST0031,Cliente 31,Média Empresa,Sul,SALE0282,2025-03-19 10:37:23.100598,2224.09,Produto A,2025-03
+CUST0032,Cliente 32,Pequena Empresa,Sudeste,SALE0457,2025-07-26 10:37:23.101173,2314.44,Produto A,2025-07
+CUST0033,Cliente 33,Pequena Empresa,Nordeste,,,,,
+CUST0034,Cliente 34,Autônomo,Centro-Oeste,SALE0012,2025-04-22 10:37:23.099655,138.28,Serviço Y,2025-04
+CUST0035,Cliente 35,Autônomo,Centro-Oeste,,,,,
+CUST0036,Cliente 36,Grande Empresa,Norte,,,,,
+CUST0037,Cliente 37,Pequena Empresa,Sul,SALE0181,2025-07-17 10:37:23.100268,3592.04,Serviço X,2025-07
+CUST0038,Cliente 38,Pequena Empresa,Nordeste,,,,,
+CUST0039,Cliente 39,Média Empresa,Norte,SALE0610,2025-02-28 10:37:23.101721,3980.6,Produto A,2025-02
+CUST0040,Cliente 40,Média Empresa,Nordeste,SALE0250,2025-03-05 10:37:23.100485,153.61,Serviço X,2025-03
+CUST0041,Cliente 41,Pequena Empresa,Sul,,,,,
+CUST0042,Cliente 42,Média Empresa,Centro-Oeste,,,,,
+CUST0043,Cliente 43,Pequena Empresa,Sudeste,SALE0709,2025-04-19 10:37:23.102082,4535.24,Produto A,2025-04
+CUST0044,Cliente 44,Autônomo,Centro-Oeste,SALE0478,2025-07-18 10:37:23.101242,3302.47,Produto B,2025-07
+CUST0045,Cliente 45,Pequena Empresa,Norte,SALE0354,2025-05-15 10:37:23.100840,4025.13,Produto A,2025-05
+CUST0045,Cliente 45,Pequena Empresa,Norte,SALE0765,2025-05-09 10:37:23.102261,4469.08,Serviço Y,2025-05
+CUST0046,Cliente 46,Média Empresa,Sudeste,,,,,
+CUST0047,Cliente 47,Pequena Empresa,Norte,SALE0797,2025-06-20 10:37:23.102361,1772.67,Produto A,2025-06
+CUST0048,Cliente 48,Média Empresa,Sul,,,,,
+CUST0049,Cliente 49,Média Empresa,Sudeste,,,,,
+CUST0050,Cliente 50,Pequena Empresa,Norte,,,,,
+CUST0051,Cliente 51,Autônomo,Sul,SALE0442,2024-11-09 10:37:23.101125,2795.76,Produto B,2024-11
+CUST0052,Cliente 52,Grande Empresa,Centro-Oeste,SALE0674,2025-01-01 10:37:23.101972,3969.0,Serviço Y,2025-01
+CUST0052,Cliente 52,Grande Empresa,Centro-Oeste,SALE0701,2025-02-12 10:37:23.102057,1139.0,Serviço Y,2025-02
+CUST0053,Cliente 53,Autônomo,Sul,,,,,
+CUST0054,Cliente 54,Grande Empresa,Nordeste,,,,,
+CUST0055,Cliente 55,Média Empresa,Sul,,,,,
+CUST0056,Cliente 56,Autônomo,Sul,SALE0498,2024-12-31 10:37:23.101305,2186.67,Serviço X,2024-12
+CUST0057,Cliente 57,Pequena Empresa,Nordeste,SALE0270,2025-06-23 10:37:23.100548,1279.92,Serviço X,2025-06
+CUST0057,Cliente 57,Pequena Empresa,Nordeste,SALE0615,2024-12-02 10:37:23.101746,3726.52,Produto A,2024-12
+CUST0058,Cliente 58,Pequena Empresa,Norte,,,,,
+CUST0059,Cliente 59,Pequena Empresa,Norte,SALE0049,2024-11-30 10:37:23.099777,731.93,Produto B,2024-11
+CUST0059,Cliente 59,Pequena Empresa,Norte,SALE0068,2025-02-01 10:37:23.099837,4119.95,Serviço Y,2025-02
+CUST0060,Cliente 60,Pequena Empresa,Sul,,,,,
+CUST0061,Cliente 61,Pequena Empresa,Nordeste,,,,,
+CUST0062,Cliente 62,Pequena Empresa,Nordeste,,,,,
+CUST0063,Cliente 63,Grande Empresa,Centro-Oeste,SALE0748,2025-07-03 10:37:23.102207,3100.54,Produto A,2025-07
+CUST0064,Cliente 64,Pequena Empresa,Norte,,,,,
+CUST0065,Cliente 65,Pequena Empresa,Sudeste,SALE0775,2024-11-14 10:37:23.102292,2707.77,Produto A,2024-11
+CUST0066,Cliente 66,Média Empresa,Norte,,,,,
+CUST0067,Cliente 67,Pequena Empresa,Norte,,,,,
+CUST0068,Cliente 68,Grande Empresa,Centro-Oeste,SALE0577,2025-03-08 10:37:23.101568,2819.9,Serviço Y,2025-03
+CUST0069,Cliente 69,Pequena Empresa,Sudeste,SALE0069,2024-12-07 10:37:23.099841,1513.23,Serviço Y,2024-12
+CUST0069,Cliente 69,Pequena Empresa,Sudeste,SALE0180,2024-12-28 10:37:23.100265,1330.47,Produto A,2024-12
+CUST0069,Cliente 69,Pequena Empresa,Sudeste,SALE0611,2025-02-22 10:37:23.101725,4846.17,Serviço X,2025-02
+CUST0070,Cliente 70,Autônomo,Centro-Oeste,,,,,
+CUST0071,Cliente 71,Grande Empresa,Sudeste,,,,,
+CUST0072,Cliente 72,Pequena Empresa,Sul,SALE0237,2025-04-26 10:37:23.100445,4832.19,Serviço Y,2025-04
+CUST0072,Cliente 72,Pequena Empresa,Sul,SALE0350,2025-05-23 10:37:23.100827,1414.01,Serviço Y,2025-05
+CUST0073,Cliente 73,Pequena Empresa,Sudeste,,,,,
+CUST0074,Cliente 74,Grande Empresa,Centro-Oeste,,,,,
+CUST0075,Cliente 75,Grande Empresa,Norte,,,,,
+CUST0076,Cliente 76,Grande Empresa,Sudeste,SALE0660,2024-11-07 10:37:23.101927,502.2,Serviço Y,2024-11
+CUST0077,Cliente 77,Grande Empresa,Sudeste,SALE0367,2024-12-16 10:37:23.100882,4774.29,Serviço Y,2024-12
+CUST0077,Cliente 77,Grande Empresa,Sudeste,SALE0548,2025-01-27 10:37:23.101463,3037.98,Serviço Y,2025-01
+CUST0078,Cliente 78,Pequena Empresa,Nordeste,,,,,
+CUST0079,Cliente 79,Pequena Empresa,Norte,,,,,
+CUST0080,Cliente 80,Pequena Empresa,Sul,SALE0019,2025-05-03 10:37:23.099677,367.22,Serviço Y,2025-05
+CUST0081,Cliente 81,Grande Empresa,Centro-Oeste,SALE0299,2025-02-05 10:37:23.100653,809.42,Serviço Y,2025-02
+CUST0082,Cliente 82,Média Empresa,Sul,SALE0487,2024-11-11 10:37:23.101270,1393.23,Serviço Y,2024-11
+CUST0083,Cliente 83,Pequena Empresa,Norte,,,,,
+CUST0084,Cliente 84,Pequena Empresa,Sudeste,,,,,
+CUST0085,Cliente 85,Pequena Empresa,Sudeste,SALE0173,2024-10-27 10:37:23.100242,1559.15,Produto A,2024-10
+CUST0086,Cliente 86,Pequena Empresa,Norte,SALE0052,2025-06-24 10:37:23.099786,912.21,Serviço X,2025-06
+CUST0086,Cliente 86,Pequena Empresa,Norte,SALE0072,2025-02-22 10:37:23.099850,2950.19,Produto A,2025-02
+CUST0087,Cliente 87,Grande Empresa,Sudeste,,,,,
+CUST0088,Cliente 88,Média Empresa,Sudeste,SALE0503,2025-02-22 10:37:23.101320,213.61,Produto B,2025-02
+CUST0088,Cliente 88,Média Empresa,Sudeste,SALE0667,2025-07-14 10:37:23.101949,2674.8,Serviço Y,2025-07
+CUST0089,Cliente 89,Grande Empresa,Sudeste,,,,,
+CUST0090,Cliente 90,Média Empresa,Centro-Oeste,,,,,
+CUST0091,Cliente 91,Pequena Empresa,Centro-Oeste,,,,,
+CUST0092,Cliente 92,Grande Empresa,Nordeste,SALE0178,2025-01-28 10:37:23.100258,2260.68,Serviço X,2025-01
+CUST0092,Cliente 92,Grande Empresa,Nordeste,SALE0362,2024-10-29 10:37:23.100866,4173.26,Serviço X,2024-10
+CUST0093,Cliente 93,Grande Empresa,Sul,SALE0141,2025-04-08 10:37:23.100141,4993.06,Serviço Y,2025-04
+CUST0093,Cliente 93,Grande Empresa,Sul,SALE0698,2025-03-05 10:37:23.102047,2222.6,Produto B,2025-03
+CUST0094,Cliente 94,Média Empresa,Norte,SALE0241,2025-07-18 10:37:23.100457,2349.34,Serviço Y,2025-07
+CUST0095,Cliente 95,Grande Empresa,Norte,SALE0148,2025-01-19 10:37:23.100163,3325.18,Produto A,2025-01
+CUST0095,Cliente 95,Grande Empresa,Norte,SALE0586,2025-05-29 10:37:23.101597,1066.1,Produto B,2025-05
+CUST0096,Cliente 96,Média Empresa,Norte,,,,,
+CUST0097,Cliente 97,Média Empresa,Nordeste,,,,,
+CUST0098,Cliente 98,Média Empresa,Centro-Oeste,,,,,
+CUST0099,Cliente 99,Pequena Empresa,Nordeste,SALE0340,2025-05-04 10:37:23.100796,2835.07,Produto B,2025-05
+CUST0099,Cliente 99,Pequena Empresa,Nordeste,SALE0618,2025-07-21 10:37:23.101761,2085.7,Serviço Y,2025-07
+CUST0100,Cliente 100,Pequena Empresa,Norte,,,,,
+CUST0101,Cliente 101,Pequena Empresa,Sul,,,,,
+CUST0102,Cliente 102,Média Empresa,Sudeste,,,,,
+CUST0103,Cliente 103,Pequena Empresa,Centro-Oeste,,,,,
+CUST0104,Cliente 104,Média Empresa,Centro-Oeste,,,,,
+CUST0105,Cliente 105,Autônomo,Nordeste,SALE0752,2025-03-01 10:37:23.102220,1590.41,Produto B,2025-03
+CUST0105,Cliente 105,Autônomo,Nordeste,SALE0792,2024-11-07 10:37:23.102346,3183.49,Serviço X,2024-11
+CUST0106,Cliente 106,Pequena Empresa,Centro-Oeste,,,,,
+CUST0107,Cliente 107,Média Empresa,Norte,,,,,
+CUST0108,Cliente 108,Grande Empresa,Norte,SALE0286,2025-04-29 10:37:23.100610,4365.4,Produto A,2025-04
+CUST0109,Cliente 109,Pequena Empresa,Nordeste,,,,,
+CUST0110,Cliente 110,Pequena Empresa,Norte,,,,,
+CUST0111,Cliente 111,Pequena Empresa,Sul,,,,,
+CUST0112,Cliente 112,Pequena Empresa,Nordeste,SALE0028,2025-04-01 10:37:23.099706,2797.28,Produto A,2025-04
+CUST0112,Cliente 112,Pequena Empresa,Nordeste,SALE0381,2024-10-18 10:37:23.100926,328.56,Serviço X,2024-10
+CUST0113,Cliente 113,Autônomo,Sul,,,,,
+CUST0114,Cliente 114,Grande Empresa,Sudeste,,,,,
+CUST0115,Cliente 115,Média Empresa,Sul,SALE0525,2024-11-06 10:37:23.101390,1334.78,Serviço Y,2024-11
+CUST0116,Cliente 116,Grande Empresa,Sudeste,SALE0295,2024-11-14 10:37:23.100638,4766.91,Serviço X,2024-11
+CUST0117,Cliente 117,Grande Empresa,Sudeste,,,,,
+CUST0118,Cliente 118,Pequena Empresa,Sul,,,,,
+CUST0119,Cliente 119,Grande Empresa,Nordeste,SALE0626,2025-03-06 10:37:23.101801,140.78,Serviço Y,2025-03
+CUST0120,Cliente 120,Média Empresa,Norte,SALE0706,2025-04-17 10:37:23.102072,2938.01,Serviço X,2025-04
+CUST0121,Cliente 121,Grande Empresa,Norte,SALE0060,2024-11-27 10:37:23.099812,1293.23,Serviço X,2024-11
+CUST0122,Cliente 122,Grande Empresa,Sudeste,SALE0221,2024-12-26 10:37:23.100395,938.25,Serviço Y,2024-12
+CUST0123,Cliente 123,Pequena Empresa,Sudeste,,,,,
+CUST0124,Cliente 124,Pequena Empresa,Nordeste,,,,,
+CUST0125,Cliente 125,Pequena Empresa,Centro-Oeste,SALE0601,2025-04-17 10:37:23.101677,1881.22,Serviço Y,2025-04
+CUST0126,Cliente 126,Média Empresa,Sul,,,,,
+CUST0127,Cliente 127,Grande Empresa,Sudeste,,,,,
+CUST0128,Cliente 128,Grande Empresa,Norte,SALE0112,2024-12-23 10:37:23.100023,2721.1,Produto B,2024-12
+CUST0128,Cliente 128,Grande Empresa,Norte,SALE0301,2024-11-15 10:37:23.100659,389.09,Serviço Y,2024-11
+CUST0129,Cliente 129,Pequena Empresa,Nordeste,,,,,
+CUST0130,Cliente 130,Média Empresa,Sul,,,,,
+CUST0131,Cliente 131,Média Empresa,Nordeste,SALE0428,2025-07-23 10:37:23.101081,2137.69,Serviço X,2025-07
+CUST0131,Cliente 131,Média Empresa,Nordeste,SALE0741,2025-03-26 10:37:23.102185,3526.58,Produto B,2025-03
+CUST0132,Cliente 132,Pequena Empresa,Sul,,,,,
+CUST0133,Cliente 133,Pequena Empresa,Sul,,,,,
+CUST0134,Cliente 134,Pequena Empresa,Sudeste,SALE0318,2025-07-10 10:37:23.100726,1177.82,Produto B,2025-07
+CUST0135,Cliente 135,Autônomo,Nordeste,SALE0372,2025-01-02 10:37:23.100897,4515.51,Produto B,2025-01
+CUST0135,Cliente 135,Autônomo,Nordeste,SALE0488,2025-02-01 10:37:23.101273,966.78,Produto A,2025-02
+CUST0136,Cliente 136,Pequena Empresa,Nordeste,,,,,
+CUST0137,Cliente 137,Média Empresa,Norte,SALE0195,2025-07-26 10:37:23.100311,3459.4,Produto A,2025-07
+CUST0138,Cliente 138,Grande Empresa,Norte,,,,,
+CUST0139,Cliente 139,Pequena Empresa,Sudeste,SALE0164,2025-07-23 10:37:23.100214,797.03,Produto A,2025-07
+CUST0140,Cliente 140,Autônomo,Sudeste,SALE0184,2024-12-15 10:37:23.100277,4184.77,Produto B,2024-12
+CUST0141,Cliente 141,Autônomo,Centro-Oeste,SALE0495,2025-05-31 10:37:23.101295,577.47,Produto B,2025-05
+CUST0142,Cliente 142,Pequena Empresa,Norte,SALE0481,2025-02-27 10:37:23.101251,4111.46,Produto B,2025-02
+CUST0143,Cliente 143,Média Empresa,Sul,SALE0682,2025-07-04 10:37:23.101997,3018.61,Serviço Y,2025-07
+CUST0144,Cliente 144,Pequena Empresa,Nordeste,,,,,
+CUST0145,Cliente 145,Pequena Empresa,Sudeste,,,,,
+CUST0146,Cliente 146,Pequena Empresa,Nordeste,SALE0219,2025-02-28 10:37:23.100389,2750.01,Produto A,2025-02
+CUST0147,Cliente 147,Média Empresa,Nordeste,,,,,
+CUST0148,Cliente 148,Média Empresa,Centro-Oeste,,,,,
+CUST0149,Cliente 149,Pequena Empresa,Norte,SALE0058,2025-02-26 10:37:23.099805,2386.98,Produto B,2025-02
+CUST0149,Cliente 149,Pequena Empresa,Norte,SALE0639,2024-12-21 10:37:23.101860,3202.86,Serviço X,2024-12
+CUST0149,Cliente 149,Pequena Empresa,Norte,SALE0728,2025-07-27 10:37:23.102144,2474.97,Produto A,2025-07
+CUST0150,Cliente 150,Pequena Empresa,Sudeste,,,,,
+CUST0151,Cliente 151,Autônomo,Nordeste,,,,,
+CUST0152,Cliente 152,Pequena Empresa,Sudeste,,,,,
+CUST0153,Cliente 153,Pequena Empresa,Sul,,,,,
+CUST0154,Cliente 154,Média Empresa,Centro-Oeste,SALE0104,2024-10-15 10:37:23.099984,1728.7,Serviço Y,2024-10
+CUST0155,Cliente 155,Autônomo,Sul,SALE0522,2024-11-16 10:37:23.101380,1319.61,Serviço Y,2024-11
+CUST0155,Cliente 155,Autônomo,Sul,SALE0573,2025-04-01 10:37:23.101545,1713.05,Produto B,2025-04
+CUST0156,Cliente 156,Pequena Empresa,Sudeste,,,,,
+CUST0157,Cliente 157,Média Empresa,Sudeste,SALE0307,2024-12-17 10:37:23.100678,1162.07,Produto A,2024-12
+CUST0158,Cliente 158,Grande Empresa,Norte,SALE0342,2025-07-06 10:37:23.100802,2164.31,Serviço Y,2025-07
+CUST0159,Cliente 159,Pequena Empresa,Nordeste,SALE0116,2025-04-27 10:37:23.100036,942.76,Serviço Y,2025-04
+CUST0160,Cliente 160,Grande Empresa,Nordeste,SALE0446,2024-11-28 10:37:23.101138,1378.0,Serviço X,2024-11
+CUST0161,Cliente 161,Pequena Empresa,Sul,,,,,
+CUST0162,Cliente 162,Média Empresa,Centro-Oeste,,,,,
+CUST0163,Cliente 163,Média Empresa,Nordeste,,,,,
+CUST0164,Cliente 164,Média Empresa,Norte,SALE0564,2025-03-19 10:37:23.101517,83.59,Produto B,2025-03
+CUST0165,Cliente 165,Pequena Empresa,Sul,SALE0001,2025-03-31 10:37:23.099534,3236.21,Produto B,2025-03
+CUST0165,Cliente 165,Pequena Empresa,Sul,SALE0770,2025-01-02 10:37:23.102276,727.75,Produto B,2025-01
+CUST0166,Cliente 166,Grande Empresa,Sul,SALE0324,2025-01-16 10:37:23.100745,805.24,Produto A,2025-01
+CUST0167,Cliente 167,Pequena Empresa,Norte,SALE0126,2025-06-08 10:37:23.100072,3523.48,Produto A,2025-06
+CUST0168,Cliente 168,Pequena Empresa,Centro-Oeste,,,,,
+CUST0169,Cliente 169,Pequena Empresa,Norte,,,,,
+CUST0170,Cliente 170,Média Empresa,Centro-Oeste,SALE0259,2024-12-10 10:37:23.100513,838.98,Produto B,2024-12
+CUST0170,Cliente 170,Média Empresa,Centro-Oeste,SALE0393,2024-12-24 10:37:23.100969,2956.54,Serviço X,2024-12
+CUST0170,Cliente 170,Média Empresa,Centro-Oeste,SALE0609,2025-02-21 10:37:23.101716,3753.97,Serviço X,2025-02
+CUST0171,Cliente 171,Média Empresa,Norte,,,,,
+CUST0172,Cliente 172,Pequena Empresa,Norte,SALE0364,2024-11-22 10:37:23.100872,1623.9,Produto A,2024-11
+CUST0172,Cliente 172,Pequena Empresa,Norte,SALE0555,2024-10-21 10:37:23.101488,4982.43,Serviço X,2024-10
+CUST0173,Cliente 173,Média Empresa,Sudeste,,,,,
+CUST0174,Cliente 174,Pequena Empresa,Sul,,,,,
+CUST0175,Cliente 175,Média Empresa,Norte,SALE0523,2025-03-11 10:37:23.101384,2989.07,Produto B,2025-03
+CUST0176,Cliente 176,Pequena Empresa,Norte,SALE0120,2025-05-08 10:37:23.100048,112.35,Produto B,2025-05
+CUST0176,Cliente 176,Pequena Empresa,Norte,SALE0483,2025-01-13 10:37:23.101257,3789.38,Produto A,2025-01
+CUST0177,Cliente 177,Média Empresa,Nordeste,SALE0491,2025-03-22 10:37:23.101283,2596.3,Serviço Y,2025-03
+CUST0178,Cliente 178,Pequena Empresa,Sul,SALE0190,2025-06-22 10:37:23.100295,2989.68,Serviço X,2025-06
+CUST0178,Cliente 178,Pequena Empresa,Sul,SALE0605,2025-04-21 10:37:23.101696,1116.57,Produto A,2025-04
+CUST0179,Cliente 179,Autônomo,Nordeste,SALE0370,2024-11-26 10:37:23.100891,4612.86,Serviço Y,2024-11
+CUST0179,Cliente 179,Autônomo,Nordeste,SALE0623,2025-02-14 10:37:23.101786,3171.08,Produto A,2025-02
+CUST0180,Cliente 180,Pequena Empresa,Sul,SALE0055,2025-06-24 10:37:23.099796,1752.08,Serviço X,2025-06
+CUST0181,Cliente 181,Pequena Empresa,Nordeste,SALE0306,2024-12-30 10:37:23.100675,2257.44,Produto A,2024-12
+CUST0181,Cliente 181,Pequena Empresa,Nordeste,SALE0704,2025-03-17 10:37:23.102066,1651.96,Serviço X,2025-03
+CUST0182,Cliente 182,Pequena Empresa,Norte,SALE0134,2024-10-19 10:37:23.100119,4178.92,Produto B,2024-10
+CUST0183,Cliente 183,Autônomo,Norte,,,,,
+CUST0184,Cliente 184,Grande Empresa,Sudeste,SALE0077,2025-01-09 10:37:23.099866,2756.06,Serviço X,2025-01
+CUST0184,Cliente 184,Grande Empresa,Sudeste,SALE0147,2025-05-08 10:37:23.100160,1803.52,Produto A,2025-05
+CUST0185,Cliente 185,Pequena Empresa,Nordeste,SALE0650,2025-06-21 10:37:23.101895,1961.38,Serviço X,2025-06
+CUST0186,Cliente 186,Média Empresa,Centro-Oeste,SALE0439,2025-03-10 10:37:23.101115,1340.14,Produto A,2025-03
+CUST0187,Cliente 187,Grande Empresa,Sudeste,SALE0593,2025-06-03 10:37:23.101636,3903.89,Produto B,2025-06
+CUST0188,Cliente 188,Média Empresa,Nordeste,,,,,
+CUST0189,Cliente 189,Média Empresa,Nordeste,,,,,
+CUST0190,Cliente 190,Pequena Empresa,Sudeste,SALE0196,2025-01-27 10:37:23.100314,3371.43,Serviço X,2025-01
+CUST0191,Cliente 191,Pequena Empresa,Norte,,,,,
+CUST0192,Cliente 192,Grande Empresa,Nordeste,SALE0366,2025-03-26 10:37:23.100879,2580.93,Produto B,2025-03
+CUST0193,Cliente 193,Autônomo,Norte,SALE0771,2025-01-04 10:37:23.102280,1738.03,Produto B,2025-01
+CUST0194,Cliente 194,Média Empresa,Sudeste,,,,,
+CUST0195,Cliente 195,Pequena Empresa,Norte,,,,,
+CUST0196,Cliente 196,Pequena Empresa,Sul,SALE0412,2025-05-13 10:37:23.101030,2638.76,Produto B,2025-05
+CUST0197,Cliente 197,Grande Empresa,Centro-Oeste,SALE0714,2025-07-28 10:37:23.102097,1288.72,Serviço Y,2025-07
+CUST0198,Cliente 198,Grande Empresa,Nordeste,,,,,
+CUST0199,Cliente 199,Grande Empresa,Centro-Oeste,,,,,
+CUST0200,Cliente 200,Grande Empresa,Norte,,,,,
+CUST0201,Cliente 201,Média Empresa,Nordeste,,,,,
+CUST0202,Cliente 202,Pequena Empresa,Norte,SALE0003,2025-03-13 10:37:23.099620,2363.42,Produto A,2025-03
+CUST0203,Cliente 203,Pequena Empresa,Sul,,,,,
+CUST0204,Cliente 204,Grande Empresa,Sudeste,,,,,
+CUST0205,Cliente 205,Média Empresa,Nordeste,SALE0449,2025-02-15 10:37:23.101147,4201.59,Serviço Y,2025-02
+CUST0206,Cliente 206,Pequena Empresa,Sul,,,,,
+CUST0207,Cliente 207,Pequena Empresa,Sul,SALE0468,2025-02-20 10:37:23.101208,3908.9,Serviço X,2025-02
+CUST0208,Cliente 208,Média Empresa,Nordeste,SALE0426,2025-02-10 10:37:23.101074,1128.63,Produto B,2025-02
+CUST0208,Cliente 208,Média Empresa,Nordeste,SALE0447,2025-05-22 10:37:23.101141,4218.02,Produto A,2025-05
+CUST0209,Cliente 209,Pequena Empresa,Norte,,,,,
+CUST0210,Cliente 210,Pequena Empresa,Sul,,,,,
+CUST0211,Cliente 211,Média Empresa,Centro-Oeste,SALE0123,2024-12-28 10:37:23.100058,318.64,Produto B,2024-12
+CUST0212,Cliente 212,Média Empresa,Sul,SALE0736,2025-03-04 10:37:23.102169,3758.72,Produto A,2025-03
+CUST0213,Cliente 213,Média Empresa,Norte,SALE0320,2025-02-13 10:37:23.100732,1823.53,Serviço X,2025-02
+CUST0214,Cliente 214,Pequena Empresa,Norte,,,,,
+CUST0215,Cliente 215,Grande Empresa,Centro-Oeste,SALE0508,2025-01-20 10:37:23.101336,238.69,Produto B,2025-01
+CUST0216,Cliente 216,Pequena Empresa,Sul,,,,,
+CUST0217,Cliente 217,Pequena Empresa,Norte,SALE0011,2025-06-08 10:37:23.099651,3168.11,Serviço X,2025-06
+CUST0217,Cliente 217,Pequena Empresa,Norte,SALE0787,2025-06-12 10:37:23.102330,1001.26,Serviço Y,2025-06
+CUST0218,Cliente 218,Grande Empresa,Nordeste,SALE0271,2025-01-21 10:37:23.100551,3230.53,Produto B,2025-01
+CUST0219,Cliente 219,Média Empresa,Sudeste,,,,,
+CUST0220,Cliente 220,Grande Empresa,Sudeste,,,,,
+CUST0221,Cliente 221,Média Empresa,Sudeste,SALE0333,2025-07-22 10:37:23.100774,867.61,Serviço Y,2025-07
+CUST0221,Cliente 221,Média Empresa,Sudeste,SALE0386,2025-05-12 10:37:23.100946,2599.67,Produto A,2025-05
+CUST0221,Cliente 221,Média Empresa,Sudeste,SALE0679,2025-04-11 10:37:23.101988,50.92,Produto B,2025-04
+CUST0222,Cliente 222,Média Empresa,Sul,,,,,
+CUST0223,Cliente 223,Pequena Empresa,Centro-Oeste,,,,,
+CUST0224,Cliente 224,Pequena Empresa,Norte,,,,,
+CUST0225,Cliente 225,Pequena Empresa,Nordeste,,,,,
+CUST0226,Cliente 226,Pequena Empresa,Nordeste,,,,,
+CUST0227,Cliente 227,Autônomo,Sul,SALE0074,2024-11-09 10:37:23.099856,3688.36,Serviço X,2024-11
+CUST0227,Cliente 227,Autônomo,Sul,SALE0348,2025-05-12 10:37:23.100821,1509.58,Serviço X,2025-05
+CUST0228,Cliente 228,Pequena Empresa,Sudeste,SALE0462,2025-02-09 10:37:23.101189,3368.08,Produto B,2025-02
+CUST0229,Cliente 229,Grande Empresa,Sul,,,,,
+CUST0230,Cliente 230,Média Empresa,Centro-Oeste,,,,,
+CUST0231,Cliente 231,Grande Empresa,Centro-Oeste,SALE0520,2025-07-28 10:37:23.101374,2174.49,Produto B,2025-07
+CUST0232,Cliente 232,Média Empresa,Norte,SALE0536,2025-06-14 10:37:23.101426,3621.69,Serviço Y,2025-06
+CUST0232,Cliente 232,Média Empresa,Norte,SALE0669,2025-06-06 10:37:23.101955,3995.92,Produto B,2025-06
+CUST0233,Cliente 233,Média Empresa,Norte,SALE0131,2025-07-05 10:37:23.100105,3224.9,Serviço X,2025-07
+CUST0234,Cliente 234,Média Empresa,Centro-Oeste,SALE0048,2025-06-08 10:37:23.099774,2674.07,Produto A,2025-06
+CUST0234,Cliente 234,Média Empresa,Centro-Oeste,SALE0476,2025-05-29 10:37:23.101236,59.56,Produto A,2025-05
+CUST0234,Cliente 234,Média Empresa,Centro-Oeste,SALE0693,2025-02-08 10:37:23.102032,1993.91,Serviço Y,2025-02
+CUST0235,Cliente 235,Pequena Empresa,Centro-Oeste,SALE0304,2025-04-10 10:37:23.100669,3847.48,Produto B,2025-04
+CUST0236,Cliente 236,Grande Empresa,Centro-Oeste,SALE0612,2025-01-14 10:37:23.101731,2887.72,Produto A,2025-01
+CUST0237,Cliente 237,Pequena Empresa,Sul,,,,,
+CUST0238,Cliente 238,Pequena Empresa,Centro-Oeste,SALE0371,2025-05-04 10:37:23.100894,1898.22,Serviço X,2025-05
+CUST0239,Cliente 239,Média Empresa,Nordeste,,,,,
+CUST0240,Cliente 240,Pequena Empresa,Sudeste,,,,,
+CUST0241,Cliente 241,Autônomo,Centro-Oeste,,,,,
+CUST0242,Cliente 242,Autônomo,Sudeste,SALE0341,2025-06-12 10:37:23.100799,4024.68,Serviço X,2025-06
+CUST0242,Cliente 242,Autônomo,Sudeste,SALE0727,2024-11-12 10:37:23.102141,3009.66,Serviço X,2024-11
+CUST0243,Cliente 243,Autônomo,Sul,SALE0206,2025-04-13 10:37:23.100346,1515.52,Serviço X,2025-04
+CUST0243,Cliente 243,Autônomo,Sul,SALE0351,2025-03-19 10:37:23.100831,4014.01,Produto A,2025-03
+CUST0243,Cliente 243,Autônomo,Sul,SALE0493,2025-06-17 10:37:23.101289,222.66,Produto A,2025-06
+CUST0244,Cliente 244,Pequena Empresa,Sudeste,SALE0100,2025-04-28 10:37:23.099964,282.84,Serviço Y,2025-04
+CUST0245,Cliente 245,Pequena Empresa,Sul,SALE0517,2024-12-04 10:37:23.101364,4858.85,Serviço Y,2024-12
+CUST0246,Cliente 246,Autônomo,Nordeste,SALE0590,2025-03-09 10:37:23.101622,1345.04,Produto A,2025-03
+CUST0247,Cliente 247,Média Empresa,Sul,SALE0278,2025-04-25 10:37:23.100585,1281.64,Produto B,2025-04
+CUST0248,Cliente 248,Autônomo,Sul,,,,,
+CUST0249,Cliente 249,Autônomo,Norte,,,,,
+CUST0250,Cliente 250,Grande Empresa,Centro-Oeste,,,,,
+CUST0251,Cliente 251,Pequena Empresa,Centro-Oeste,SALE0050,2025-03-20 10:37:23.099780,1876.83,Produto A,2025-03
+CUST0252,Cliente 252,Pequena Empresa,Nordeste,SALE0022,2024-11-05 10:37:23.099687,2492.98,Produto B,2024-11
+CUST0252,Cliente 252,Pequena Empresa,Nordeste,SALE0222,2024-11-24 10:37:23.100398,175.83,Produto A,2024-11
+CUST0252,Cliente 252,Pequena Empresa,Nordeste,SALE0422,2024-12-24 10:37:23.101062,4711.09,Serviço Y,2024-12
+CUST0253,Cliente 253,Grande Empresa,Nordeste,,,,,
+CUST0254,Cliente 254,Pequena Empresa,Centro-Oeste,SALE0253,2025-02-16 10:37:23.100494,3032.5,Serviço X,2025-02
+CUST0255,Cliente 255,Pequena Empresa,Norte,SALE0172,2025-02-16 10:37:23.100239,4134.71,Serviço X,2025-02
+CUST0255,Cliente 255,Pequena Empresa,Norte,SALE0717,2025-07-14 10:37:23.102107,940.49,Serviço Y,2025-07
+CUST0255,Cliente 255,Pequena Empresa,Norte,SALE0724,2025-01-14 10:37:23.102129,317.15,Serviço Y,2025-01
+CUST0256,Cliente 256,Média Empresa,Centro-Oeste,SALE0063,2024-11-14 10:37:23.099821,1657.07,Serviço Y,2024-11
+CUST0256,Cliente 256,Média Empresa,Centro-Oeste,SALE0298,2025-07-25 10:37:23.100647,120.3,Produto B,2025-07
+CUST0256,Cliente 256,Média Empresa,Centro-Oeste,SALE0744,2024-11-03 10:37:23.102195,1051.27,Produto A,2024-11
+CUST0257,Cliente 257,Autônomo,Norte,SALE0202,2024-12-18 10:37:23.100333,63.37,Serviço X,2024-12
+CUST0257,Cliente 257,Autônomo,Norte,SALE0448,2025-03-25 10:37:23.101144,1602.2,Produto B,2025-03
+CUST0257,Cliente 257,Autônomo,Norte,SALE0574,2025-04-05 10:37:23.101548,814.74,Produto A,2025-04
+CUST0258,Cliente 258,Média Empresa,Nordeste,,,,,
+CUST0259,Cliente 259,Média Empresa,Sudeste,SALE0583,2025-03-10 10:37:23.101587,220.79,Produto B,2025-03
+CUST0259,Cliente 259,Média Empresa,Sudeste,SALE0757,2025-07-24 10:37:23.102236,107.28,Serviço Y,2025-07
+CUST0259,Cliente 259,Média Empresa,Sudeste,SALE0760,2024-11-01 10:37:23.102245,2372.99,Serviço X,2024-11
+CUST0260,Cliente 260,Pequena Empresa,Nordeste,SALE0263,2025-01-03 10:37:23.100526,2281.99,Produto A,2025-01
+CUST0260,Cliente 260,Pequena Empresa,Nordeste,SALE0713,2024-12-23 10:37:23.102094,2205.55,Serviço X,2024-12
+CUST0260,Cliente 260,Pequena Empresa,Nordeste,SALE0762,2025-04-05 10:37:23.102252,1870.55,Serviço X,2025-04
+CUST0261,Cliente 261,Média Empresa,Nordeste,,,,,
+CUST0262,Cliente 262,Autônomo,Sul,,,,,
+CUST0263,Cliente 263,Pequena Empresa,Sul,,,,,
+CUST0264,Cliente 264,Média Empresa,Sul,,,,,
+CUST0265,Cliente 265,Grande Empresa,Sul,SALE0156,2025-06-25 10:37:23.100189,1959.77,Serviço Y,2025-06
+CUST0266,Cliente 266,Grande Empresa,Norte,SALE0014,2024-11-21 10:37:23.099661,488.01,Serviço Y,2024-11
+CUST0266,Cliente 266,Grande Empresa,Norte,SALE0784,2025-05-27 10:37:23.102321,4504.29,Serviço Y,2025-05
+CUST0267,Cliente 267,Média Empresa,Centro-Oeste,,,,,
+CUST0268,Cliente 268,Grande Empresa,Sudeste,SALE0032,2025-04-01 10:37:23.099719,3939.48,Produto B,2025-04
+CUST0269,Cliente 269,Pequena Empresa,Nordeste,,,,,
+CUST0270,Cliente 270,Pequena Empresa,Norte,,,,,
+CUST0271,Cliente 271,Grande Empresa,Sudeste,SALE0043,2025-05-01 10:37:23.099754,932.34,Serviço X,2025-05
+CUST0271,Cliente 271,Grande Empresa,Sudeste,SALE0688,2024-11-23 10:37:23.102016,4665.83,Produto A,2024-11
+CUST0272,Cliente 272,Grande Empresa,Norte,SALE0293,2025-07-06 10:37:23.100632,1298.73,Serviço Y,2025-07
+CUST0273,Cliente 273,Grande Empresa,Norte,SALE0107,2025-05-25 10:37:23.100000,3612.49,Serviço X,2025-05
+CUST0274,Cliente 274,Autônomo,Nordeste,,,,,
+CUST0275,Cliente 275,Média Empresa,Centro-Oeste,,,,,
+CUST0276,Cliente 276,Média Empresa,Sul,,,,,
+CUST0277,Cliente 277,Grande Empresa,Centro-Oeste,SALE0579,2025-04-13 10:37:23.101574,4892.71,Serviço X,2025-04
+CUST0277,Cliente 277,Grande Empresa,Centro-Oeste,SALE0616,2025-06-13 10:37:23.101751,2100.83,Serviço Y,2025-06
+CUST0277,Cliente 277,Grande Empresa,Centro-Oeste,SALE0687,2025-05-30 10:37:23.102013,4166.41,Serviço Y,2025-05
+CUST0278,Cliente 278,Média Empresa,Nordeste,SALE0541,2024-12-05 10:37:23.101441,4416.73,Produto A,2024-12
+CUST0279,Cliente 279,Grande Empresa,Nordeste,,,,,
+CUST0280,Cliente 280,Grande Empresa,Nordeste,SALE0236,2024-11-18 10:37:23.100442,2478.71,Produto B,2024-11
+CUST0280,Cliente 280,Grande Empresa,Nordeste,SALE0375,2024-12-09 10:37:23.100907,1388.71,Produto B,2024-12
+CUST0281,Cliente 281,Grande Empresa,Sudeste,SALE0368,2025-04-01 10:37:23.100885,2418.99,Produto B,2025-04
+CUST0282,Cliente 282,Pequena Empresa,Centro-Oeste,SALE0027,2025-02-22 10:37:23.099703,3578.22,Serviço Y,2025-02
+CUST0283,Cliente 283,Pequena Empresa,Centro-Oeste,,,,,
+CUST0284,Cliente 284,Pequena Empresa,Norte,,,,,
+CUST0285,Cliente 285,Média Empresa,Norte,,,,,
+CUST0286,Cliente 286,Pequena Empresa,Norte,,,,,
+CUST0287,Cliente 287,Média Empresa,Nordeste,,,,,
+CUST0288,Cliente 288,Média Empresa,Centro-Oeste,,,,,
+CUST0289,Cliente 289,Pequena Empresa,Nordeste,,,,,
+CUST0290,Cliente 290,Média Empresa,Sudeste,,,,,
+CUST0291,Cliente 291,Pequena Empresa,Norte,,,,,
+CUST0292,Cliente 292,Pequena Empresa,Nordeste,,,,,
+CUST0293,Cliente 293,Grande Empresa,Nordeste,SALE0086,2025-06-13 10:37:23.099895,3181.85,Produto B,2025-06
+CUST0293,Cliente 293,Grande Empresa,Nordeste,SALE0087,2025-07-07 10:37:23.099900,4321.25,Produto A,2025-07
+CUST0293,Cliente 293,Grande Empresa,Nordeste,SALE0649,2025-02-18 10:37:23.101892,4765.69,Produto A,2025-02
+CUST0294,Cliente 294,Pequena Empresa,Sudeste,,,,,
+CUST0295,Cliente 295,Pequena Empresa,Sul,,,,,
+CUST0296,Cliente 296,Média Empresa,Centro-Oeste,,,,,
+CUST0297,Cliente 297,Grande Empresa,Sul,,,,,
+CUST0298,Cliente 298,Pequena Empresa,Norte,SALE0034,2025-03-17 10:37:23.099725,1811.44,Produto A,2025-03
+CUST0298,Cliente 298,Pequena Empresa,Norte,SALE0690,2025-06-21 10:37:23.102022,4222.6,Serviço Y,2025-06
+CUST0299,Cliente 299,Média Empresa,Nordeste,SALE0730,2024-11-24 10:37:23.102150,3141.76,Produto B,2024-11
+CUST0300,Cliente 300,Pequena Empresa,Sudeste,SALE0414,2025-07-25 10:37:23.101036,2034.18,Produto A,2025-07
+CUST0300,Cliente 300,Pequena Empresa,Sudeste,SALE0529,2025-07-12 10:37:23.101403,1502.31,Serviço Y,2025-07
+CUST0301,Cliente 301,Pequena Empresa,Sudeste,,,,,
+CUST0302,Cliente 302,Média Empresa,Centro-Oeste,,,,,
+CUST0303,Cliente 303,Média Empresa,Sul,SALE0544,2025-05-12 10:37:23.101451,1853.71,Produto B,2025-05
+CUST0304,Cliente 304,Média Empresa,Centro-Oeste,SALE0130,2024-12-23 10:37:23.100099,4488.03,Produto B,2024-12
+CUST0304,Cliente 304,Média Empresa,Centro-Oeste,SALE0388,2025-03-26 10:37:23.100952,3265.19,Serviço Y,2025-03
+CUST0305,Cliente 305,Grande Empresa,Nordeste,,,,,
+CUST0306,Cliente 306,Autônomo,Centro-Oeste,,,,,
+CUST0307,Cliente 307,Média Empresa,Sudeste,SALE0584,2025-02-26 10:37:23.101590,1476.22,Produto A,2025-02
+CUST0308,Cliente 308,Pequena Empresa,Sudeste,SALE0334,2025-06-24 10:37:23.100777,4611.1,Produto A,2025-06
+CUST0308,Cliente 308,Pequena Empresa,Sudeste,SALE0421,2025-05-31 10:37:23.101059,4830.9,Serviço X,2025-05
+CUST0309,Cliente 309,Grande Empresa,Norte,SALE0067,2024-11-05 10:37:23.099834,1180.62,Produto A,2024-11
+CUST0309,Cliente 309,Grande Empresa,Norte,SALE0519,2025-03-10 10:37:23.101371,1561.5,Produto A,2025-03
+CUST0309,Cliente 309,Grande Empresa,Norte,SALE0700,2025-03-20 10:37:23.102053,3060.66,Produto B,2025-03
+CUST0310,Cliente 310,Pequena Empresa,Norte,,,,,
+CUST0311,Cliente 311,Média Empresa,Nordeste,SALE0225,2025-04-17 10:37:23.100407,355.13,Serviço X,2025-04
+CUST0311,Cliente 311,Média Empresa,Nordeste,SALE0527,2025-02-16 10:37:23.101396,208.71,Serviço X,2025-02
+CUST0311,Cliente 311,Média Empresa,Nordeste,SALE0749,2025-06-21 10:37:23.102211,4683.93,Serviço X,2025-06
+CUST0312,Cliente 312,Pequena Empresa,Sul,,,,,
+CUST0313,Cliente 313,Pequena Empresa,Centro-Oeste,,,,,
+CUST0314,Cliente 314,Autônomo,Nordeste,,,,,
+CUST0315,Cliente 315,Grande Empresa,Norte,,,,,
+CUST0316,Cliente 316,Média Empresa,Centro-Oeste,,,,,
+CUST0317,Cliente 317,Média Empresa,Norte,SALE0035,2025-04-18 10:37:23.099728,1286.89,Serviço X,2025-04
+CUST0317,Cliente 317,Média Empresa,Norte,SALE0654,2024-10-18 10:37:23.101908,4128.7,Produto A,2024-10
+CUST0318,Cliente 318,Pequena Empresa,Centro-Oeste,SALE0081,2024-11-14 10:37:23.099879,4023.26,Produto B,2024-11
+CUST0318,Cliente 318,Pequena Empresa,Centro-Oeste,SALE0469,2025-02-08 10:37:23.101213,2897.28,Produto A,2025-02
+CUST0319,Cliente 319,Pequena Empresa,Sul,SALE0010,2024-11-27 10:37:23.099648,3359.02,Serviço Y,2024-11
+CUST0319,Cliente 319,Pequena Empresa,Sul,SALE0702,2025-02-14 10:37:23.102060,2422.12,Serviço Y,2025-02
+CUST0320,Cliente 320,Pequena Empresa,Nordeste,SALE0788,2025-04-24 10:37:23.102333,479.4,Serviço Y,2025-04
+CUST0321,Cliente 321,Média Empresa,Centro-Oeste,,,,,
+CUST0322,Cliente 322,Grande Empresa,Sudeste,SALE0079,2025-07-10 10:37:23.099873,297.68,Serviço X,2025-07
+CUST0323,Cliente 323,Média Empresa,Sudeste,SALE0220,2024-11-30 10:37:23.100392,4752.84,Serviço X,2024-11
+CUST0324,Cliente 324,Pequena Empresa,Centro-Oeste,SALE0656,2025-01-18 10:37:23.101914,1034.64,Serviço Y,2025-01
+CUST0325,Cliente 325,Autônomo,Centro-Oeste,SALE0390,2025-04-03 10:37:23.100959,2153.73,Produto B,2025-04
+CUST0325,Cliente 325,Autônomo,Centro-Oeste,SALE0621,2025-01-31 10:37:23.101776,4819.25,Serviço X,2025-01
+CUST0326,Cliente 326,Grande Empresa,Centro-Oeste,,,,,
+CUST0327,Cliente 327,Média Empresa,Sudeste,SALE0132,2025-06-24 10:37:23.100111,3862.15,Serviço X,2025-06
+CUST0327,Cliente 327,Média Empresa,Sudeste,SALE0557,2025-02-23 10:37:23.101495,2073.27,Produto A,2025-02
+CUST0328,Cliente 328,Média Empresa,Sudeste,SALE0785,2025-05-30 10:37:23.102324,4101.09,Serviço X,2025-05
+CUST0329,Cliente 329,Média Empresa,Centro-Oeste,SALE0742,2024-11-04 10:37:23.102188,1431.47,Produto A,2024-11
+CUST0330,Cliente 330,Pequena Empresa,Norte,SALE0145,2025-01-31 10:37:23.100154,1402.98,Serviço X,2025-01
+CUST0330,Cliente 330,Pequena Empresa,Norte,SALE0794,2025-06-30 10:37:23.102352,1333.24,Produto A,2025-06
+CUST0331,Cliente 331,Pequena Empresa,Norte,SALE0769,2025-07-11 10:37:23.102273,2584.56,Produto B,2025-07
+CUST0332,Cliente 332,Grande Empresa,Sul,,,,,
+CUST0333,Cliente 333,Pequena Empresa,Nordeste,,,,,
+CUST0334,Cliente 334,Pequena Empresa,Norte,SALE0136,2024-12-25 10:37:23.100126,1104.63,Serviço Y,2024-12
+CUST0335,Cliente 335,Pequena Empresa,Sudeste,,,,,
+CUST0336,Cliente 336,Pequena Empresa,Norte,SALE0245,2025-07-04 10:37:23.100469,3660.66,Serviço X,2025-07
+CUST0336,Cliente 336,Pequena Empresa,Norte,SALE0719,2025-02-20 10:37:23.102113,3768.18,Produto B,2025-02
+CUST0337,Cliente 337,Grande Empresa,Sul,SALE0602,2025-06-06 10:37:23.101682,1430.88,Produto B,2025-06
+CUST0338,Cliente 338,Grande Empresa,Sul,,,,,
+CUST0339,Cliente 339,Média Empresa,Nordeste,SALE0243,2025-03-27 10:37:23.100463,903.33,Serviço Y,2025-03
+CUST0340,Cliente 340,Pequena Empresa,Norte,,,,,
+CUST0341,Cliente 341,Média Empresa,Sudeste,SALE0269,2024-10-23 10:37:23.100544,4666.09,Serviço X,2024-10
+CUST0341,Cliente 341,Média Empresa,Sudeste,SALE0603,2025-03-24 10:37:23.101686,942.92,Produto A,2025-03
+CUST0342,Cliente 342,Média Empresa,Sudeste,SALE0198,2025-03-16 10:37:23.100320,88.53,Serviço Y,2025-03
+CUST0343,Cliente 343,Pequena Empresa,Centro-Oeste,SALE0212,2025-04-12 10:37:23.100364,1088.39,Serviço Y,2025-04
+CUST0344,Cliente 344,Média Empresa,Sudeste,SALE0578,2025-04-18 10:37:23.101571,3344.27,Serviço X,2025-04
+CUST0345,Cliente 345,Pequena Empresa,Nordeste,,,,,
+CUST0346,Cliente 346,Média Empresa,Nordeste,SALE0005,2025-03-20 10:37:23.099628,3986.32,Serviço Y,2025-03
+CUST0347,Cliente 347,Média Empresa,Sudeste,SALE0231,2025-06-10 10:37:23.100426,1252.69,Serviço X,2025-06
+CUST0347,Cliente 347,Média Empresa,Sudeste,SALE0554,2024-11-15 10:37:23.101485,635.81,Serviço X,2024-11
+CUST0348,Cliente 348,Pequena Empresa,Sudeste,SALE0323,2025-06-09 10:37:23.100742,1257.02,Produto B,2025-06
+CUST0348,Cliente 348,Pequena Empresa,Sudeste,SALE0326,2024-12-16 10:37:23.100751,2364.34,Produto A,2024-12
+CUST0348,Cliente 348,Pequena Empresa,Sudeste,SALE0474,2025-01-12 10:37:23.101229,3218.15,Produto B,2025-01
+CUST0349,Cliente 349,Pequena Empresa,Centro-Oeste,,,,,
+CUST0350,Cliente 350,Média Empresa,Sudeste,,,,,
+CUST0351,Cliente 351,Média Empresa,Centro-Oeste,,,,,
+CUST0352,Cliente 352,Grande Empresa,Centro-Oeste,,,,,
+CUST0353,Cliente 353,Média Empresa,Sudeste,SALE0152,2025-05-28 10:37:23.100176,3497.37,Serviço X,2025-05
+CUST0353,Cliente 353,Média Empresa,Sudeste,SALE0542,2025-06-06 10:37:23.101444,2895.6,Produto B,2025-06
+CUST0354,Cliente 354,Pequena Empresa,Sul,,,,,
+CUST0355,Cliente 355,Pequena Empresa,Sul,,,,,
+CUST0356,Cliente 356,Média Empresa,Centro-Oeste,,,,,
+CUST0357,Cliente 357,Pequena Empresa,Sudeste,SALE0129,2025-04-12 10:37:23.100092,1561.36,Produto A,2025-04
+CUST0358,Cliente 358,Média Empresa,Sul,,,,,
+CUST0359,Cliente 359,Autônomo,Sudeste,SALE0251,2025-05-21 10:37:23.100488,3040.37,Produto A,2025-05
+CUST0360,Cliente 360,Média Empresa,Sudeste,,,,,
+CUST0361,Cliente 361,Pequena Empresa,Sudeste,,,,,
+CUST0362,Cliente 362,Média Empresa,Norte,,,,,
+CUST0363,Cliente 363,Média Empresa,Sudeste,SALE0684,2025-04-09 10:37:23.102004,1553.48,Serviço X,2025-04
+CUST0364,Cliente 364,Média Empresa,Norte,SALE0369,2025-04-25 10:37:23.100888,3510.58,Produto B,2025-04
+CUST0365,Cliente 365,Autônomo,Centro-Oeste,SALE0041,2025-03-28 10:37:23.099747,4887.98,Serviço X,2025-03
+CUST0366,Cliente 366,Pequena Empresa,Sul,SALE0006,2025-07-11 10:37:23.099631,4846.74,Serviço X,2025-07
+CUST0366,Cliente 366,Pequena Empresa,Sul,SALE0239,2025-04-19 10:37:23.100451,1458.82,Serviço Y,2025-04
+CUST0367,Cliente 367,Autônomo,Sul,,,,,
+CUST0368,Cliente 368,Autônomo,Sul,SALE0283,2025-04-04 10:37:23.100601,4224.15,Produto A,2025-04
+CUST0369,Cliente 369,Pequena Empresa,Sul,,,,,
+CUST0370,Cliente 370,Pequena Empresa,Sul,,,,,
+CUST0371,Cliente 371,Pequena Empresa,Sul,SALE0356,2025-05-21 10:37:23.100847,1006.13,Produto A,2025-05
+CUST0371,Cliente 371,Pequena Empresa,Sul,SALE0379,2025-05-10 10:37:23.100919,3021.25,Serviço Y,2025-05
+CUST0372,Cliente 372,Pequena Empresa,Sul,SALE0565,2025-05-03 10:37:23.101520,265.11,Serviço Y,2025-05
+CUST0373,Cliente 373,Pequena Empresa,Centro-Oeste,SALE0113,2024-12-17 10:37:23.100026,688.73,Serviço Y,2024-12
+CUST0373,Cliente 373,Pequena Empresa,Centro-Oeste,SALE0242,2025-07-24 10:37:23.100460,4895.7,Serviço X,2025-07
+CUST0373,Cliente 373,Pequena Empresa,Centro-Oeste,SALE0280,2025-02-19 10:37:23.100591,3564.03,Produto A,2025-02
+CUST0373,Cliente 373,Pequena Empresa,Centro-Oeste,SALE0597,2024-12-03 10:37:23.101657,2835.21,Serviço X,2024-12
+CUST0374,Cliente 374,Média Empresa,Sudeste,SALE0774,2024-11-21 10:37:23.102289,4578.03,Serviço Y,2024-11
+CUST0375,Cliente 375,Pequena Empresa,Nordeste,SALE0394,2025-06-05 10:37:23.100972,2408.62,Produto A,2025-06
+CUST0376,Cliente 376,Pequena Empresa,Norte,,,,,
+CUST0377,Cliente 377,Grande Empresa,Nordeste,,,,,
+CUST0378,Cliente 378,Pequena Empresa,Nordeste,SALE0030,2024-10-20 10:37:23.099712,3030.74,Serviço Y,2024-10
+CUST0378,Cliente 378,Pequena Empresa,Nordeste,SALE0562,2025-01-12 10:37:23.101511,469.41,Produto A,2025-01
+CUST0379,Cliente 379,Grande Empresa,Sudeste,SALE0214,2024-12-23 10:37:23.100372,2350.39,Serviço Y,2024-12
+CUST0380,Cliente 380,Pequena Empresa,Sudeste,,,,,
+CUST0381,Cliente 381,Pequena Empresa,Sudeste,SALE0396,2024-11-26 10:37:23.100978,3622.16,Serviço Y,2024-11
+CUST0381,Cliente 381,Pequena Empresa,Sudeste,SALE0614,2025-03-22 10:37:23.101741,4317.94,Produto B,2025-03
+CUST0382,Cliente 382,Média Empresa,Sul,SALE0235,2024-12-18 10:37:23.100438,1308.18,Serviço X,2024-12
+CUST0382,Cliente 382,Média Empresa,Sul,SALE0572,2025-03-08 10:37:23.101542,2442.39,Produto A,2025-03
+CUST0382,Cliente 382,Média Empresa,Sul,SALE0685,2025-04-14 10:37:23.102007,1717.12,Serviço X,2025-04
+CUST0383,Cliente 383,Média Empresa,Centro-Oeste,SALE0492,2025-06-17 10:37:23.101286,1321.01,Produto B,2025-06
+CUST0383,Cliente 383,Média Empresa,Centro-Oeste,SALE0521,2024-12-26 10:37:23.101377,1558.83,Serviço Y,2024-12
+CUST0384,Cliente 384,Grande Empresa,Sul,,,,,
+CUST0385,Cliente 385,Grande Empresa,Centro-Oeste,SALE0411,2025-02-09 10:37:23.101027,4506.16,Serviço X,2025-02
+CUST0386,Cliente 386,Grande Empresa,Centro-Oeste,,,,,
+CUST0387,Cliente 387,Pequena Empresa,Nordeste,SALE0461,2024-11-07 10:37:23.101185,1778.34,Serviço Y,2024-11
+CUST0387,Cliente 387,Pequena Empresa,Nordeste,SALE0776,2025-04-09 10:37:23.102295,3652.43,Serviço X,2025-04
+CUST0388,Cliente 388,Pequena Empresa,Nordeste,SALE0071,2025-07-28 10:37:23.099847,2590.42,Produto B,2025-07
+CUST0389,Cliente 389,Grande Empresa,Centro-Oeste,,,,,
+CUST0390,Cliente 390,Grande Empresa,Centro-Oeste,SALE0054,2025-04-21 10:37:23.099793,3491.61,Serviço X,2025-04
+CUST0390,Cliente 390,Grande Empresa,Centro-Oeste,SALE0526,2025-01-25 10:37:23.101393,3323.84,Produto B,2025-01
+CUST0391,Cliente 391,Autônomo,Sul,SALE0403,2024-12-25 10:37:23.101001,1319.4,Produto B,2024-12
+CUST0391,Cliente 391,Autônomo,Sul,SALE0581,2025-06-11 10:37:23.101581,3236.56,Serviço X,2025-06
+CUST0392,Cliente 392,Média Empresa,Sul,,,,,
+CUST0393,Cliente 393,Pequena Empresa,Nordeste,SALE0735,2025-05-15 10:37:23.102166,3040.34,Serviço X,2025-05
+CUST0394,Cliente 394,Grande Empresa,Sudeste,,,,,
+CUST0395,Cliente 395,Pequena Empresa,Centro-Oeste,,,,,
+CUST0396,Cliente 396,Autônomo,Sul,SALE0678,2025-05-26 10:37:23.101985,4294.55,Produto A,2025-05
+CUST0397,Cliente 397,Grande Empresa,Nordeste,,,,,
+CUST0398,Cliente 398,Média Empresa,Sul,SALE0256,2024-11-04 10:37:23.100504,1091.41,Produto B,2024-11
+CUST0398,Cliente 398,Média Empresa,Sul,SALE0292,2025-04-08 10:37:23.100629,830.63,Produto A,2025-04
+CUST0398,Cliente 398,Média Empresa,Sul,SALE0328,2025-03-19 10:37:23.100757,2274.94,Serviço Y,2025-03
+CUST0398,Cliente 398,Média Empresa,Sul,SALE0655,2025-02-26 10:37:23.101911,3401.65,Produto A,2025-02
+CUST0399,Cliente 399,Grande Empresa,Centro-Oeste,SALE0083,2025-08-03 10:37:23.099886,1264.26,Produto B,2025-08
+CUST0399,Cliente 399,Grande Empresa,Centro-Oeste,SALE0790,2025-06-20 10:37:23.102339,688.57,Serviço X,2025-06
+CUST0400,Cliente 400,Grande Empresa,Centro-Oeste,SALE0315,2025-07-24 10:37:23.100716,4551.83,Serviço X,2025-07
+CUST0401,Cliente 401,Pequena Empresa,Norte,SALE0024,2025-04-18 10:37:23.099693,2016.35,Produto A,2025-04
+CUST0401,Cliente 401,Pequena Empresa,Norte,SALE0773,2025-07-23 10:37:23.102286,4114.94,Produto B,2025-07
+CUST0402,Cliente 402,Autônomo,Sudeste,,,,,
+CUST0403,Cliente 403,Média Empresa,Norte,,,,,
+CUST0404,Cliente 404,Grande Empresa,Nordeste,SALE0533,2025-03-22 10:37:23.101416,2533.48,Serviço Y,2025-03
+CUST0405,Cliente 405,Pequena Empresa,Sul,,,,,
+CUST0406,Cliente 406,Grande Empresa,Nordeste,SALE0599,2024-11-12 10:37:23.101667,1125.26,Serviço X,2024-11
+CUST0407,Cliente 407,Pequena Empresa,Centro-Oeste,SALE0750,2025-01-05 10:37:23.102214,4798.93,Produto A,2025-01
+CUST0408,Cliente 408,Pequena Empresa,Norte,SALE0600,2025-04-26 10:37:23.101672,3584.95,Serviço X,2025-04
+CUST0409,Cliente 409,Autônomo,Norte,SALE0455,2024-10-24 10:37:23.101166,3852.62,Serviço Y,2024-10
+CUST0410,Cliente 410,Pequena Empresa,Norte,,,,,
+CUST0411,Cliente 411,Pequena Empresa,Nordeste,,,,,
+CUST0412,Cliente 412,Autônomo,Centro-Oeste,SALE0095,2024-11-11 10:37:23.099940,195.91,Serviço X,2024-11
+CUST0412,Cliente 412,Autônomo,Centro-Oeste,SALE0759,2025-04-05 10:37:23.102242,3134.65,Serviço X,2025-04
+CUST0413,Cliente 413,Autônomo,Sul,SALE0021,2024-12-19 10:37:23.099683,3839.74,Serviço X,2024-12
+CUST0414,Cliente 414,Média Empresa,Sul,,,,,
+CUST0415,Cliente 415,Média Empresa,Nordeste,SALE0209,2025-07-09 10:37:23.100355,4168.35,Produto A,2025-07
+CUST0415,Cliente 415,Média Empresa,Nordeste,SALE0780,2025-02-12 10:37:23.102308,2291.2,Serviço X,2025-02
+CUST0416,Cliente 416,Média Empresa,Norte,,,,,
+CUST0417,Cliente 417,Pequena Empresa,Sudeste,SALE0281,2025-04-13 10:37:23.100595,102.93,Produto B,2025-04
+CUST0418,Cliente 418,Pequena Empresa,Nordeste,SALE0289,2025-02-18 10:37:23.100619,3452.49,Serviço Y,2025-02
+CUST0419,Cliente 419,Média Empresa,Nordeste,SALE0502,2024-12-02 10:37:23.101317,3253.2,Produto B,2024-12
+CUST0420,Cliente 420,Grande Empresa,Centro-Oeste,SALE0101,2025-06-29 10:37:23.099969,4401.6,Produto A,2025-06
+CUST0421,Cliente 421,Grande Empresa,Sul,SALE0319,2025-03-03 10:37:23.100729,2476.6,Produto A,2025-03
+CUST0422,Cliente 422,Grande Empresa,Nordeste,,,,,
+CUST0423,Cliente 423,Pequena Empresa,Nordeste,SALE0349,2025-07-17 10:37:23.100824,4571.39,Produto A,2025-07
+CUST0424,Cliente 424,Média Empresa,Norte,SALE0106,2025-03-04 10:37:23.099995,2921.19,Serviço Y,2025-03
+CUST0424,Cliente 424,Média Empresa,Norte,SALE0569,2025-08-02 10:37:23.101533,4200.58,Produto A,2025-08
+CUST0425,Cliente 425,Pequena Empresa,Norte,SALE0648,2025-04-04 10:37:23.101889,4495.81,Serviço X,2025-04
+CUST0426,Cliente 426,Média Empresa,Sudeste,,,,,
+CUST0427,Cliente 427,Média Empresa,Centro-Oeste,,,,,
+CUST0428,Cliente 428,Grande Empresa,Sudeste,SALE0680,2025-03-06 10:37:23.101991,1844.04,Produto B,2025-03
+CUST0429,Cliente 429,Pequena Empresa,Norte,,,,,
+CUST0430,Cliente 430,Pequena Empresa,Sul,,,,,
+CUST0431,Cliente 431,Pequena Empresa,Norte,SALE0652,2025-01-02 10:37:23.101902,3118.49,Serviço Y,2025-01
+CUST0432,Cliente 432,Grande Empresa,Centro-Oeste,,,,,
+CUST0433,Cliente 433,Média Empresa,Norte,,,,,
+CUST0434,Cliente 434,Pequena Empresa,Centro-Oeste,,,,,
+CUST0435,Cliente 435,Pequena Empresa,Centro-Oeste,SALE0331,2024-10-22 10:37:23.100767,3546.53,Produto A,2024-10
+CUST0436,Cliente 436,Grande Empresa,Centro-Oeste,,,,,
+CUST0437,Cliente 437,Pequena Empresa,Centro-Oeste,SALE0244,2024-10-15 10:37:23.100466,1819.54,Serviço X,2024-10
+CUST0437,Cliente 437,Pequena Empresa,Centro-Oeste,SALE0391,2025-03-19 10:37:23.100962,746.85,Produto B,2025-03
+CUST0438,Cliente 438,Grande Empresa,Centro-Oeste,SALE0392,2025-04-26 10:37:23.100965,2590.53,Serviço X,2025-04
+CUST0439,Cliente 439,Grande Empresa,Sul,,,,,
+CUST0440,Cliente 440,Pequena Empresa,Sudeste,SALE0497,2025-06-26 10:37:23.101301,254.19,Serviço X,2025-06
+CUST0441,Cliente 441,Pequena Empresa,Nordeste,,,,,
+CUST0442,Cliente 442,Autônomo,Sudeste,,,,,
+CUST0443,Cliente 443,Pequena Empresa,Centro-Oeste,,,,,
+CUST0444,Cliente 444,Pequena Empresa,Sul,,,,,
+CUST0445,Cliente 445,Grande Empresa,Norte,,,,,
+CUST0446,Cliente 446,Autônomo,Sul,SALE0070,2024-11-16 10:37:23.099844,3541.55,Serviço X,2024-11
+CUST0447,Cliente 447,Autônomo,Centro-Oeste,SALE0090,2025-03-04 10:37:23.099916,2490.49,Serviço X,2025-03
+CUST0447,Cliente 447,Autônomo,Centro-Oeste,SALE0124,2025-04-28 10:37:23.100061,3003.32,Serviço X,2025-04
+CUST0448,Cliente 448,Grande Empresa,Sul,SALE0008,2024-11-09 10:37:23.099639,2889.58,Produto A,2024-11
+CUST0449,Cliente 449,Pequena Empresa,Sul,SALE0485,2025-06-11 10:37:23.101264,2410.35,Produto A,2025-06
+CUST0449,Cliente 449,Pequena Empresa,Sul,SALE0582,2024-11-29 10:37:23.101584,1708.71,Produto B,2024-11
+CUST0450,Cliente 450,Pequena Empresa,Centro-Oeste,,,,,
+CUST0451,Cliente 451,Grande Empresa,Sul,,,,,
+CUST0452,Cliente 452,Média Empresa,Nordeste,,,,,
+CUST0453,Cliente 453,Média Empresa,Nordeste,SALE0734,2025-08-04 10:37:23.102163,4831.98,Produto A,2025-08
+CUST0454,Cliente 454,Autônomo,Sul,SALE0308,2025-05-05 10:37:23.100681,3647.97,Serviço X,2025-05
+CUST0454,Cliente 454,Autônomo,Sul,SALE0437,2024-12-03 10:37:23.101109,2617.26,Produto B,2024-12
+CUST0455,Cliente 455,Pequena Empresa,Norte,SALE0630,2025-07-11 10:37:23.101823,791.7,Produto A,2025-07
+CUST0456,Cliente 456,Média Empresa,Centro-Oeste,,,,,
+CUST0457,Cliente 457,Pequena Empresa,Nordeste,SALE0496,2025-05-15 10:37:23.101298,4534.65,Produto B,2025-05
+CUST0458,Cliente 458,Média Empresa,Norte,SALE0174,2025-06-14 10:37:23.100246,4951.37,Produto A,2025-06
+CUST0459,Cliente 459,Pequena Empresa,Sul,SALE0266,2025-06-14 10:37:23.100535,3534.51,Produto A,2025-06
+CUST0460,Cliente 460,Pequena Empresa,Norte,SALE0127,2024-11-30 10:37:23.100077,310.58,Serviço Y,2024-11
+CUST0461,Cliente 461,Pequena Empresa,Sudeste,SALE0622,2025-03-22 10:37:23.101781,4555.85,Produto A,2025-03
+CUST0462,Cliente 462,Média Empresa,Nordeste,SALE0561,2025-03-09 10:37:23.101507,4085.27,Produto B,2025-03
+CUST0463,Cliente 463,Grande Empresa,Sul,,,,,
+CUST0464,Cliente 464,Média Empresa,Centro-Oeste,SALE0277,2025-04-26 10:37:23.100582,2931.79,Serviço Y,2025-04
+CUST0464,Cliente 464,Média Empresa,Centro-Oeste,SALE0588,2025-02-21 10:37:23.101610,2919.91,Serviço Y,2025-02
+CUST0464,Cliente 464,Média Empresa,Centro-Oeste,SALE0691,2024-11-20 10:37:23.102025,2376.97,Serviço X,2024-11
+CUST0465,Cliente 465,Autônomo,Sul,,,,,
+CUST0466,Cliente 466,Pequena Empresa,Centro-Oeste,SALE0339,2025-01-23 10:37:23.100792,1965.98,Produto A,2025-01
+CUST0467,Cliente 467,Pequena Empresa,Sul,,,,,
+CUST0468,Cliente 468,Grande Empresa,Norte,,,,,
+CUST0469,Cliente 469,Pequena Empresa,Norte,SALE0627,2025-02-05 10:37:23.101806,681.73,Serviço Y,2025-02
+CUST0470,Cliente 470,Autônomo,Norte,SALE0546,2024-10-16 10:37:23.101457,1283.41,Produto B,2024-10
+CUST0471,Cliente 471,Pequena Empresa,Sudeste,SALE0697,2025-03-26 10:37:23.102044,3342.41,Produto A,2025-03
+CUST0472,Cliente 472,Autônomo,Centro-Oeste,SALE0355,2025-06-20 10:37:23.100843,3968.89,Produto A,2025-06
+CUST0473,Cliente 473,Pequena Empresa,Norte,SALE0234,2025-01-08 10:37:23.100435,1126.37,Serviço Y,2025-01
+CUST0473,Cliente 473,Pequena Empresa,Norte,SALE0314,2025-06-22 10:37:23.100713,977.38,Serviço Y,2025-06
+CUST0474,Cliente 474,Grande Empresa,Sudeste,SALE0045,2024-10-18 10:37:23.099764,1736.3,Serviço X,2024-10
+CUST0475,Cliente 475,Média Empresa,Centro-Oeste,SALE0227,2025-01-25 10:37:23.100413,752.57,Serviço X,2025-01
+CUST0475,Cliente 475,Média Empresa,Centro-Oeste,SALE0465,2024-11-08 10:37:23.101198,4215.01,Produto A,2024-11
+CUST0476,Cliente 476,Autônomo,Sul,,,,,
+CUST0477,Cliente 477,Pequena Empresa,Sudeste,SALE0507,2024-11-27 10:37:23.101333,2943.65,Serviço X,2024-11
+CUST0477,Cliente 477,Pequena Empresa,Sudeste,SALE0571,2025-07-17 10:37:23.101539,4353.3,Serviço X,2025-07
+CUST0478,Cliente 478,Média Empresa,Nordeste,SALE0518,2025-05-18 10:37:23.101368,2358.65,Serviço Y,2025-05
+CUST0479,Cliente 479,Autônomo,Sudeste,SALE0745,2024-12-14 10:37:23.102198,1387.73,Produto B,2024-12
+CUST0480,Cliente 480,Média Empresa,Sudeste,,,,,
+CUST0481,Cliente 481,Média Empresa,Centro-Oeste,,,,,
+CUST0482,Cliente 482,Média Empresa,Sul,SALE0322,2024-11-30 10:37:23.100738,161.89,Serviço Y,2024-11
+CUST0483,Cliente 483,Média Empresa,Nordeste,,,,,
+CUST0484,Cliente 484,Média Empresa,Norte,SALE0440,2025-05-31 10:37:23.101118,856.44,Produto B,2025-05
+CUST0485,Cliente 485,Média Empresa,Norte,SALE0088,2025-05-25 10:37:23.099906,445.29,Serviço Y,2025-05
+CUST0485,Cliente 485,Média Empresa,Norte,SALE0559,2024-10-21 10:37:23.101501,3418.99,Produto B,2024-10
+CUST0486,Cliente 486,Autônomo,Sudeste,SALE0665,2025-06-03 10:37:23.101943,2867.3,Serviço X,2025-06
+CUST0487,Cliente 487,Pequena Empresa,Centro-Oeste,SALE0233,2024-12-29 10:37:23.100432,1416.63,Serviço Y,2024-12
+CUST0488,Cliente 488,Pequena Empresa,Centro-Oeste,SALE0640,2025-04-04 10:37:23.101864,1209.81,Serviço X,2025-04
+CUST0489,Cliente 489,Autônomo,Norte,SALE0560,2024-11-12 10:37:23.101504,3960.38,Produto B,2024-11
+CUST0490,Cliente 490,Grande Empresa,Nordeste,SALE0632,2025-01-17 10:37:23.101834,4741.79,Serviço Y,2025-01
+CUST0491,Cliente 491,Média Empresa,Sul,,,,,
+CUST0492,Cliente 492,Média Empresa,Nordeste,SALE0229,2025-01-09 10:37:23.100419,4121.46,Produto B,2025-01
+CUST0492,Cliente 492,Média Empresa,Nordeste,SALE0247,2025-01-20 10:37:23.100476,820.59,Produto A,2025-01
+CUST0492,Cliente 492,Média Empresa,Nordeste,SALE0408,2025-07-16 10:37:23.101017,1629.42,Produto B,2025-07
+CUST0492,Cliente 492,Média Empresa,Nordeste,SALE0786,2025-07-22 10:37:23.102327,4952.35,Serviço X,2025-07
+CUST0493,Cliente 493,Pequena Empresa,Sul,,,,,
+CUST0494,Cliente 494,Pequena Empresa,Norte,,,,,
+CUST0495,Cliente 495,Média Empresa,Sul,SALE0777,2025-04-01 10:37:23.102299,651.25,Produto B,2025-04
+CUST0496,Cliente 496,Pequena Empresa,Centro-Oeste,,,,,
+CUST0497,Cliente 497,Média Empresa,Sudeste,SALE0512,2025-07-19 10:37:23.101349,4673.48,Produto B,2025-07
+CUST0498,Cliente 498,Pequena Empresa,Sudeste,,,,,
+CUST0499,Cliente 499,Autônomo,Norte,SALE0163,2024-11-26 10:37:23.100211,716.84,Serviço X,2024-11
+CUST0500,Cliente 500,Autônomo,Centro-Oeste,SALE0401,2025-07-30 10:37:23.100994,2338.66,Serviço Y,2025-07
+CUST0501,Cliente 501,Média Empresa,Nordeste,,,,,
+CUST0502,Cliente 502,Média Empresa,Centro-Oeste,SALE0721,2025-01-29 10:37:23.102119,1619.51,Serviço X,2025-01
+CUST0503,Cliente 503,Pequena Empresa,Sudeste,SALE0514,2025-07-18 10:37:23.101355,722.37,Produto B,2025-07
+CUST0504,Cliente 504,Grande Empresa,Sudeste,,,,,
+CUST0505,Cliente 505,Média Empresa,Centro-Oeste,,,,,
+CUST0506,Cliente 506,Pequena Empresa,Centro-Oeste,,,,,
+CUST0507,Cliente 507,Autônomo,Sudeste,,,,,
+CUST0508,Cliente 508,Grande Empresa,Nordeste,SALE0096,2025-06-25 10:37:23.099945,932.4,Serviço Y,2025-06
+CUST0509,Cliente 509,Autônomo,Norte,SALE0037,2024-11-29 10:37:23.099735,2519.42,Produto B,2024-11
+CUST0510,Cliente 510,Grande Empresa,Norte,,,,,
+CUST0511,Cliente 511,Média Empresa,Centro-Oeste,SALE0262,2025-05-29 10:37:23.100522,2111.14,Produto B,2025-05
+CUST0512,Cliente 512,Média Empresa,Norte,,,,,
+CUST0513,Cliente 513,Autônomo,Sudeste,SALE0009,2025-02-14 10:37:23.099644,2251.79,Serviço Y,2025-02
+CUST0514,Cliente 514,Grande Empresa,Sudeste,SALE0725,2025-02-06 10:37:23.102134,3826.7,Produto B,2025-02
+CUST0515,Cliente 515,Pequena Empresa,Centro-Oeste,,,,,
+CUST0516,Cliente 516,Pequena Empresa,Centro-Oeste,SALE0636,2025-03-08 10:37:23.101847,2738.94,Serviço X,2025-03
+CUST0517,Cliente 517,Pequena Empresa,Centro-Oeste,,,,,
+CUST0518,Cliente 518,Grande Empresa,Nordeste,,,,,
+CUST0519,Cliente 519,Autônomo,Norte,,,,,
+CUST0520,Cliente 520,Pequena Empresa,Centro-Oeste,SALE0111,2025-01-19 10:37:23.100020,3833.01,Produto A,2025-01
+CUST0521,Cliente 521,Média Empresa,Sul,SALE0238,2025-06-18 10:37:23.100448,4169.58,Produto A,2025-06
+CUST0521,Cliente 521,Média Empresa,Sul,SALE0549,2025-05-19 10:37:23.101466,4586.29,Serviço X,2025-05
+CUST0521,Cliente 521,Média Empresa,Sul,SALE0772,2024-12-29 10:37:23.102283,979.25,Serviço X,2024-12
+CUST0522,Cliente 522,Pequena Empresa,Sul,,,,,
+CUST0523,Cliente 523,Autônomo,Sudeste,,,,,
+CUST0524,Cliente 524,Grande Empresa,Norte,,,,,
+CUST0525,Cliente 525,Grande Empresa,Centro-Oeste,SALE0002,2024-11-22 10:37:23.099553,3066.05,Produto B,2024-11
+CUST0525,Cliente 525,Grande Empresa,Centro-Oeste,SALE0170,2025-02-13 10:37:23.100232,409.11,Produto B,2025-02
+CUST0525,Cliente 525,Grande Empresa,Centro-Oeste,SALE0553,2025-04-21 10:37:23.101479,1824.61,Serviço X,2025-04
+CUST0526,Cliente 526,Média Empresa,Sul,,,,,
+CUST0527,Cliente 527,Média Empresa,Norte,SALE0499,2025-06-11 10:37:23.101308,308.62,Serviço Y,2025-06
+CUST0527,Cliente 527,Média Empresa,Norte,SALE0620,2025-03-27 10:37:23.101771,1750.48,Produto B,2025-03
+CUST0527,Cliente 527,Média Empresa,Norte,SALE0692,2024-12-22 10:37:23.102029,1979.39,Produto A,2024-12
+CUST0528,Cliente 528,Pequena Empresa,Sudeste,,,,,
+CUST0529,Cliente 529,Pequena Empresa,Nordeste,SALE0267,2024-10-17 10:37:23.100538,1722.83,Produto A,2024-10
+CUST0530,Cliente 530,Grande Empresa,Norte,SALE0352,2025-04-03 10:37:23.100834,4595.38,Serviço X,2025-04
+CUST0530,Cliente 530,Grande Empresa,Norte,SALE0406,2024-12-22 10:37:23.101011,591.53,Produto B,2024-12
+CUST0531,Cliente 531,Grande Empresa,Norte,,,,,
+CUST0532,Cliente 532,Autônomo,Nordeste,SALE0175,2025-06-01 10:37:23.100249,425.47,Produto A,2025-06
+CUST0533,Cliente 533,Autônomo,Norte,SALE0637,2025-04-27 10:37:23.101850,151.36,Produto A,2025-04
+CUST0534,Cliente 534,Média Empresa,Sudeste,,,,,
+CUST0535,Cliente 535,Grande Empresa,Sudeste,,,,,
+CUST0536,Cliente 536,Autônomo,Nordeste,,,,,
+CUST0537,Cliente 537,Grande Empresa,Centro-Oeste,SALE0047,2025-08-06 10:37:23.099771,4536.64,Produto B,2025-08
+CUST0538,Cliente 538,Pequena Empresa,Sul,SALE0738,2025-02-12 10:37:23.102176,2978.42,Produto B,2025-02
+CUST0539,Cliente 539,Média Empresa,Centro-Oeste,,,,,
+CUST0540,Cliente 540,Pequena Empresa,Norte,SALE0459,2025-02-16 10:37:23.101179,4167.53,Serviço Y,2025-02
+CUST0541,Cliente 541,Autônomo,Sul,SALE0545,2025-04-30 10:37:23.101454,110.02,Serviço Y,2025-04
+CUST0542,Cliente 542,Média Empresa,Nordeste,,,,,
+CUST0543,Cliente 543,Pequena Empresa,Nordeste,,,,,
+CUST0544,Cliente 544,Média Empresa,Sul,,,,,
+CUST0545,Cliente 545,Média Empresa,Sudeste,,,,,
+CUST0546,Cliente 546,Pequena Empresa,Sul,SALE0039,2024-12-26 10:37:23.099741,2338.69,Serviço Y,2024-12
+CUST0546,Cliente 546,Pequena Empresa,Sul,SALE0659,2025-06-28 10:37:23.101924,440.56,Serviço Y,2025-06
+CUST0547,Cliente 547,Pequena Empresa,Norte,SALE0042,2025-07-25 10:37:23.099750,4225.76,Serviço Y,2025-07
+CUST0547,Cliente 547,Pequena Empresa,Norte,SALE0416,2025-05-15 10:37:23.101042,1038.44,Serviço Y,2025-05
+CUST0548,Cliente 548,Média Empresa,Sudeste,,,,,
+CUST0549,Cliente 549,Média Empresa,Nordeste,SALE0404,2025-07-04 10:37:23.101005,99.85,Serviço X,2025-07
+CUST0549,Cliente 549,Média Empresa,Nordeste,SALE0628,2024-12-08 10:37:23.101812,3783.45,Serviço Y,2024-12
+CUST0550,Cliente 550,Grande Empresa,Sul,SALE0409,2025-06-28 10:37:23.101020,3847.54,Serviço X,2025-06
+CUST0550,Cliente 550,Grande Empresa,Sul,SALE0672,2025-07-18 10:37:23.101965,3629.99,Produto B,2025-07
+CUST0551,Cliente 551,Média Empresa,Centro-Oeste,,,,,
+CUST0552,Cliente 552,Grande Empresa,Centro-Oeste,SALE0511,2024-12-04 10:37:23.101346,4351.31,Produto B,2024-12
+CUST0553,Cliente 553,Média Empresa,Norte,SALE0305,2025-07-19 10:37:23.100672,3316.02,Serviço Y,2025-07
+CUST0553,Cliente 553,Média Empresa,Norte,SALE0720,2025-04-20 10:37:23.102116,4670.21,Serviço X,2025-04
+CUST0554,Cliente 554,Média Empresa,Centro-Oeste,SALE0344,2025-07-29 10:37:23.100808,4972.9,Produto B,2025-07
+CUST0554,Cliente 554,Média Empresa,Centro-Oeste,SALE0651,2024-11-19 10:37:23.101899,3945.29,Serviço X,2024-11
+CUST0555,Cliente 555,Grande Empresa,Sul,SALE0647,2025-02-15 10:37:23.101886,4908.82,Serviço Y,2025-02
+CUST0556,Cliente 556,Média Empresa,Sul,,,,,
+CUST0557,Cliente 557,Pequena Empresa,Centro-Oeste,SALE0395,2024-10-17 10:37:23.100975,1662.25,Produto B,2024-10
+CUST0557,Cliente 557,Pequena Empresa,Centro-Oeste,SALE0472,2025-06-07 10:37:23.101223,444.3,Produto A,2025-06
+CUST0558,Cliente 558,Pequena Empresa,Sul,,,,,
+CUST0559,Cliente 559,Grande Empresa,Norte,SALE0199,2024-11-19 10:37:23.100323,3777.26,Serviço X,2024-11
+CUST0559,Cliente 559,Grande Empresa,Norte,SALE0284,2025-07-13 10:37:23.100604,2473.46,Serviço X,2025-07
+CUST0560,Cliente 560,Média Empresa,Sudeste,SALE0613,2024-11-13 10:37:23.101736,1140.21,Produto A,2024-11
+CUST0561,Cliente 561,Grande Empresa,Norte,SALE0686,2025-07-25 10:37:23.102010,2860.75,Produto B,2025-07
+CUST0561,Cliente 561,Grande Empresa,Norte,SALE0746,2024-12-10 10:37:23.102201,2547.97,Produto A,2024-12
+CUST0562,Cliente 562,Pequena Empresa,Norte,SALE0176,2025-04-27 10:37:23.100252,3325.86,Produto B,2025-04
+CUST0563,Cliente 563,Pequena Empresa,Sul,SALE0604,2025-06-13 10:37:23.101691,2784.89,Produto A,2025-06
+CUST0564,Cliente 564,Pequena Empresa,Sudeste,,,,,
+CUST0565,Cliente 565,Pequena Empresa,Sul,SALE0405,2024-12-14 10:37:23.101008,1410.21,Serviço Y,2024-12
+CUST0565,Cliente 565,Pequena Empresa,Sul,SALE0657,2024-11-05 10:37:23.101918,444.71,Serviço Y,2024-11
+CUST0566,Cliente 566,Média Empresa,Nordeste,SALE0082,2025-02-13 10:37:23.099882,4054.71,Serviço Y,2025-02
+CUST0566,Cliente 566,Média Empresa,Nordeste,SALE0188,2025-05-22 10:37:23.100289,885.07,Serviço Y,2025-05
+CUST0567,Cliente 567,Pequena Empresa,Sul,SALE0494,2025-05-12 10:37:23.101292,2080.83,Serviço Y,2025-05
+CUST0568,Cliente 568,Média Empresa,Sul,SALE0114,2024-11-14 10:37:23.100029,2656.27,Serviço X,2024-11
+CUST0569,Cliente 569,Autônomo,Sul,SALE0705,2024-10-19 10:37:23.102069,444.23,Produto B,2024-10
+CUST0570,Cliente 570,Pequena Empresa,Sudeste,SALE0036,2025-05-09 10:37:23.099731,3100.28,Produto A,2025-05
+CUST0570,Cliente 570,Pequena Empresa,Sudeste,SALE0118,2025-04-21 10:37:23.100042,104.59,Produto A,2025-04
+CUST0570,Cliente 570,Pequena Empresa,Sudeste,SALE0228,2025-04-18 10:37:23.100416,1558.38,Serviço X,2025-04
+CUST0571,Cliente 571,Média Empresa,Sul,SALE0117,2025-01-05 10:37:23.100039,4215.5,Produto A,2025-01
+CUST0571,Cliente 571,Média Empresa,Sul,SALE0309,2024-11-29 10:37:23.100684,3553.92,Serviço X,2024-11
+CUST0572,Cliente 572,Grande Empresa,Sudeste,SALE0598,2025-05-06 10:37:23.101662,4823.73,Produto A,2025-05
+CUST0573,Cliente 573,Pequena Empresa,Centro-Oeste,SALE0167,2025-04-14 10:37:23.100223,1450.93,Serviço Y,2025-04
+CUST0573,Cliente 573,Pequena Empresa,Centro-Oeste,SALE0566,2024-12-23 10:37:23.101523,4524.7,Produto B,2024-12
+CUST0574,Cliente 574,Média Empresa,Nordeste,SALE0252,2025-05-21 10:37:23.100491,3369.98,Produto B,2025-05
+CUST0574,Cliente 574,Média Empresa,Nordeste,SALE0625,2025-02-17 10:37:23.101796,1881.94,Serviço Y,2025-02
+CUST0575,Cliente 575,Grande Empresa,Sudeste,SALE0230,2025-08-06 10:37:23.100422,1132.76,Serviço X,2025-08
+CUST0575,Cliente 575,Grande Empresa,Sudeste,SALE0694,2025-07-28 10:37:23.102035,3099.39,Produto A,2025-07
+CUST0576,Cliente 576,Autônomo,Centro-Oeste,,,,,
+CUST0577,Cliente 577,Pequena Empresa,Sudeste,SALE0332,2025-05-02 10:37:23.100770,1487.87,Produto A,2025-05
+CUST0578,Cliente 578,Autônomo,Sudeste,,,,,
+CUST0579,Cliente 579,Média Empresa,Nordeste,,,,,
+CUST0580,Cliente 580,Pequena Empresa,Norte,,,,,
+CUST0581,Cliente 581,Média Empresa,Norte,SALE0255,2025-07-05 10:37:23.100500,392.69,Serviço X,2025-07
+CUST0582,Cliente 582,Autônomo,Sudeste,,,,,
+CUST0583,Cliente 583,Média Empresa,Sul,SALE0059,2024-10-30 10:37:23.099808,1945.4,Produto B,2024-10
+CUST0583,Cliente 583,Média Empresa,Sul,SALE0329,2025-04-16 10:37:23.100761,4861.03,Produto B,2025-04
+CUST0584,Cliente 584,Pequena Empresa,Centro-Oeste,SALE0264,2025-04-25 10:37:23.100529,4143.17,Produto A,2025-04
+CUST0584,Cliente 584,Pequena Empresa,Centro-Oeste,SALE0287,2025-08-02 10:37:23.100613,821.61,Produto A,2025-08
+CUST0585,Cliente 585,Média Empresa,Sul,,,,,
+CUST0586,Cliente 586,Pequena Empresa,Sul,SALE0125,2024-12-24 10:37:23.100066,479.97,Serviço Y,2024-12
+CUST0586,Cliente 586,Pequena Empresa,Sul,SALE0297,2025-02-11 10:37:23.100644,1719.24,Serviço X,2025-02
+CUST0587,Cliente 587,Pequena Empresa,Sudeste,,,,,
+CUST0588,Cliente 588,Pequena Empresa,Sudeste,SALE0563,2024-11-25 10:37:23.101514,3133.72,Serviço Y,2024-11
+CUST0589,Cliente 589,Pequena Empresa,Sudeste,SALE0353,2024-11-29 10:37:23.100837,3034.87,Serviço Y,2024-11
+CUST0589,Cliente 589,Pequena Empresa,Sudeste,SALE0445,2025-04-29 10:37:23.101135,2314.97,Serviço X,2025-04
+CUST0590,Cliente 590,Pequena Empresa,Sudeste,,,,,
+CUST0591,Cliente 591,Pequena Empresa,Norte,,,,,
+CUST0592,Cliente 592,Média Empresa,Sudeste,SALE0317,2025-08-04 10:37:23.100723,3950.31,Serviço X,2025-08
+CUST0592,Cliente 592,Média Empresa,Sudeste,SALE0486,2025-05-16 10:37:23.101267,4122.05,Serviço X,2025-05
+CUST0593,Cliente 593,Pequena Empresa,Norte,SALE0075,2025-05-12 10:37:23.099860,983.67,Produto B,2025-05
+CUST0594,Cliente 594,Pequena Empresa,Norte,SALE0215,2025-02-02 10:37:23.100376,3097.28,Produto B,2025-02
+CUST0594,Cliente 594,Pequena Empresa,Norte,SALE0739,2025-01-24 10:37:23.102179,109.71,Produto B,2025-01
+CUST0595,Cliente 595,Grande Empresa,Sudeste,SALE0377,2025-03-13 10:37:23.100913,4358.46,Produto A,2025-03
+CUST0595,Cliente 595,Grande Empresa,Sudeste,SALE0740,2025-04-22 10:37:23.102182,219.74,Produto B,2025-04
+CUST0596,Cliente 596,Média Empresa,Nordeste,SALE0658,2025-01-13 10:37:23.101921,4193.26,Serviço Y,2025-01
+CUST0597,Cliente 597,Média Empresa,Centro-Oeste,,,,,
+CUST0598,Cliente 598,Pequena Empresa,Sul,,,,,
+CUST0599,Cliente 599,Pequena Empresa,Norte,SALE0798,2025-07-28 10:37:23.102365,3609.01,Produto B,2025-07
+CUST0600,Cliente 600,Pequena Empresa,Centro-Oeste,SALE0179,2025-06-21 10:37:23.100261,2315.35,Serviço X,2025-06
+CUST0601,Cliente 601,Pequena Empresa,Nordeste,SALE0226,2025-04-09 10:37:23.100410,4794.8,Serviço X,2025-04
+CUST0602,Cliente 602,Pequena Empresa,Sul,SALE0420,2024-10-18 10:37:23.101055,2535.7,Serviço X,2024-10
+CUST0603,Cliente 603,Pequena Empresa,Sul,,,,,
+CUST0604,Cliente 604,Pequena Empresa,Norte,SALE0365,2024-11-10 10:37:23.100875,2683.18,Produto B,2024-11
+CUST0604,Cliente 604,Pequena Empresa,Norte,SALE0653,2025-04-05 10:37:23.101905,459.54,Produto A,2025-04
+CUST0605,Cliente 605,Pequena Empresa,Sudeste,SALE0062,2025-03-16 10:37:23.099818,4405.27,Produto B,2025-03
+CUST0605,Cliente 605,Pequena Empresa,Sudeste,SALE0538,2025-04-10 10:37:23.101432,2403.31,Serviço Y,2025-04
+CUST0606,Cliente 606,Média Empresa,Nordeste,,,,,
+CUST0607,Cliente 607,Pequena Empresa,Norte,,,,,
+CUST0608,Cliente 608,Pequena Empresa,Nordeste,SALE0434,2025-04-04 10:37:23.101100,3164.11,Serviço X,2025-04
+CUST0609,Cliente 609,Média Empresa,Sudeste,SALE0504,2025-06-06 10:37:23.101323,55.6,Produto B,2025-06
+CUST0610,Cliente 610,Média Empresa,Sudeste,SALE0343,2024-12-19 10:37:23.100805,1206.03,Produto B,2024-12
+CUST0611,Cliente 611,Pequena Empresa,Norte,,,,,
+CUST0612,Cliente 612,Grande Empresa,Sudeste,SALE0743,2025-03-05 10:37:23.102192,2917.93,Produto B,2025-03
+CUST0613,Cliente 613,Média Empresa,Centro-Oeste,,,,,
+CUST0614,Cliente 614,Pequena Empresa,Sul,SALE0761,2025-04-18 10:37:23.102248,627.18,Serviço Y,2025-04
+CUST0615,Cliente 615,Grande Empresa,Norte,,,,,
+CUST0616,Cliente 616,Autônomo,Nordeste,,,,,
+CUST0617,Cliente 617,Pequena Empresa,Centro-Oeste,SALE0473,2025-04-08 10:37:23.101226,395.96,Produto B,2025-04
+CUST0617,Cliente 617,Pequena Empresa,Centro-Oeste,SALE0699,2024-12-02 10:37:23.102050,4768.18,Produto B,2024-12
+CUST0617,Cliente 617,Pequena Empresa,Centro-Oeste,SALE0753,2025-04-04 10:37:23.102223,3861.46,Produto A,2025-04
+CUST0617,Cliente 617,Pequena Empresa,Centro-Oeste,SALE0796,2025-04-08 10:37:23.102358,154.8,Serviço X,2025-04
+CUST0618,Cliente 618,Pequena Empresa,Norte,SALE0194,2025-06-14 10:37:23.100308,1899.49,Serviço Y,2025-06
+CUST0619,Cliente 619,Grande Empresa,Sudeste,SALE0272,2025-01-03 10:37:23.100565,1411.88,Serviço X,2025-01
+CUST0620,Cliente 620,Grande Empresa,Sudeste,SALE0122,2025-05-13 10:37:23.100055,1520.63,Serviço Y,2025-05
+CUST0620,Cliente 620,Grande Empresa,Sudeste,SALE0290,2024-11-06 10:37:23.100622,1794.56,Serviço Y,2024-11
+CUST0620,Cliente 620,Grande Empresa,Sudeste,SALE0733,2024-11-21 10:37:23.102160,2175.14,Serviço X,2024-11
+CUST0621,Cliente 621,Pequena Empresa,Sudeste,,,,,
+CUST0622,Cliente 622,Pequena Empresa,Sudeste,,,,,
+CUST0623,Cliente 623,Pequena Empresa,Nordeste,SALE0436,2025-03-23 10:37:23.101106,706.59,Produto B,2025-03
+CUST0624,Cliente 624,Média Empresa,Centro-Oeste,,,,,
+CUST0625,Cliente 625,Média Empresa,Sul,,,,,
+CUST0626,Cliente 626,Pequena Empresa,Nordeste,SALE0076,2025-07-15 10:37:23.099863,611.69,Serviço Y,2025-07
+CUST0626,Cliente 626,Pequena Empresa,Nordeste,SALE0162,2025-07-15 10:37:23.100208,2835.03,Serviço Y,2025-07
+CUST0627,Cliente 627,Média Empresa,Nordeste,SALE0210,2025-07-19 10:37:23.100358,2880.65,Produto B,2025-07
+CUST0628,Cliente 628,Grande Empresa,Sul,,,,,
+CUST0629,Cliente 629,Pequena Empresa,Sul,,,,,
+CUST0630,Cliente 630,Pequena Empresa,Sudeste,,,,,
+CUST0631,Cliente 631,Grande Empresa,Nordeste,,,,,
+CUST0632,Cliente 632,Grande Empresa,Norte,,,,,
+CUST0633,Cliente 633,Média Empresa,Sul,,,,,
+CUST0634,Cliente 634,Média Empresa,Sul,SALE0135,2024-10-24 10:37:23.100122,90.32,Serviço Y,2024-10
+CUST0635,Cliente 635,Pequena Empresa,Centro-Oeste,SALE0438,2025-02-22 10:37:23.101112,3906.38,Produto B,2025-02
+CUST0635,Cliente 635,Pequena Empresa,Centro-Oeste,SALE0592,2025-03-08 10:37:23.101631,2120.95,Serviço Y,2025-03
+CUST0636,Cliente 636,Média Empresa,Norte,,,,,
+CUST0637,Cliente 637,Média Empresa,Norte,SALE0165,2025-03-30 10:37:23.100217,3973.75,Produto B,2025-03
+CUST0638,Cliente 638,Pequena Empresa,Sul,SALE0115,2025-05-13 10:37:23.100033,2008.9,Produto A,2025-05
+CUST0639,Cliente 639,Pequena Empresa,Sudeste,,,,,
+CUST0640,Cliente 640,Pequena Empresa,Centro-Oeste,SALE0015,2025-03-14 10:37:23.099664,180.6,Serviço Y,2025-03
+CUST0640,Cliente 640,Pequena Empresa,Centro-Oeste,SALE0197,2025-08-01 10:37:23.100317,842.97,Produto B,2025-08
+CUST0640,Cliente 640,Pequena Empresa,Centro-Oeste,SALE0463,2025-06-04 10:37:23.101192,3230.01,Serviço Y,2025-06
+CUST0641,Cliente 641,Pequena Empresa,Norte,,,,,
+CUST0642,Cliente 642,Pequena Empresa,Sul,,,,,
+CUST0643,Cliente 643,Pequena Empresa,Norte,,,,,
+CUST0644,Cliente 644,Pequena Empresa,Centro-Oeste,,,,,
+CUST0645,Cliente 645,Pequena Empresa,Centro-Oeste,SALE0715,2024-10-23 10:37:23.102100,3450.34,Produto B,2024-10
+CUST0646,Cliente 646,Grande Empresa,Nordeste,SALE0161,2024-10-20 10:37:23.100205,3026.52,Produto A,2024-10
+CUST0646,Cliente 646,Grande Empresa,Nordeste,SALE0285,2025-01-25 10:37:23.100607,1591.31,Produto B,2025-01
+CUST0646,Cliente 646,Grande Empresa,Nordeste,SALE0402,2025-04-25 10:37:23.100998,2092.72,Produto A,2025-04
+CUST0646,Cliente 646,Grande Empresa,Nordeste,SALE0629,2024-10-26 10:37:23.101817,2384.12,Serviço Y,2024-10
+CUST0647,Cliente 647,Média Empresa,Sul,SALE0109,2025-06-01 10:37:23.100011,3187.15,Serviço X,2025-06
+CUST0647,Cliente 647,Média Empresa,Sul,SALE0157,2025-07-30 10:37:23.100192,3585.37,Produto B,2025-07
+CUST0647,Cliente 647,Média Empresa,Sul,SALE0710,2025-06-01 10:37:23.102085,4183.37,Serviço Y,2025-06
+CUST0648,Cliente 648,Média Empresa,Centro-Oeste,SALE0482,2025-04-27 10:37:23.101254,271.3,Produto B,2025-04
+CUST0649,Cliente 649,Grande Empresa,Nordeste,SALE0150,2024-11-24 10:37:23.100169,1352.2,Serviço Y,2024-11
+CUST0650,Cliente 650,Média Empresa,Nordeste,,,,,
+CUST0651,Cliente 651,Pequena Empresa,Norte,SALE0345,2025-01-28 10:37:23.100812,4785.03,Produto B,2025-01
+CUST0651,Cliente 651,Pequena Empresa,Norte,SALE0606,2024-11-22 10:37:23.101701,1041.74,Serviço Y,2024-11
+CUST0652,Cliente 652,Média Empresa,Norte,SALE0119,2025-02-23 10:37:23.100045,1595.03,Serviço Y,2025-02
+CUST0652,Cliente 652,Média Empresa,Norte,SALE0358,2024-10-26 10:37:23.100853,512.67,Produto B,2024-10
+CUST0653,Cliente 653,Média Empresa,Nordeste,SALE0217,2025-07-22 10:37:23.100382,4755.15,Serviço Y,2025-07
+CUST0654,Cliente 654,Grande Empresa,Norte,SALE0432,2024-11-30 10:37:23.101093,3682.78,Serviço Y,2024-11
+CUST0654,Cliente 654,Grande Empresa,Norte,SALE0484,2025-03-15 10:37:23.101261,1372.01,Serviço Y,2025-03
+CUST0655,Cliente 655,Média Empresa,Centro-Oeste,SALE0643,2025-02-26 10:37:23.101873,3450.09,Serviço Y,2025-02
+CUST0655,Cliente 655,Média Empresa,Centro-Oeste,SALE0675,2025-03-24 10:37:23.101976,4889.49,Produto B,2025-03
+CUST0656,Cliente 656,Pequena Empresa,Sudeste,SALE0158,2025-07-25 10:37:23.100195,394.07,Serviço X,2025-07
+CUST0656,Cliente 656,Pequena Empresa,Sudeste,SALE0505,2024-11-17 10:37:23.101327,440.15,Serviço Y,2024-11
+CUST0657,Cliente 657,Pequena Empresa,Centro-Oeste,,,,,
+CUST0658,Cliente 658,Pequena Empresa,Nordeste,,,,,
+CUST0659,Cliente 659,Média Empresa,Nordeste,,,,,
+CUST0660,Cliente 660,Média Empresa,Centro-Oeste,SALE0795,2024-12-10 10:37:23.102355,4548.68,Serviço X,2024-12
+CUST0661,Cliente 661,Pequena Empresa,Norte,,,,,
+CUST0662,Cliente 662,Autônomo,Norte,SALE0204,2024-12-28 10:37:23.100339,2541.16,Serviço Y,2024-12
+CUST0663,Cliente 663,Média Empresa,Nordeste,,,,,
+CUST0664,Cliente 664,Pequena Empresa,Sul,SALE0246,2025-01-11 10:37:23.100473,4821.52,Serviço Y,2025-01
+CUST0665,Cliente 665,Pequena Empresa,Norte,,,,,
+CUST0666,Cliente 666,Pequena Empresa,Centro-Oeste,SALE0216,2024-11-19 10:37:23.100379,520.48,Serviço Y,2024-11
+CUST0667,Cliente 667,Pequena Empresa,Norte,,,,,
+CUST0668,Cliente 668,Pequena Empresa,Centro-Oeste,SALE0737,2025-03-09 10:37:23.102173,4684.92,Produto B,2025-03
+CUST0669,Cliente 669,Pequena Empresa,Nordeste,SALE0400,2025-01-30 10:37:23.100991,4813.63,Produto A,2025-01
+CUST0670,Cliente 670,Pequena Empresa,Norte,,,,,
+CUST0671,Cliente 671,Pequena Empresa,Centro-Oeste,SALE0764,2025-04-14 10:37:23.102258,3231.59,Produto A,2025-04
+CUST0672,Cliente 672,Grande Empresa,Nordeste,,,,,
+CUST0673,Cliente 673,Pequena Empresa,Sul,SALE0580,2025-01-31 10:37:23.101578,3655.51,Serviço X,2025-01
+CUST0674,Cliente 674,Média Empresa,Centro-Oeste,SALE0576,2024-11-03 10:37:23.101564,1864.14,Serviço X,2024-11
+CUST0675,Cliente 675,Média Empresa,Sul,,,,,
+CUST0676,Cliente 676,Autônomo,Sul,SALE0177,2025-04-09 10:37:23.100255,2268.73,Produto B,2025-04
+CUST0676,Cliente 676,Autônomo,Sul,SALE0383,2024-11-08 10:37:23.100932,2915.64,Produto A,2024-11
+CUST0676,Cliente 676,Autônomo,Sul,SALE0552,2025-03-19 10:37:23.101476,3956.76,Serviço Y,2025-03
+CUST0677,Cliente 677,Pequena Empresa,Sudeste,SALE0020,2025-05-10 10:37:23.099680,938.53,Produto A,2025-05
+CUST0678,Cliente 678,Pequena Empresa,Norte,,,,,
+CUST0679,Cliente 679,Autônomo,Centro-Oeste,,,,,
+CUST0680,Cliente 680,Grande Empresa,Sul,SALE0187,2025-02-23 10:37:23.100286,648.95,Produto B,2025-02
+CUST0680,Cliente 680,Grande Empresa,Sul,SALE0385,2024-11-30 10:37:23.100942,2909.79,Produto A,2024-11
+CUST0680,Cliente 680,Grande Empresa,Sul,SALE0441,2024-12-29 10:37:23.101122,1717.25,Produto A,2024-12
+CUST0681,Cliente 681,Grande Empresa,Sudeste,,,,,
+CUST0682,Cliente 682,Pequena Empresa,Nordeste,SALE0213,2025-04-23 10:37:23.100367,416.84,Produto A,2025-04
+CUST0683,Cliente 683,Pequena Empresa,Centro-Oeste,SALE0294,2025-03-11 10:37:23.100635,825.4,Serviço X,2025-03
+CUST0684,Cliente 684,Média Empresa,Sul,,,,,
+CUST0685,Cliente 685,Autônomo,Norte,SALE0275,2025-02-22 10:37:23.100576,4414.53,Produto A,2025-02
+CUST0685,Cliente 685,Autônomo,Norte,SALE0509,2025-02-10 10:37:23.101339,2466.08,Produto B,2025-02
+CUST0686,Cliente 686,Média Empresa,Sudeste,,,,,
+CUST0687,Cliente 687,Média Empresa,Sul,SALE0756,2024-11-03 10:37:23.102232,4966.47,Serviço X,2024-11
+CUST0688,Cliente 688,Pequena Empresa,Norte,SALE0144,2025-03-08 10:37:23.100151,344.59,Serviço Y,2025-03
+CUST0689,Cliente 689,Grande Empresa,Sul,SALE0359,2025-03-24 10:37:23.100856,2563.86,Serviço Y,2025-03
+CUST0690,Cliente 690,Pequena Empresa,Centro-Oeste,SALE0260,2025-07-14 10:37:23.100516,268.26,Serviço X,2025-07
+CUST0691,Cliente 691,Pequena Empresa,Centro-Oeste,,,,,
+CUST0692,Cliente 692,Média Empresa,Centro-Oeste,SALE0092,2025-03-13 10:37:23.099926,3286.96,Serviço Y,2025-03
+CUST0693,Cliente 693,Média Empresa,Sudeste,SALE0779,2025-07-27 10:37:23.102305,3528.82,Produto B,2025-07
+CUST0694,Cliente 694,Pequena Empresa,Centro-Oeste,SALE0513,2024-11-15 10:37:23.101352,1670.83,Produto A,2024-11
+CUST0695,Cliente 695,Pequena Empresa,Norte,,,,,
+CUST0696,Cliente 696,Média Empresa,Sul,SALE0793,2025-04-18 10:37:23.102349,2912.53,Serviço X,2025-04
+CUST0697,Cliente 697,Pequena Empresa,Nordeste,SALE0337,2025-01-02 10:37:23.100786,2381.06,Produto B,2025-01
+CUST0697,Cliente 697,Pequena Empresa,Nordeste,SALE0500,2024-12-24 10:37:23.101311,522.94,Serviço X,2024-12
+CUST0698,Cliente 698,Média Empresa,Norte,,,,,
+CUST0699,Cliente 699,Pequena Empresa,Norte,SALE0410,2025-02-15 10:37:23.101024,1074.24,Serviço X,2025-02
+CUST0699,Cliente 699,Pequena Empresa,Norte,SALE0516,2024-12-13 10:37:23.101361,3892.05,Produto B,2024-12
+CUST0700,Cliente 700,Média Empresa,Centro-Oeste,,,,,
+CUST0701,Cliente 701,Média Empresa,Sudeste,SALE0261,2025-01-05 10:37:23.100519,2000.24,Produto A,2025-01
+CUST0701,Cliente 701,Média Empresa,Sudeste,SALE0477,2025-07-21 10:37:23.101239,3642.57,Produto B,2025-07
+CUST0702,Cliente 702,Pequena Empresa,Sul,,,,,
+CUST0703,Cliente 703,Pequena Empresa,Sudeste,SALE0389,2024-11-01 10:37:23.100956,2150.02,Serviço Y,2024-11
+CUST0704,Cliente 704,Pequena Empresa,Sul,SALE0312,2024-12-18 10:37:23.100695,368.81,Produto A,2024-12
+CUST0704,Cliente 704,Pequena Empresa,Sul,SALE0535,2024-12-08 10:37:23.101422,3260.8,Produto B,2024-12
+CUST0705,Cliente 705,Pequena Empresa,Sul,,,,,
+CUST0706,Cliente 706,Autônomo,Sudeste,,,,,
+CUST0707,Cliente 707,Pequena Empresa,Norte,SALE0211,2024-11-01 10:37:23.100361,2940.25,Produto A,2024-11
+CUST0707,Cliente 707,Pequena Empresa,Norte,SALE0726,2025-03-13 10:37:23.102138,3532.37,Produto A,2025-03
+CUST0708,Cliente 708,Grande Empresa,Sul,SALE0695,2024-10-27 10:37:23.102038,664.97,Produto B,2024-10
+CUST0709,Cliente 709,Pequena Empresa,Sudeste,SALE0084,2025-06-01 10:37:23.099889,3095.38,Produto B,2025-06
+CUST0709,Cliente 709,Pequena Empresa,Sudeste,SALE0430,2025-01-18 10:37:23.101087,2421.02,Serviço Y,2025-01
+CUST0709,Cliente 709,Pequena Empresa,Sudeste,SALE0664,2025-04-22 10:37:23.101940,2377.91,Produto B,2025-04
+CUST0710,Cliente 710,Média Empresa,Sul,SALE0729,2025-05-29 10:37:23.102147,209.22,Produto B,2025-05
+CUST0711,Cliente 711,Grande Empresa,Nordeste,,,,,
+CUST0712,Cliente 712,Média Empresa,Norte,SALE0558,2025-03-08 10:37:23.101498,4125.57,Produto A,2025-03
+CUST0713,Cliente 713,Média Empresa,Centro-Oeste,,,,,
+CUST0714,Cliente 714,Média Empresa,Sul,SALE0140,2025-07-26 10:37:23.100138,200.18,Produto A,2025-07
+CUST0715,Cliente 715,Pequena Empresa,Nordeste,SALE0137,2024-10-25 10:37:23.100129,3099.66,Serviço Y,2024-10
+CUST0716,Cliente 716,Autônomo,Centro-Oeste,SALE0166,2025-06-07 10:37:23.100220,4443.43,Serviço Y,2025-06
+CUST0717,Cliente 717,Grande Empresa,Centro-Oeste,,,,,
+CUST0718,Cliente 718,Autônomo,Sul,SALE0460,2025-05-03 10:37:23.101182,3313.93,Serviço X,2025-05
+CUST0719,Cliente 719,Pequena Empresa,Sudeste,SALE0056,2025-05-21 10:37:23.099799,3484.71,Serviço X,2025-05
+CUST0719,Cliente 719,Pequena Empresa,Sudeste,SALE0338,2024-11-20 10:37:23.100789,4593.34,Serviço Y,2024-11
+CUST0719,Cliente 719,Pequena Empresa,Sudeste,SALE0489,2025-08-01 10:37:23.101276,3422.5,Produto B,2025-08
+CUST0720,Cliente 720,Grande Empresa,Sul,SALE0208,2025-06-15 10:37:23.100352,888.19,Produto A,2025-06
+CUST0721,Cliente 721,Autônomo,Nordeste,,,,,
+CUST0722,Cliente 722,Pequena Empresa,Centro-Oeste,,,,,
+CUST0723,Cliente 723,Pequena Empresa,Sul,SALE0029,2024-12-13 10:37:23.099709,4525.75,Produto B,2024-12
+CUST0723,Cliente 723,Pequena Empresa,Sul,SALE0146,2025-07-25 10:37:23.100157,4627.08,Produto A,2025-07
+CUST0723,Cliente 723,Pequena Empresa,Sul,SALE0758,2024-12-18 10:37:23.102239,1532.98,Produto B,2024-12
+CUST0724,Cliente 724,Grande Empresa,Sudeste,SALE0016,2025-06-16 10:37:23.099668,3966.43,Produto A,2025-06
+CUST0724,Cliente 724,Grande Empresa,Sudeste,SALE0026,2024-11-02 10:37:23.099699,1770.62,Produto A,2024-11
+CUST0724,Cliente 724,Grande Empresa,Sudeste,SALE0466,2025-04-20 10:37:23.101201,3254.86,Serviço X,2025-04
+CUST0725,Cliente 725,Média Empresa,Sul,,,,,
+CUST0726,Cliente 726,Grande Empresa,Norte,SALE0330,2025-04-20 10:37:23.100764,4258.82,Produto B,2025-04
+CUST0727,Cliente 727,Pequena Empresa,Sudeste,SALE0417,2024-10-31 10:37:23.101046,2556.53,Produto B,2024-10
+CUST0728,Cliente 728,Grande Empresa,Nordeste,,,,,
+CUST0729,Cliente 729,Pequena Empresa,Centro-Oeste,,,,,
+CUST0730,Cliente 730,Pequena Empresa,Sul,SALE0279,2024-12-05 10:37:23.100588,3323.11,Produto A,2024-12
+CUST0730,Cliente 730,Pequena Empresa,Sul,SALE0540,2025-05-18 10:37:23.101438,4900.93,Serviço X,2025-05
+CUST0731,Cliente 731,Pequena Empresa,Sudeste,SALE0276,2024-11-06 10:37:23.100579,4201.55,Produto A,2024-11
+CUST0731,Cliente 731,Pequena Empresa,Sudeste,SALE0418,2024-11-17 10:37:23.101049,3375.87,Produto B,2024-11
+CUST0732,Cliente 732,Grande Empresa,Norte,SALE0718,2024-10-20 10:37:23.102110,4576.5,Serviço Y,2024-10
+CUST0733,Cliente 733,Média Empresa,Sudeste,SALE0591,2025-08-05 10:37:23.101626,2506.7,Serviço X,2025-08
+CUST0734,Cliente 734,Média Empresa,Norte,SALE0097,2025-07-10 10:37:23.099950,4932.92,Produto A,2025-07
+CUST0734,Cliente 734,Média Empresa,Norte,SALE0360,2025-03-20 10:37:23.100859,853.07,Serviço X,2025-03
+CUST0735,Cliente 735,Pequena Empresa,Nordeste,SALE0510,2025-07-12 10:37:23.101342,3574.55,Produto B,2025-07
+CUST0736,Cliente 736,Grande Empresa,Centro-Oeste,SALE0429,2024-12-27 10:37:23.101084,776.67,Serviço X,2024-12
+CUST0737,Cliente 737,Pequena Empresa,Nordeste,SALE0479,2025-05-30 10:37:23.101245,3674.91,Serviço Y,2025-05
+CUST0738,Cliente 738,Grande Empresa,Sul,,,,,
+CUST0739,Cliente 739,Média Empresa,Sudeste,SALE0046,2025-01-20 10:37:23.099768,1916.7,Serviço X,2025-01
+CUST0740,Cliente 740,Pequena Empresa,Norte,SALE0378,2024-12-10 10:37:23.100916,1827.85,Serviço X,2024-12
+CUST0741,Cliente 741,Média Empresa,Norte,SALE0004,2025-05-27 10:37:23.099624,3151.1,Produto B,2025-05
+CUST0742,Cliente 742,Pequena Empresa,Sudeste,,,,,
+CUST0743,Cliente 743,Grande Empresa,Sudeste,SALE0160,2025-04-18 10:37:23.100201,120.67,Serviço X,2025-04
+CUST0743,Cliente 743,Grande Empresa,Sudeste,SALE0399,2024-11-16 10:37:23.100988,152.19,Produto A,2024-11
+CUST0744,Cliente 744,Média Empresa,Sul,,,,,
+CUST0745,Cliente 745,Pequena Empresa,Nordeste,,,,,
+CUST0746,Cliente 746,Grande Empresa,Norte,,,,,
+CUST0747,Cliente 747,Pequena Empresa,Sul,SALE0668,2025-07-10 10:37:23.101952,1800.28,Serviço X,2025-07
+CUST0748,Cliente 748,Média Empresa,Nordeste,,,,,
+CUST0749,Cliente 749,Autônomo,Sul,SALE0151,2024-11-04 10:37:23.100172,2901.6,Produto A,2024-11
+CUST0750,Cliente 750,Média Empresa,Norte,,,,,
+CUST0751,Cliente 751,Pequena Empresa,Sudeste,SALE0031,2025-04-22 10:37:23.099715,2490.44,Serviço X,2025-04
+CUST0751,Cliente 751,Pequena Empresa,Sudeste,SALE0467,2024-11-07 10:37:23.101205,1740.46,Produto A,2024-11
+CUST0752,Cliente 752,Autônomo,Sudeste,SALE0681,2025-01-10 10:37:23.101994,3701.14,Produto A,2025-01
+CUST0753,Cliente 753,Média Empresa,Nordeste,,,,,
+CUST0754,Cliente 754,Pequena Empresa,Centro-Oeste,,,,,
+CUST0755,Cliente 755,Pequena Empresa,Nordeste,SALE0413,2025-03-27 10:37:23.101033,616.81,Serviço X,2025-03
+CUST0756,Cliente 756,Grande Empresa,Centro-Oeste,SALE0575,2025-03-14 10:37:23.101552,2031.59,Serviço X,2025-03
+CUST0757,Cliente 757,Média Empresa,Sul,SALE0257,2025-07-31 10:37:23.100507,1486.96,Produto B,2025-07
+CUST0757,Cliente 757,Média Empresa,Sul,SALE0471,2025-05-20 10:37:23.101220,1275.16,Produto A,2025-05
+CUST0757,Cliente 757,Média Empresa,Sul,SALE0570,2024-12-07 10:37:23.101536,4750.45,Serviço Y,2024-12
+CUST0757,Cliente 757,Média Empresa,Sul,SALE0644,2025-06-26 10:37:23.101877,3893.2,Produto B,2025-06
+CUST0757,Cliente 757,Média Empresa,Sul,SALE0731,2024-12-31 10:37:23.102153,2113.33,Serviço Y,2024-12
+CUST0758,Cliente 758,Média Empresa,Sul,,,,,
+CUST0759,Cliente 759,Grande Empresa,Norte,,,,,
+CUST0760,Cliente 760,Grande Empresa,Centro-Oeste,,,,,
+CUST0761,Cliente 761,Pequena Empresa,Norte,SALE0311,2024-10-29 10:37:23.100691,4578.02,Produto B,2024-10
+CUST0762,Cliente 762,Pequena Empresa,Sudeste,SALE0168,2025-06-01 10:37:23.100226,2217.92,Produto B,2025-06
+CUST0763,Cliente 763,Pequena Empresa,Centro-Oeste,SALE0053,2025-02-02 10:37:23.099789,2971.64,Produto B,2025-02
+CUST0763,Cliente 763,Pequena Empresa,Centro-Oeste,SALE0382,2025-07-13 10:37:23.100929,2089.37,Serviço Y,2025-07
+CUST0763,Cliente 763,Pequena Empresa,Centro-Oeste,SALE0768,2025-05-16 10:37:23.102270,2355.56,Produto B,2025-05
+CUST0764,Cliente 764,Grande Empresa,Nordeste,SALE0183,2025-03-01 10:37:23.100274,1447.87,Serviço X,2025-03
+CUST0764,Cliente 764,Grande Empresa,Nordeste,SALE0433,2025-05-10 10:37:23.101096,414.23,Serviço X,2025-05
+CUST0765,Cliente 765,Pequena Empresa,Sudeste,SALE0061,2025-03-28 10:37:23.099815,3040.82,Produto A,2025-03
+CUST0765,Cliente 765,Pequena Empresa,Sudeste,SALE0182,2025-03-02 10:37:23.100271,3621.8,Produto B,2025-03
+CUST0766,Cliente 766,Média Empresa,Sudeste,SALE0064,2025-04-20 10:37:23.099825,2011.37,Produto B,2025-04
+CUST0767,Cliente 767,Grande Empresa,Nordeste,SALE0450,2025-01-18 10:37:23.101150,2171.39,Serviço Y,2025-01
+CUST0767,Cliente 767,Grande Empresa,Nordeste,SALE0464,2025-03-28 10:37:23.101195,4658.55,Serviço Y,2025-03
+CUST0768,Cliente 768,Grande Empresa,Sudeste,SALE0424,2025-05-13 10:37:23.101068,2524.89,Serviço Y,2025-05
+CUST0769,Cliente 769,Pequena Empresa,Centro-Oeste,,,,,
+CUST0770,Cliente 770,Grande Empresa,Norte,,,,,
+CUST0771,Cliente 771,Pequena Empresa,Sudeste,,,,,
+CUST0772,Cliente 772,Grande Empresa,Centro-Oeste,,,,,
+CUST0773,Cliente 773,Pequena Empresa,Sul,,,,,
+CUST0774,Cliente 774,Pequena Empresa,Centro-Oeste,SALE0594,2025-05-30 10:37:23.101642,3685.3,Serviço Y,2025-05
+CUST0775,Cliente 775,Grande Empresa,Norte,SALE0017,2025-06-08 10:37:23.099671,1330.32,Serviço X,2025-06
+CUST0775,Cliente 775,Grande Empresa,Norte,SALE0040,2025-04-28 10:37:23.099744,417.94,Produto B,2025-04
+CUST0776,Cliente 776,Pequena Empresa,Centro-Oeste,,,,,
+CUST0777,Cliente 777,Pequena Empresa,Nordeste,SALE0380,2025-05-04 10:37:23.100923,634.37,Produto B,2025-05
+CUST0778,Cliente 778,Grande Empresa,Norte,,,,,
+CUST0779,Cliente 779,Grande Empresa,Sul,,,,,
+CUST0780,Cliente 780,Média Empresa,Nordeste,SALE0300,2025-03-15 10:37:23.100656,2134.62,Produto A,2025-03
+CUST0781,Cliente 781,Média Empresa,Centro-Oeste,,,,,
+CUST0782,Cliente 782,Média Empresa,Norte,SALE0515,2025-04-23 10:37:23.101358,1222.78,Produto A,2025-04
+CUST0783,Cliente 783,Pequena Empresa,Sul,,,,,
+CUST0784,Cliente 784,Pequena Empresa,Nordeste,SALE0531,2025-07-04 10:37:23.101410,3836.19,Produto A,2025-07
+CUST0785,Cliente 785,Pequena Empresa,Sul,SALE0149,2025-05-25 10:37:23.100166,4997.51,Serviço X,2025-05
+CUST0785,Cliente 785,Pequena Empresa,Sul,SALE0596,2025-04-20 10:37:23.101652,4120.26,Produto A,2025-04
+CUST0786,Cliente 786,Autônomo,Centro-Oeste,SALE0073,2025-07-09 10:37:23.099853,939.06,Serviço Y,2025-07
+CUST0786,Cliente 786,Autônomo,Centro-Oeste,SALE0098,2024-11-20 10:37:23.099954,3589.63,Serviço Y,2024-11
+CUST0787,Cliente 787,Média Empresa,Sul,SALE0207,2025-07-12 10:37:23.100349,3566.6,Produto A,2025-07
+CUST0788,Cliente 788,Média Empresa,Sudeste,,,,,
+CUST0789,Cliente 789,Média Empresa,Nordeste,,,,,
+CUST0790,Cliente 790,Autônomo,Sul,,,,,
+CUST0791,Cliente 791,Pequena Empresa,Centro-Oeste,SALE0782,2025-07-24 10:37:23.102314,4393.0,Produto A,2025-07
+CUST0792,Cliente 792,Média Empresa,Centro-Oeste,SALE0078,2025-06-22 10:37:23.099870,3561.02,Serviço X,2025-06
+CUST0793,Cliente 793,Média Empresa,Sul,SALE0475,2025-07-04 10:37:23.101232,4699.34,Serviço Y,2025-07
+CUST0794,Cliente 794,Média Empresa,Centro-Oeste,SALE0778,2025-01-08 10:37:23.102302,3062.25,Serviço X,2025-01
+CUST0794,Cliente 794,Média Empresa,Centro-Oeste,SALE0781,2025-03-27 10:37:23.102311,1254.2,Produto B,2025-03
+CUST0795,Cliente 795,Pequena Empresa,Norte,SALE0346,2025-01-19 10:37:23.100815,4225.22,Serviço X,2025-01
+CUST0795,Cliente 795,Pequena Empresa,Norte,SALE0470,2025-06-10 10:37:23.101217,4927.09,Produto B,2025-06
+CUST0796,Cliente 796,Grande Empresa,Norte,,,,,
+CUST0797,Cliente 797,Autônomo,Norte,,,,,
+CUST0798,Cliente 798,Média Empresa,Sudeste,SALE0336,2025-04-21 10:37:23.100783,1429.84,Produto B,2025-04
+CUST0798,Cliente 798,Média Empresa,Sudeste,SALE0666,2025-03-25 10:37:23.101946,4644.13,Serviço X,2025-03
+CUST0799,Cliente 799,Média Empresa,Sul,,,,,
+CUST0800,Cliente 800,Autônomo,Sudeste,SALE0066,2025-07-03 10:37:23.099831,2826.02,Serviço Y,2025-07
+CUST0801,Cliente 801,Grande Empresa,Centro-Oeste,,,,,
+CUST0802,Cliente 802,Pequena Empresa,Sudeste,SALE0751,2025-03-14 10:37:23.102217,1080.14,Produto A,2025-03
+CUST0803,Cliente 803,Média Empresa,Centro-Oeste,SALE0091,2025-03-04 10:37:23.099921,2842.43,Produto B,2025-03
+CUST0804,Cliente 804,Média Empresa,Centro-Oeste,SALE0671,2024-12-21 10:37:23.101962,1626.42,Serviço X,2024-12
+CUST0805,Cliente 805,Média Empresa,Nordeste,,,,,
+CUST0806,Cliente 806,Grande Empresa,Norte,SALE0205,2025-06-16 10:37:23.100342,3206.44,Serviço Y,2025-06
+CUST0807,Cliente 807,Autônomo,Centro-Oeste,,,,,
+CUST0808,Cliente 808,Autônomo,Nordeste,,,,,
+CUST0809,Cliente 809,Média Empresa,Norte,SALE0191,2025-06-21 10:37:23.100299,3245.28,Serviço Y,2025-06
+CUST0810,Cliente 810,Pequena Empresa,Centro-Oeste,SALE0169,2024-12-01 10:37:23.100229,1807.23,Produto A,2024-12
+CUST0811,Cliente 811,Autônomo,Centro-Oeste,,,,,
+CUST0812,Cliente 812,Grande Empresa,Sudeste,SALE0203,2024-11-10 10:37:23.100336,2191.38,Serviço X,2024-11
+CUST0813,Cliente 813,Pequena Empresa,Sudeste,SALE0192,2025-01-06 10:37:23.100302,2011.96,Serviço X,2025-01
+CUST0813,Cliente 813,Pequena Empresa,Sudeste,SALE0534,2025-02-05 10:37:23.101419,1409.7,Serviço X,2025-02
+CUST0813,Cliente 813,Pequena Empresa,Sudeste,SALE0547,2025-06-15 10:37:23.101460,3608.1,Produto B,2025-06
+CUST0813,Cliente 813,Pequena Empresa,Sudeste,SALE0767,2025-06-30 10:37:23.102267,3512.75,Serviço X,2025-06
+CUST0814,Cliente 814,Autônomo,Norte,,,,,
+CUST0815,Cliente 815,Grande Empresa,Centro-Oeste,SALE0415,2025-07-10 10:37:23.101039,1073.46,Serviço X,2025-07
+CUST0816,Cliente 816,Média Empresa,Sul,SALE0025,2024-12-16 10:37:23.099696,1380.07,Produto A,2024-12
+CUST0816,Cliente 816,Média Empresa,Sul,SALE0105,2025-03-30 10:37:23.099989,399.0,Produto B,2025-03
+CUST0816,Cliente 816,Média Empresa,Sul,SALE0273,2025-02-04 10:37:23.100569,2560.36,Produto A,2025-02
+CUST0817,Cliente 817,Média Empresa,Sudeste,,,,,
+CUST0818,Cliente 818,Pequena Empresa,Norte,,,,,
+CUST0819,Cliente 819,Pequena Empresa,Centro-Oeste,,,,,
+CUST0820,Cliente 820,Pequena Empresa,Centro-Oeste,SALE0232,2025-05-06 10:37:23.100429,3229.43,Serviço X,2025-05
+CUST0820,Cliente 820,Pequena Empresa,Centro-Oeste,SALE0707,2025-01-13 10:37:23.102075,4741.96,Serviço Y,2025-01
+CUST0821,Cliente 821,Grande Empresa,Sul,SALE0291,2024-11-26 10:37:23.100626,3579.43,Produto A,2024-11
+CUST0821,Cliente 821,Grande Empresa,Sul,SALE0799,2024-12-17 10:37:23.102368,3846.3,Produto A,2024-12
+CUST0822,Cliente 822,Pequena Empresa,Norte,,,,,
+CUST0823,Cliente 823,Pequena Empresa,Centro-Oeste,,,,,
+CUST0824,Cliente 824,Pequena Empresa,Sudeste,SALE0018,2025-07-04 10:37:23.099674,1736.24,Produto B,2025-07
+CUST0825,Cliente 825,Média Empresa,Sul,SALE0110,2024-12-14 10:37:23.100017,1467.51,Produto B,2024-12
+CUST0826,Cliente 826,Autônomo,Norte,SALE0218,2024-11-07 10:37:23.100385,4903.05,Serviço Y,2024-11
+CUST0826,Cliente 826,Autônomo,Norte,SALE0501,2025-01-23 10:37:23.101314,3311.39,Produto A,2025-01
+CUST0827,Cliente 827,Pequena Empresa,Sul,,,,,
+CUST0828,Cliente 828,Pequena Empresa,Sudeste,SALE0419,2025-02-22 10:37:23.101052,4562.51,Produto A,2025-02
+CUST0829,Cliente 829,Grande Empresa,Norte,,,,,
+CUST0830,Cliente 830,Média Empresa,Sul,,,,,
+CUST0831,Cliente 831,Pequena Empresa,Nordeste,,,,,
+CUST0832,Cliente 832,Média Empresa,Sudeste,,,,,
+CUST0833,Cliente 833,Pequena Empresa,Sudeste,,,,,
+CUST0834,Cliente 834,Pequena Empresa,Sudeste,,,,,
+CUST0835,Cliente 835,Média Empresa,Nordeste,,,,,
+CUST0836,Cliente 836,Média Empresa,Nordeste,,,,,
+CUST0837,Cliente 837,Autônomo,Centro-Oeste,SALE0754,2025-04-19 10:37:23.102226,4340.48,Produto A,2025-04
+CUST0838,Cliente 838,Pequena Empresa,Sul,SALE0302,2025-05-11 10:37:23.100663,2578.16,Serviço X,2025-05
+CUST0839,Cliente 839,Média Empresa,Centro-Oeste,SALE0288,2025-07-19 10:37:23.100616,1071.9,Serviço Y,2025-07
+CUST0839,Cliente 839,Média Empresa,Centro-Oeste,SALE0608,2024-12-28 10:37:23.101711,4018.65,Serviço Y,2024-12
+CUST0840,Cliente 840,Média Empresa,Sul,,,,,
+CUST0841,Cliente 841,Pequena Empresa,Nordeste,SALE0142,2024-12-06 10:37:23.100144,3136.96,Serviço Y,2024-12
+CUST0841,Cliente 841,Pequena Empresa,Nordeste,SALE0296,2025-07-01 10:37:23.100641,2056.75,Serviço X,2025-07
+CUST0842,Cliente 842,Média Empresa,Nordeste,,,,,
+CUST0843,Cliente 843,Pequena Empresa,Centro-Oeste,,,,,
+CUST0844,Cliente 844,Autônomo,Norte,SALE0624,2025-05-02 10:37:23.101791,2920.12,Serviço Y,2025-05
+CUST0845,Cliente 845,Pequena Empresa,Centro-Oeste,,,,,
+CUST0846,Cliente 846,Média Empresa,Sul,,,,,
+CUST0847,Cliente 847,Pequena Empresa,Centro-Oeste,SALE0051,2025-03-11 10:37:23.099783,3624.38,Produto A,2025-03
+CUST0847,Cliente 847,Pequena Empresa,Centro-Oeste,SALE0585,2025-04-09 10:37:23.101593,3853.82,Serviço Y,2025-04
+CUST0848,Cliente 848,Autônomo,Sudeste,SALE0524,2024-11-02 10:37:23.101387,127.89,Produto B,2024-11
+CUST0849,Cliente 849,Média Empresa,Sul,SALE0327,2025-05-04 10:37:23.100754,2050.89,Produto A,2025-05
+CUST0850,Cliente 850,Média Empresa,Sul,SALE0617,2025-01-10 10:37:23.101756,2394.17,Serviço Y,2025-01
+CUST0850,Cliente 850,Média Empresa,Sul,SALE0732,2024-10-14 10:37:23.102157,2823.04,Serviço X,2024-10
+CUST0851,Cliente 851,Pequena Empresa,Norte,,,,,
+CUST0852,Cliente 852,Grande Empresa,Nordeste,,,,,
+CUST0853,Cliente 853,Pequena Empresa,Sul,,,,,
+CUST0854,Cliente 854,Grande Empresa,Nordeste,,,,,
+CUST0855,Cliente 855,Pequena Empresa,Centro-Oeste,SALE0223,2025-02-08 10:37:23.100401,245.08,Produto A,2025-02
+CUST0855,Cliente 855,Pequena Empresa,Centro-Oeste,SALE0357,2025-07-08 10:37:23.100850,3356.23,Serviço X,2025-07
+CUST0856,Cliente 856,Pequena Empresa,Sudeste,SALE0057,2024-12-24 10:37:23.099802,4426.83,Produto A,2024-12
+CUST0856,Cliente 856,Pequena Empresa,Sudeste,SALE0490,2025-04-19 10:37:23.101279,2690.3,Produto B,2025-04
+CUST0856,Cliente 856,Pequena Empresa,Sudeste,SALE0763,2025-07-08 10:37:23.102255,175.96,Serviço Y,2025-07
+CUST0857,Cliente 857,Pequena Empresa,Norte,SALE0310,2024-11-30 10:37:23.100688,808.82,Serviço Y,2024-11
+CUST0858,Cliente 858,Média Empresa,Nordeste,,,,,
+CUST0859,Cliente 859,Média Empresa,Sul,,,,,
+CUST0860,Cliente 860,Pequena Empresa,Nordeste,,,,,
+CUST0861,Cliente 861,Grande Empresa,Sul,SALE0683,2025-03-23 10:37:23.102000,928.98,Serviço X,2025-03
+CUST0862,Cliente 862,Média Empresa,Nordeste,,,,,
+CUST0863,Cliente 863,Média Empresa,Sul,,,,,
+CUST0864,Cliente 864,Média Empresa,Centro-Oeste,SALE0065,2025-01-25 10:37:23.099828,2062.8,Serviço X,2025-01
+CUST0865,Cliente 865,Média Empresa,Sul,SALE0661,2025-01-31 10:37:23.101930,2165.67,Produto A,2025-01
+CUST0866,Cliente 866,Média Empresa,Sul,,,,,
+CUST0867,Cliente 867,Pequena Empresa,Sudeste,SALE0185,2025-03-10 10:37:23.100280,1618.38,Serviço X,2025-03
+CUST0868,Cliente 868,Pequena Empresa,Sul,SALE0143,2025-03-08 10:37:23.100147,2815.6,Produto B,2025-03
+CUST0868,Cliente 868,Pequena Empresa,Sul,SALE0249,2025-05-28 10:37:23.100482,1167.19,Serviço Y,2025-05
+CUST0869,Cliente 869,Grande Empresa,Sudeste,SALE0556,2025-01-10 10:37:23.101491,3946.89,Serviço Y,2025-01
+CUST0870,Cliente 870,Autônomo,Norte,SALE0384,2025-02-22 10:37:23.100935,1993.86,Produto B,2025-02
+CUST0871,Cliente 871,Pequena Empresa,Sudeste,SALE0013,2024-12-30 10:37:23.099658,2728.75,Serviço Y,2024-12
+CUST0871,Cliente 871,Pequena Empresa,Sudeste,SALE0193,2025-06-09 10:37:23.100305,435.3,Produto B,2025-06
+CUST0872,Cliente 872,Pequena Empresa,Centro-Oeste,,,,,
+CUST0873,Cliente 873,Média Empresa,Sudeste,,,,,
+CUST0874,Cliente 874,Média Empresa,Norte,,,,,
+CUST0875,Cliente 875,Pequena Empresa,Centro-Oeste,SALE0425,2025-03-27 10:37:23.101071,747.47,Serviço Y,2025-03
+CUST0875,Cliente 875,Pequena Empresa,Centro-Oeste,SALE0708,2025-03-29 10:37:23.102079,2451.11,Serviço X,2025-03
+CUST0876,Cliente 876,Pequena Empresa,Nordeste,,,,,
+CUST0877,Cliente 877,Grande Empresa,Nordeste,SALE0258,2025-02-28 10:37:23.100510,3943.39,Produto A,2025-02
+CUST0877,Cliente 877,Grande Empresa,Nordeste,SALE0373,2025-06-07 10:37:23.100901,4591.41,Serviço X,2025-06
+CUST0878,Cliente 878,Média Empresa,Sudeste,,,,,
+CUST0879,Cliente 879,Pequena Empresa,Sudeste,,,,,
+CUST0880,Cliente 880,Pequena Empresa,Norte,,,,,
+CUST0881,Cliente 881,Pequena Empresa,Norte,,,,,
+CUST0882,Cliente 882,Média Empresa,Sul,SALE0268,2025-01-16 10:37:23.100541,1584.4,Produto B,2025-01
+CUST0883,Cliente 883,Pequena Empresa,Norte,,,,,
+CUST0884,Cliente 884,Pequena Empresa,Sul,SALE0133,2025-02-23 10:37:23.100116,750.68,Produto A,2025-02
+CUST0885,Cliente 885,Grande Empresa,Centro-Oeste,SALE0711,2025-05-13 10:37:23.102088,779.69,Produto B,2025-05
+CUST0886,Cliente 886,Pequena Empresa,Sudeste,,,,,
+CUST0887,Cliente 887,Média Empresa,Centro-Oeste,,,,,
+CUST0888,Cliente 888,Pequena Empresa,Norte,,,,,
+CUST0889,Cliente 889,Pequena Empresa,Centro-Oeste,,,,,
+CUST0890,Cliente 890,Pequena Empresa,Centro-Oeste,SALE0099,2025-07-16 10:37:23.099959,3092.47,Serviço Y,2025-07
+CUST0891,Cliente 891,Grande Empresa,Centro-Oeste,SALE0443,2025-07-18 10:37:23.101128,2897.63,Serviço X,2025-07
+CUST0891,Cliente 891,Grande Empresa,Centro-Oeste,SALE0791,2024-12-02 10:37:23.102342,2639.49,Produto A,2024-12
+CUST0892,Cliente 892,Grande Empresa,Norte,SALE0094,2025-07-18 10:37:23.099935,330.76,Produto A,2025-07
+CUST0893,Cliente 893,Grande Empresa,Centro-Oeste,SALE0186,2024-11-23 10:37:23.100283,3639.21,Serviço Y,2024-11
+CUST0894,Cliente 894,Pequena Empresa,Sul,,,,,
+CUST0895,Cliente 895,Média Empresa,Norte,,,,,
+CUST0896,Cliente 896,Pequena Empresa,Centro-Oeste,,,,,
+CUST0897,Cliente 897,Pequena Empresa,Norte,,,,,
+CUST0898,Cliente 898,Grande Empresa,Nordeste,SALE0189,2025-05-14 10:37:23.100292,1613.19,Produto B,2025-05
+CUST0899,Cliente 899,Pequena Empresa,Sul,SALE0085,2025-03-25 10:37:23.099892,2243.74,Serviço Y,2025-03
+CUST0899,Cliente 899,Pequena Empresa,Sul,SALE0089,2025-07-19 10:37:23.099910,3901.02,Serviço Y,2025-07
+CUST0899,Cliente 899,Pequena Empresa,Sul,SALE0224,2025-07-18 10:37:23.100404,2958.19,Produto A,2025-07
+CUST0900,Cliente 900,Pequena Empresa,Centro-Oeste,SALE0321,2025-04-15 10:37:23.100735,4147.75,Produto A,2025-04
+CUST0900,Cliente 900,Pequena Empresa,Centro-Oeste,SALE0723,2025-07-05 10:37:23.102126,1874.16,Produto A,2025-07
+CUST0901,Cliente 901,Pequena Empresa,Nordeste,,,,,
+CUST0902,Cliente 902,Pequena Empresa,Nordeste,SALE0374,2024-11-12 10:37:23.100904,4656.78,Produto A,2024-11
+CUST0903,Cliente 903,Pequena Empresa,Norte,,,,,
+CUST0904,Cliente 904,Média Empresa,Nordeste,,,,,
+CUST0905,Cliente 905,Média Empresa,Sul,,,,,
+CUST0906,Cliente 906,Grande Empresa,Sul,,,,,
+CUST0907,Cliente 907,Grande Empresa,Sudeste,,,,,
+CUST0908,Cliente 908,Pequena Empresa,Sul,SALE0171,2025-08-05 10:37:23.100235,3382.36,Serviço Y,2025-08
+CUST0909,Cliente 909,Pequena Empresa,Nordeste,SALE0080,2025-07-12 10:37:23.099876,393.51,Produto A,2025-07
+CUST0910,Cliente 910,Pequena Empresa,Sul,,,,,
+CUST0911,Cliente 911,Média Empresa,Norte,,,,,
+CUST0912,Cliente 912,Pequena Empresa,Sudeste,,,,,
+CUST0913,Cliente 913,Média Empresa,Nordeste,SALE0747,2025-07-25 10:37:23.102204,4879.07,Produto A,2025-07
+CUST0914,Cliente 914,Média Empresa,Sudeste,,,,,
+CUST0915,Cliente 915,Média Empresa,Nordeste,SALE0303,2025-06-22 10:37:23.100666,2302.33,Produto A,2025-06
+CUST0916,Cliente 916,Média Empresa,Norte,SALE0128,2025-06-20 10:37:23.100082,343.58,Serviço Y,2025-06
+CUST0916,Cliente 916,Média Empresa,Norte,SALE0619,2025-05-31 10:37:23.101766,4653.21,Produto B,2025-05
+CUST0916,Cliente 916,Média Empresa,Norte,SALE0663,2025-06-26 10:37:23.101936,4572.66,Serviço Y,2025-06
+CUST0917,Cliente 917,Pequena Empresa,Sudeste,SALE0033,2025-01-24 10:37:23.099722,4740.29,Serviço Y,2025-01
+CUST0917,Cliente 917,Pequena Empresa,Sudeste,SALE0248,2025-05-19 10:37:23.100479,1175.53,Produto A,2025-05
+CUST0918,Cliente 918,Autônomo,Centro-Oeste,SALE0789,2025-03-28 10:37:23.102336,1718.16,Produto A,2025-03
+CUST0919,Cliente 919,Grande Empresa,Nordeste,SALE0677,2025-01-26 10:37:23.101982,3861.17,Produto A,2025-01
+CUST0920,Cliente 920,Pequena Empresa,Centro-Oeste,SALE0347,2025-02-27 10:37:23.100818,3457.45,Serviço X,2025-02
+CUST0920,Cliente 920,Pequena Empresa,Centro-Oeste,SALE0387,2025-03-18 10:37:23.100949,3444.25,Produto B,2025-03
+CUST0920,Cliente 920,Pequena Empresa,Centro-Oeste,SALE0662,2025-05-06 10:37:23.101933,717.25,Produto B,2025-05
+CUST0921,Cliente 921,Grande Empresa,Sudeste,,,,,
+CUST0922,Cliente 922,Média Empresa,Centro-Oeste,,,,,
+CUST0923,Cliente 923,Grande Empresa,Centro-Oeste,,,,,
+CUST0924,Cliente 924,Grande Empresa,Sudeste,,,,,
+CUST0925,Cliente 925,Média Empresa,Norte,SALE0595,2025-04-08 10:37:23.101648,2894.14,Produto B,2025-04
+CUST0926,Cliente 926,Pequena Empresa,Centro-Oeste,,,,,
+CUST0927,Cliente 927,Pequena Empresa,Centro-Oeste,SALE0121,2025-01-27 10:37:23.100051,525.23,Serviço Y,2025-01
+CUST0927,Cliente 927,Pequena Empresa,Centro-Oeste,SALE0361,2025-06-27 10:37:23.100862,2110.93,Serviço Y,2025-06
+CUST0927,Cliente 927,Pequena Empresa,Centro-Oeste,SALE0638,2025-05-04 10:37:23.101853,2633.28,Produto B,2025-05
+CUST0928,Cliente 928,Média Empresa,Norte,,,,,
+CUST0929,Cliente 929,Média Empresa,Centro-Oeste,SALE0102,2024-10-21 10:37:23.099974,4073.15,Produto B,2024-10
+CUST0930,Cliente 930,Pequena Empresa,Centro-Oeste,SALE0153,2025-05-21 10:37:23.100179,864.9,Produto B,2025-05
+CUST0931,Cliente 931,Pequena Empresa,Centro-Oeste,SALE0645,2024-11-04 10:37:23.101880,1591.13,Serviço X,2024-11
+CUST0932,Cliente 932,Grande Empresa,Sul,,,,,
+CUST0933,Cliente 933,Autônomo,Norte,SALE0240,2025-05-11 10:37:23.100454,1848.7,Produto A,2025-05
+CUST0934,Cliente 934,Média Empresa,Centro-Oeste,,,,,
+CUST0935,Cliente 935,Pequena Empresa,Norte,,,,,
+CUST0936,Cliente 936,Pequena Empresa,Nordeste,SALE0108,2025-05-09 10:37:23.100006,516.49,Serviço Y,2025-05
+CUST0936,Cliente 936,Pequena Empresa,Nordeste,SALE0456,2024-11-24 10:37:23.101169,2154.69,Produto A,2024-11
+CUST0937,Cliente 937,Pequena Empresa,Nordeste,SALE0325,2024-12-11 10:37:23.100748,4302.99,Serviço X,2024-12
+CUST0937,Cliente 937,Pequena Empresa,Nordeste,SALE0427,2024-11-28 10:37:23.101078,3255.97,Produto B,2024-11
+CUST0938,Cliente 938,Autônomo,Centro-Oeste,SALE0712,2024-11-05 10:37:23.102091,3555.44,Produto B,2024-11
+CUST0939,Cliente 939,Pequena Empresa,Norte,,,,,
+CUST0940,Cliente 940,Média Empresa,Norte,SALE0274,2025-07-11 10:37:23.100572,3942.15,Serviço Y,2025-07
+CUST0941,Cliente 941,Pequena Empresa,Norte,SALE0154,2024-10-27 10:37:23.100182,785.93,Serviço Y,2024-10
+CUST0942,Cliente 942,Média Empresa,Sul,SALE0480,2025-01-04 10:37:23.101248,1809.26,Serviço X,2025-01
+CUST0942,Cliente 942,Média Empresa,Sul,SALE0676,2025-08-04 10:37:23.101979,3944.0,Produto B,2025-08
+CUST0943,Cliente 943,Média Empresa,Nordeste,,,,,
+CUST0944,Cliente 944,Grande Empresa,Norte,,,,,
+CUST0945,Cliente 945,Pequena Empresa,Norte,SALE0646,2025-05-31 10:37:23.101883,2860.5,Produto B,2025-05
+CUST0946,Cliente 946,Pequena Empresa,Sul,,,,,
+CUST0947,Cliente 947,Pequena Empresa,Sul,,,,,
+CUST0948,Cliente 948,Autônomo,Norte,SALE0316,2025-05-14 10:37:23.100720,2623.99,Serviço Y,2025-05
+CUST0949,Cliente 949,Grande Empresa,Sudeste,SALE0453,2025-05-25 10:37:23.101160,3128.71,Produto A,2025-05
+CUST0949,Cliente 949,Grande Empresa,Sudeste,SALE0800,2025-07-02 10:37:23.102371,2109.79,Serviço X,2025-07
+CUST0950,Cliente 950,Média Empresa,Norte,SALE0038,2024-10-31 10:37:23.099738,4946.47,Produto B,2024-10
+CUST0950,Cliente 950,Média Empresa,Norte,SALE0451,2025-01-02 10:37:23.101154,3646.6,Produto B,2025-01
+CUST0950,Cliente 950,Média Empresa,Norte,SALE0587,2025-04-30 10:37:23.101602,3575.33,Serviço X,2025-04
+CUST0951,Cliente 951,Média Empresa,Norte,,,,,
+CUST0952,Cliente 952,Média Empresa,Sul,SALE0607,2024-11-27 10:37:23.101706,4953.13,Serviço Y,2024-11
+CUST0953,Cliente 953,Pequena Empresa,Sul,,,,,
+CUST0954,Cliente 954,Autônomo,Norte,,,,,
+CUST0955,Cliente 955,Média Empresa,Norte,SALE0537,2025-02-20 10:37:23.101429,4321.17,Produto A,2025-02
+CUST0955,Cliente 955,Média Empresa,Norte,SALE0766,2025-01-07 10:37:23.102264,4430.13,Serviço X,2025-01
+CUST0956,Cliente 956,Pequena Empresa,Norte,,,,,
+CUST0957,Cliente 957,Média Empresa,Sul,,,,,
+CUST0958,Cliente 958,Pequena Empresa,Norte,,,,,
+CUST0959,Cliente 959,Pequena Empresa,Norte,,,,,
+CUST0960,Cliente 960,Grande Empresa,Centro-Oeste,SALE0103,2025-02-18 10:37:23.099979,3340.76,Serviço Y,2025-02
+CUST0961,Cliente 961,Pequena Empresa,Sudeste,SALE0044,2025-04-09 10:37:23.099757,4527.8,Produto A,2025-04
+CUST0962,Cliente 962,Média Empresa,Nordeste,,,,,
+CUST0963,Cliente 963,Pequena Empresa,Sudeste,,,,,
+CUST0964,Cliente 964,Pequena Empresa,Centro-Oeste,,,,,
+CUST0965,Cliente 965,Pequena Empresa,Nordeste,,,,,
+CUST0966,Cliente 966,Pequena Empresa,Norte,SALE0254,2024-10-22 10:37:23.100497,403.05,Serviço Y,2024-10
+CUST0967,Cliente 967,Grande Empresa,Centro-Oeste,SALE0138,2025-01-15 10:37:23.100132,1907.47,Serviço Y,2025-01
+CUST0968,Cliente 968,Pequena Empresa,Norte,,,,,
+CUST0969,Cliente 969,Média Empresa,Sul,SALE0634,2025-05-30 10:37:23.101841,4543.03,Serviço Y,2025-05
+CUST0969,Cliente 969,Média Empresa,Sul,SALE0703,2025-05-25 10:37:23.102063,3393.25,Serviço X,2025-05
+CUST0970,Cliente 970,Média Empresa,Centro-Oeste,SALE0589,2024-10-13 10:37:23.101616,900.69,Produto B,2024-10
+CUST0971,Cliente 971,Média Empresa,Sul,SALE0716,2025-04-17 10:37:23.102104,3726.17,Produto B,2025-04
+CUST0972,Cliente 972,Autônomo,Centro-Oeste,SALE0201,2025-02-14 10:37:23.100330,457.63,Serviço X,2025-02
+CUST0973,Cliente 973,Grande Empresa,Centro-Oeste,,,,,
+CUST0974,Cliente 974,Pequena Empresa,Sul,,,,,
+CUST0975,Cliente 975,Pequena Empresa,Nordeste,,,,,
+CUST0976,Cliente 976,Pequena Empresa,Sudeste,SALE0673,2025-08-04 10:37:23.101968,4017.95,Serviço X,2025-08
+CUST0977,Cliente 977,Média Empresa,Norte,SALE0007,2025-07-09 10:37:23.099635,2363.07,Produto B,2025-07
+CUST0977,Cliente 977,Média Empresa,Norte,SALE0568,2025-04-11 10:37:23.101530,3692.71,Serviço Y,2025-04
+CUST0978,Cliente 978,Pequena Empresa,Centro-Oeste,,,,,
+CUST0979,Cliente 979,Média Empresa,Norte,,,,,
+CUST0980,Cliente 980,Média Empresa,Sul,SALE0431,2025-04-22 10:37:23.101090,136.28,Serviço X,2025-04
+CUST0981,Cliente 981,Pequena Empresa,Norte,,,,,
+CUST0982,Cliente 982,Grande Empresa,Sul,,,,,
+CUST0983,Cliente 983,Pequena Empresa,Norte,SALE0093,2025-05-12 10:37:23.099930,4616.98,Serviço Y,2025-05
+CUST0983,Cliente 983,Pequena Empresa,Norte,SALE0407,2025-01-31 10:37:23.101014,3316.11,Produto B,2025-01
+CUST0984,Cliente 984,Pequena Empresa,Sudeste,SALE0155,2025-03-30 10:37:23.100186,2308.72,Serviço X,2025-03
+CUST0984,Cliente 984,Pequena Empresa,Sudeste,SALE0265,2025-01-04 10:37:23.100532,535.13,Serviço Y,2025-01
+CUST0984,Cliente 984,Pequena Empresa,Sudeste,SALE0458,2025-05-21 10:37:23.101176,2612.51,Serviço Y,2025-05
+CUST0985,Cliente 985,Grande Empresa,Sudeste,,,,,
+CUST0986,Cliente 986,Média Empresa,Sudeste,SALE0397,2025-02-08 10:37:23.100981,419.58,Produto A,2025-02
+CUST0987,Cliente 987,Média Empresa,Sudeste,SALE0635,2025-07-17 10:37:23.101844,1557.95,Serviço X,2025-07
+CUST0988,Cliente 988,Média Empresa,Sudeste,,,,,
+CUST0989,Cliente 989,Pequena Empresa,Sudeste,,,,,
+CUST0990,Cliente 990,Grande Empresa,Sul,SALE0539,2025-03-17 10:37:23.101435,4972.53,Produto A,2025-03
+CUST0990,Cliente 990,Grande Empresa,Sul,SALE0722,2025-01-23 10:37:23.102122,4699.71,Serviço X,2025-01
+CUST0991,Cliente 991,Grande Empresa,Centro-Oeste,SALE0335,2024-12-20 10:37:23.100780,2144.22,Serviço Y,2024-12
+CUST0992,Cliente 992,Média Empresa,Norte,,,,,
+CUST0993,Cliente 993,Pequena Empresa,Sudeste,SALE0528,2024-11-15 10:37:23.101400,461.85,Produto B,2024-11
+CUST0994,Cliente 994,Média Empresa,Sul,,,,,
+CUST0995,Cliente 995,Pequena Empresa,Sul,,,,,
+CUST0996,Cliente 996,Pequena Empresa,Sul,,,,,
+CUST0997,Cliente 997,Autônomo,Centro-Oeste,,,,,
+CUST0998,Cliente 998,Pequena Empresa,Norte,,,,,
+CUST0999,Cliente 999,Autônomo,Centro-Oeste,SALE0543,2025-06-22 10:37:23.101448,2020.13,Produto B,2025-06
+CUST0999,Cliente 999,Autônomo,Centro-Oeste,SALE0642,2024-12-14 10:37:23.101870,3253.48,Serviço X,2024-12
+CUST1000,Cliente 1000,Média Empresa,Nordeste,SALE0567,2025-01-26 10:37:23.101526,2661.44,Serviço Y,2025-01

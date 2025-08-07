@@ -1,0 +1,1001 @@
+customer_id,customer_name,segment,region
+CUST0001,Cliente 1,Pequena Empresa,Centro-Oeste
+CUST0002,Cliente 2,Autônomo,Nordeste
+CUST0003,Cliente 3,Grande Empresa,Norte
+CUST0004,Cliente 4,Média Empresa,Sudeste
+CUST0005,Cliente 5,Pequena Empresa,Norte
+CUST0006,Cliente 6,Pequena Empresa,Sudeste
+CUST0007,Cliente 7,Pequena Empresa,Sul
+CUST0008,Cliente 8,Grande Empresa,Sudeste
+CUST0009,Cliente 9,Média Empresa,Centro-Oeste
+CUST0010,Cliente 10,Grande Empresa,Nordeste
+CUST0011,Cliente 11,Pequena Empresa,Sul
+CUST0012,Cliente 12,Autônomo,Sudeste
+CUST0013,Cliente 13,Grande Empresa,Norte
+CUST0014,Cliente 14,Pequena Empresa,Sul
+CUST0015,Cliente 15,Pequena Empresa,Sul
+CUST0016,Cliente 16,Pequena Empresa,Sudeste
+CUST0017,Cliente 17,Pequena Empresa,Sul
+CUST0018,Cliente 18,Média Empresa,Norte
+CUST0019,Cliente 19,Média Empresa,Sul
+CUST0020,Cliente 20,Pequena Empresa,Norte
+CUST0021,Cliente 21,Média Empresa,Sudeste
+CUST0022,Cliente 22,Pequena Empresa,Nordeste
+CUST0023,Cliente 23,Pequena Empresa,Sul
+CUST0024,Cliente 24,Pequena Empresa,Nordeste
+CUST0025,Cliente 25,Média Empresa,Norte
+CUST0026,Cliente 26,Grande Empresa,Sul
+CUST0027,Cliente 27,Pequena Empresa,Centro-Oeste
+CUST0028,Cliente 28,Média Empresa,Nordeste
+CUST0029,Cliente 29,Média Empresa,Sul
+CUST0030,Cliente 30,Pequena Empresa,Nordeste
+CUST0031,Cliente 31,Média Empresa,Sul
+CUST0032,Cliente 32,Pequena Empresa,Sudeste
+CUST0033,Cliente 33,Pequena Empresa,Nordeste
+CUST0034,Cliente 34,Autônomo,Centro-Oeste
+CUST0035,Cliente 35,Autônomo,Centro-Oeste
+CUST0036,Cliente 36,Grande Empresa,Norte
+CUST0037,Cliente 37,Pequena Empresa,Sul
+CUST0038,Cliente 38,Pequena Empresa,Nordeste
+CUST0039,Cliente 39,Média Empresa,Norte
+CUST0040,Cliente 40,Média Empresa,Nordeste
+CUST0041,Cliente 41,Pequena Empresa,Sul
+CUST0042,Cliente 42,Média Empresa,Centro-Oeste
+CUST0043,Cliente 43,Pequena Empresa,Sudeste
+CUST0044,Cliente 44,Autônomo,Centro-Oeste
+CUST0045,Cliente 45,Pequena Empresa,Norte
+CUST0046,Cliente 46,Média Empresa,Sudeste
+CUST0047,Cliente 47,Pequena Empresa,Norte
+CUST0048,Cliente 48,Média Empresa,Sul
+CUST0049,Cliente 49,Média Empresa,Sudeste
+CUST0050,Cliente 50,Pequena Empresa,Norte
+CUST0051,Cliente 51,Autônomo,Sul
+CUST0052,Cliente 52,Grande Empresa,Centro-Oeste
+CUST0053,Cliente 53,Autônomo,Sul
+CUST0054,Cliente 54,Grande Empresa,Nordeste
+CUST0055,Cliente 55,Média Empresa,Sul
+CUST0056,Cliente 56,Autônomo,Sul
+CUST0057,Cliente 57,Pequena Empresa,Nordeste
+CUST0058,Cliente 58,Pequena Empresa,Norte
+CUST0059,Cliente 59,Pequena Empresa,Norte
+CUST0060,Cliente 60,Pequena Empresa,Sul
+CUST0061,Cliente 61,Pequena Empresa,Nordeste
+CUST0062,Cliente 62,Pequena Empresa,Nordeste
+CUST0063,Cliente 63,Grande Empresa,Centro-Oeste
+CUST0064,Cliente 64,Pequena Empresa,Norte
+CUST0065,Cliente 65,Pequena Empresa,Sudeste
+CUST0066,Cliente 66,Média Empresa,Norte
+CUST0067,Cliente 67,Pequena Empresa,Norte
+CUST0068,Cliente 68,Grande Empresa,Centro-Oeste
+CUST0069,Cliente 69,Pequena Empresa,Sudeste
+CUST0070,Cliente 70,Autônomo,Centro-Oeste
+CUST0071,Cliente 71,Grande Empresa,Sudeste
+CUST0072,Cliente 72,Pequena Empresa,Sul
+CUST0073,Cliente 73,Pequena Empresa,Sudeste
+CUST0074,Cliente 74,Grande Empresa,Centro-Oeste
+CUST0075,Cliente 75,Grande Empresa,Norte
+CUST0076,Cliente 76,Grande Empresa,Sudeste
+CUST0077,Cliente 77,Grande Empresa,Sudeste
+CUST0078,Cliente 78,Pequena Empresa,Nordeste
+CUST0079,Cliente 79,Pequena Empresa,Norte
+CUST0080,Cliente 80,Pequena Empresa,Sul
+CUST0081,Cliente 81,Grande Empresa,Centro-Oeste
+CUST0082,Cliente 82,Média Empresa,Sul
+CUST0083,Cliente 83,Pequena Empresa,Norte
+CUST0084,Cliente 84,Pequena Empresa,Sudeste
+CUST0085,Cliente 85,Pequena Empresa,Sudeste
+CUST0086,Cliente 86,Pequena Empresa,Norte
+CUST0087,Cliente 87,Grande Empresa,Sudeste
+CUST0088,Cliente 88,Média Empresa,Sudeste
+CUST0089,Cliente 89,Grande Empresa,Sudeste
+CUST0090,Cliente 90,Média Empresa,Centro-Oeste
+CUST0091,Cliente 91,Pequena Empresa,Centro-Oeste
+CUST0092,Cliente 92,Grande Empresa,Nordeste
+CUST0093,Cliente 93,Grande Empresa,Sul
+CUST0094,Cliente 94,Média Empresa,Norte
+CUST0095,Cliente 95,Grande Empresa,Norte
+CUST0096,Cliente 96,Média Empresa,Norte
+CUST0097,Cliente 97,Média Empresa,Nordeste
+CUST0098,Cliente 98,Média Empresa,Centro-Oeste
+CUST0099,Cliente 99,Pequena Empresa,Nordeste
+CUST0100,Cliente 100,Pequena Empresa,Norte
+CUST0101,Cliente 101,Pequena Empresa,Sul
+CUST0102,Cliente 102,Média Empresa,Sudeste
+CUST0103,Cliente 103,Pequena Empresa,Centro-Oeste
+CUST0104,Cliente 104,Média Empresa,Centro-Oeste
+CUST0105,Cliente 105,Autônomo,Nordeste
+CUST0106,Cliente 106,Pequena Empresa,Centro-Oeste
+CUST0107,Cliente 107,Média Empresa,Norte
+CUST0108,Cliente 108,Grande Empresa,Norte
+CUST0109,Cliente 109,Pequena Empresa,Nordeste
+CUST0110,Cliente 110,Pequena Empresa,Norte
+CUST0111,Cliente 111,Pequena Empresa,Sul
+CUST0112,Cliente 112,Pequena Empresa,Nordeste
+CUST0113,Cliente 113,Autônomo,Sul
+CUST0114,Cliente 114,Grande Empresa,Sudeste
+CUST0115,Cliente 115,Média Empresa,Sul
+CUST0116,Cliente 116,Grande Empresa,Sudeste
+CUST0117,Cliente 117,Grande Empresa,Sudeste
+CUST0118,Cliente 118,Pequena Empresa,Sul
+CUST0119,Cliente 119,Grande Empresa,Nordeste
+CUST0120,Cliente 120,Média Empresa,Norte
+CUST0121,Cliente 121,Grande Empresa,Norte
+CUST0122,Cliente 122,Grande Empresa,Sudeste
+CUST0123,Cliente 123,Pequena Empresa,Sudeste
+CUST0124,Cliente 124,Pequena Empresa,Nordeste
+CUST0125,Cliente 125,Pequena Empresa,Centro-Oeste
+CUST0126,Cliente 126,Média Empresa,Sul
+CUST0127,Cliente 127,Grande Empresa,Sudeste
+CUST0128,Cliente 128,Grande Empresa,Norte
+CUST0129,Cliente 129,Pequena Empresa,Nordeste
+CUST0130,Cliente 130,Média Empresa,Sul
+CUST0131,Cliente 131,Média Empresa,Nordeste
+CUST0132,Cliente 132,Pequena Empresa,Sul
+CUST0133,Cliente 133,Pequena Empresa,Sul
+CUST0134,Cliente 134,Pequena Empresa,Sudeste
+CUST0135,Cliente 135,Autônomo,Nordeste
+CUST0136,Cliente 136,Pequena Empresa,Nordeste
+CUST0137,Cliente 137,Média Empresa,Norte
+CUST0138,Cliente 138,Grande Empresa,Norte
+CUST0139,Cliente 139,Pequena Empresa,Sudeste
+CUST0140,Cliente 140,Autônomo,Sudeste
+CUST0141,Cliente 141,Autônomo,Centro-Oeste
+CUST0142,Cliente 142,Pequena Empresa,Norte
+CUST0143,Cliente 143,Média Empresa,Sul
+CUST0144,Cliente 144,Pequena Empresa,Nordeste
+CUST0145,Cliente 145,Pequena Empresa,Sudeste
+CUST0146,Cliente 146,Pequena Empresa,Nordeste
+CUST0147,Cliente 147,Média Empresa,Nordeste
+CUST0148,Cliente 148,Média Empresa,Centro-Oeste
+CUST0149,Cliente 149,Pequena Empresa,Norte
+CUST0150,Cliente 150,Pequena Empresa,Sudeste
+CUST0151,Cliente 151,Autônomo,Nordeste
+CUST0152,Cliente 152,Pequena Empresa,Sudeste
+CUST0153,Cliente 153,Pequena Empresa,Sul
+CUST0154,Cliente 154,Média Empresa,Centro-Oeste
+CUST0155,Cliente 155,Autônomo,Sul
+CUST0156,Cliente 156,Pequena Empresa,Sudeste
+CUST0157,Cliente 157,Média Empresa,Sudeste
+CUST0158,Cliente 158,Grande Empresa,Norte
+CUST0159,Cliente 159,Pequena Empresa,Nordeste
+CUST0160,Cliente 160,Grande Empresa,Nordeste
+CUST0161,Cliente 161,Pequena Empresa,Sul
+CUST0162,Cliente 162,Média Empresa,Centro-Oeste
+CUST0163,Cliente 163,Média Empresa,Nordeste
+CUST0164,Cliente 164,Média Empresa,Norte
+CUST0165,Cliente 165,Pequena Empresa,Sul
+CUST0166,Cliente 166,Grande Empresa,Sul
+CUST0167,Cliente 167,Pequena Empresa,Norte
+CUST0168,Cliente 168,Pequena Empresa,Centro-Oeste
+CUST0169,Cliente 169,Pequena Empresa,Norte
+CUST0170,Cliente 170,Média Empresa,Centro-Oeste
+CUST0171,Cliente 171,Média Empresa,Norte
+CUST0172,Cliente 172,Pequena Empresa,Norte
+CUST0173,Cliente 173,Média Empresa,Sudeste
+CUST0174,Cliente 174,Pequena Empresa,Sul
+CUST0175,Cliente 175,Média Empresa,Norte
+CUST0176,Cliente 176,Pequena Empresa,Norte
+CUST0177,Cliente 177,Média Empresa,Nordeste
+CUST0178,Cliente 178,Pequena Empresa,Sul
+CUST0179,Cliente 179,Autônomo,Nordeste
+CUST0180,Cliente 180,Pequena Empresa,Sul
+CUST0181,Cliente 181,Pequena Empresa,Nordeste
+CUST0182,Cliente 182,Pequena Empresa,Norte
+CUST0183,Cliente 183,Autônomo,Norte
+CUST0184,Cliente 184,Grande Empresa,Sudeste
+CUST0185,Cliente 185,Pequena Empresa,Nordeste
+CUST0186,Cliente 186,Média Empresa,Centro-Oeste
+CUST0187,Cliente 187,Grande Empresa,Sudeste
+CUST0188,Cliente 188,Média Empresa,Nordeste
+CUST0189,Cliente 189,Média Empresa,Nordeste
+CUST0190,Cliente 190,Pequena Empresa,Sudeste
+CUST0191,Cliente 191,Pequena Empresa,Norte
+CUST0192,Cliente 192,Grande Empresa,Nordeste
+CUST0193,Cliente 193,Autônomo,Norte
+CUST0194,Cliente 194,Média Empresa,Sudeste
+CUST0195,Cliente 195,Pequena Empresa,Norte
+CUST0196,Cliente 196,Pequena Empresa,Sul
+CUST0197,Cliente 197,Grande Empresa,Centro-Oeste
+CUST0198,Cliente 198,Grande Empresa,Nordeste
+CUST0199,Cliente 199,Grande Empresa,Centro-Oeste
+CUST0200,Cliente 200,Grande Empresa,Norte
+CUST0201,Cliente 201,Média Empresa,Nordeste
+CUST0202,Cliente 202,Pequena Empresa,Norte
+CUST0203,Cliente 203,Pequena Empresa,Sul
+CUST0204,Cliente 204,Grande Empresa,Sudeste
+CUST0205,Cliente 205,Média Empresa,Nordeste
+CUST0206,Cliente 206,Pequena Empresa,Sul
+CUST0207,Cliente 207,Pequena Empresa,Sul
+CUST0208,Cliente 208,Média Empresa,Nordeste
+CUST0209,Cliente 209,Pequena Empresa,Norte
+CUST0210,Cliente 210,Pequena Empresa,Sul
+CUST0211,Cliente 211,Média Empresa,Centro-Oeste
+CUST0212,Cliente 212,Média Empresa,Sul
+CUST0213,Cliente 213,Média Empresa,Norte
+CUST0214,Cliente 214,Pequena Empresa,Norte
+CUST0215,Cliente 215,Grande Empresa,Centro-Oeste
+CUST0216,Cliente 216,Pequena Empresa,Sul
+CUST0217,Cliente 217,Pequena Empresa,Norte
+CUST0218,Cliente 218,Grande Empresa,Nordeste
+CUST0219,Cliente 219,Média Empresa,Sudeste
+CUST0220,Cliente 220,Grande Empresa,Sudeste
+CUST0221,Cliente 221,Média Empresa,Sudeste
+CUST0222,Cliente 222,Média Empresa,Sul
+CUST0223,Cliente 223,Pequena Empresa,Centro-Oeste
+CUST0224,Cliente 224,Pequena Empresa,Norte
+CUST0225,Cliente 225,Pequena Empresa,Nordeste
+CUST0226,Cliente 226,Pequena Empresa,Nordeste
+CUST0227,Cliente 227,Autônomo,Sul
+CUST0228,Cliente 228,Pequena Empresa,Sudeste
+CUST0229,Cliente 229,Grande Empresa,Sul
+CUST0230,Cliente 230,Média Empresa,Centro-Oeste
+CUST0231,Cliente 231,Grande Empresa,Centro-Oeste
+CUST0232,Cliente 232,Média Empresa,Norte
+CUST0233,Cliente 233,Média Empresa,Norte
+CUST0234,Cliente 234,Média Empresa,Centro-Oeste
+CUST0235,Cliente 235,Pequena Empresa,Centro-Oeste
+CUST0236,Cliente 236,Grande Empresa,Centro-Oeste
+CUST0237,Cliente 237,Pequena Empresa,Sul
+CUST0238,Cliente 238,Pequena Empresa,Centro-Oeste
+CUST0239,Cliente 239,Média Empresa,Nordeste
+CUST0240,Cliente 240,Pequena Empresa,Sudeste
+CUST0241,Cliente 241,Autônomo,Centro-Oeste
+CUST0242,Cliente 242,Autônomo,Sudeste
+CUST0243,Cliente 243,Autônomo,Sul
+CUST0244,Cliente 244,Pequena Empresa,Sudeste
+CUST0245,Cliente 245,Pequena Empresa,Sul
+CUST0246,Cliente 246,Autônomo,Nordeste
+CUST0247,Cliente 247,Média Empresa,Sul
+CUST0248,Cliente 248,Autônomo,Sul
+CUST0249,Cliente 249,Autônomo,Norte
+CUST0250,Cliente 250,Grande Empresa,Centro-Oeste
+CUST0251,Cliente 251,Pequena Empresa,Centro-Oeste
+CUST0252,Cliente 252,Pequena Empresa,Nordeste
+CUST0253,Cliente 253,Grande Empresa,Nordeste
+CUST0254,Cliente 254,Pequena Empresa,Centro-Oeste
+CUST0255,Cliente 255,Pequena Empresa,Norte
+CUST0256,Cliente 256,Média Empresa,Centro-Oeste
+CUST0257,Cliente 257,Autônomo,Norte
+CUST0258,Cliente 258,Média Empresa,Nordeste
+CUST0259,Cliente 259,Média Empresa,Sudeste
+CUST0260,Cliente 260,Pequena Empresa,Nordeste
+CUST0261,Cliente 261,Média Empresa,Nordeste
+CUST0262,Cliente 262,Autônomo,Sul
+CUST0263,Cliente 263,Pequena Empresa,Sul
+CUST0264,Cliente 264,Média Empresa,Sul
+CUST0265,Cliente 265,Grande Empresa,Sul
+CUST0266,Cliente 266,Grande Empresa,Norte
+CUST0267,Cliente 267,Média Empresa,Centro-Oeste
+CUST0268,Cliente 268,Grande Empresa,Sudeste
+CUST0269,Cliente 269,Pequena Empresa,Nordeste
+CUST0270,Cliente 270,Pequena Empresa,Norte
+CUST0271,Cliente 271,Grande Empresa,Sudeste
+CUST0272,Cliente 272,Grande Empresa,Norte
+CUST0273,Cliente 273,Grande Empresa,Norte
+CUST0274,Cliente 274,Autônomo,Nordeste
+CUST0275,Cliente 275,Média Empresa,Centro-Oeste
+CUST0276,Cliente 276,Média Empresa,Sul
+CUST0277,Cliente 277,Grande Empresa,Centro-Oeste
+CUST0278,Cliente 278,Média Empresa,Nordeste
+CUST0279,Cliente 279,Grande Empresa,Nordeste
+CUST0280,Cliente 280,Grande Empresa,Nordeste
+CUST0281,Cliente 281,Grande Empresa,Sudeste
+CUST0282,Cliente 282,Pequena Empresa,Centro-Oeste
+CUST0283,Cliente 283,Pequena Empresa,Centro-Oeste
+CUST0284,Cliente 284,Pequena Empresa,Norte
+CUST0285,Cliente 285,Média Empresa,Norte
+CUST0286,Cliente 286,Pequena Empresa,Norte
+CUST0287,Cliente 287,Média Empresa,Nordeste
+CUST0288,Cliente 288,Média Empresa,Centro-Oeste
+CUST0289,Cliente 289,Pequena Empresa,Nordeste
+CUST0290,Cliente 290,Média Empresa,Sudeste
+CUST0291,Cliente 291,Pequena Empresa,Norte
+CUST0292,Cliente 292,Pequena Empresa,Nordeste
+CUST0293,Cliente 293,Grande Empresa,Nordeste
+CUST0294,Cliente 294,Pequena Empresa,Sudeste
+CUST0295,Cliente 295,Pequena Empresa,Sul
+CUST0296,Cliente 296,Média Empresa,Centro-Oeste
+CUST0297,Cliente 297,Grande Empresa,Sul
+CUST0298,Cliente 298,Pequena Empresa,Norte
+CUST0299,Cliente 299,Média Empresa,Nordeste
+CUST0300,Cliente 300,Pequena Empresa,Sudeste
+CUST0301,Cliente 301,Pequena Empresa,Sudeste
+CUST0302,Cliente 302,Média Empresa,Centro-Oeste
+CUST0303,Cliente 303,Média Empresa,Sul
+CUST0304,Cliente 304,Média Empresa,Centro-Oeste
+CUST0305,Cliente 305,Grande Empresa,Nordeste
+CUST0306,Cliente 306,Autônomo,Centro-Oeste
+CUST0307,Cliente 307,Média Empresa,Sudeste
+CUST0308,Cliente 308,Pequena Empresa,Sudeste
+CUST0309,Cliente 309,Grande Empresa,Norte
+CUST0310,Cliente 310,Pequena Empresa,Norte
+CUST0311,Cliente 311,Média Empresa,Nordeste
+CUST0312,Cliente 312,Pequena Empresa,Sul
+CUST0313,Cliente 313,Pequena Empresa,Centro-Oeste
+CUST0314,Cliente 314,Autônomo,Nordeste
+CUST0315,Cliente 315,Grande Empresa,Norte
+CUST0316,Cliente 316,Média Empresa,Centro-Oeste
+CUST0317,Cliente 317,Média Empresa,Norte
+CUST0318,Cliente 318,Pequena Empresa,Centro-Oeste
+CUST0319,Cliente 319,Pequena Empresa,Sul
+CUST0320,Cliente 320,Pequena Empresa,Nordeste
+CUST0321,Cliente 321,Média Empresa,Centro-Oeste
+CUST0322,Cliente 322,Grande Empresa,Sudeste
+CUST0323,Cliente 323,Média Empresa,Sudeste
+CUST0324,Cliente 324,Pequena Empresa,Centro-Oeste
+CUST0325,Cliente 325,Autônomo,Centro-Oeste
+CUST0326,Cliente 326,Grande Empresa,Centro-Oeste
+CUST0327,Cliente 327,Média Empresa,Sudeste
+CUST0328,Cliente 328,Média Empresa,Sudeste
+CUST0329,Cliente 329,Média Empresa,Centro-Oeste
+CUST0330,Cliente 330,Pequena Empresa,Norte
+CUST0331,Cliente 331,Pequena Empresa,Norte
+CUST0332,Cliente 332,Grande Empresa,Sul
+CUST0333,Cliente 333,Pequena Empresa,Nordeste
+CUST0334,Cliente 334,Pequena Empresa,Norte
+CUST0335,Cliente 335,Pequena Empresa,Sudeste
+CUST0336,Cliente 336,Pequena Empresa,Norte
+CUST0337,Cliente 337,Grande Empresa,Sul
+CUST0338,Cliente 338,Grande Empresa,Sul
+CUST0339,Cliente 339,Média Empresa,Nordeste
+CUST0340,Cliente 340,Pequena Empresa,Norte
+CUST0341,Cliente 341,Média Empresa,Sudeste
+CUST0342,Cliente 342,Média Empresa,Sudeste
+CUST0343,Cliente 343,Pequena Empresa,Centro-Oeste
+CUST0344,Cliente 344,Média Empresa,Sudeste
+CUST0345,Cliente 345,Pequena Empresa,Nordeste
+CUST0346,Cliente 346,Média Empresa,Nordeste
+CUST0347,Cliente 347,Média Empresa,Sudeste
+CUST0348,Cliente 348,Pequena Empresa,Sudeste
+CUST0349,Cliente 349,Pequena Empresa,Centro-Oeste
+CUST0350,Cliente 350,Média Empresa,Sudeste
+CUST0351,Cliente 351,Média Empresa,Centro-Oeste
+CUST0352,Cliente 352,Grande Empresa,Centro-Oeste
+CUST0353,Cliente 353,Média Empresa,Sudeste
+CUST0354,Cliente 354,Pequena Empresa,Sul
+CUST0355,Cliente 355,Pequena Empresa,Sul
+CUST0356,Cliente 356,Média Empresa,Centro-Oeste
+CUST0357,Cliente 357,Pequena Empresa,Sudeste
+CUST0358,Cliente 358,Média Empresa,Sul
+CUST0359,Cliente 359,Autônomo,Sudeste
+CUST0360,Cliente 360,Média Empresa,Sudeste
+CUST0361,Cliente 361,Pequena Empresa,Sudeste
+CUST0362,Cliente 362,Média Empresa,Norte
+CUST0363,Cliente 363,Média Empresa,Sudeste
+CUST0364,Cliente 364,Média Empresa,Norte
+CUST0365,Cliente 365,Autônomo,Centro-Oeste
+CUST0366,Cliente 366,Pequena Empresa,Sul
+CUST0367,Cliente 367,Autônomo,Sul
+CUST0368,Cliente 368,Autônomo,Sul
+CUST0369,Cliente 369,Pequena Empresa,Sul
+CUST0370,Cliente 370,Pequena Empresa,Sul
+CUST0371,Cliente 371,Pequena Empresa,Sul
+CUST0372,Cliente 372,Pequena Empresa,Sul
+CUST0373,Cliente 373,Pequena Empresa,Centro-Oeste
+CUST0374,Cliente 374,Média Empresa,Sudeste
+CUST0375,Cliente 375,Pequena Empresa,Nordeste
+CUST0376,Cliente 376,Pequena Empresa,Norte
+CUST0377,Cliente 377,Grande Empresa,Nordeste
+CUST0378,Cliente 378,Pequena Empresa,Nordeste
+CUST0379,Cliente 379,Grande Empresa,Sudeste
+CUST0380,Cliente 380,Pequena Empresa,Sudeste
+CUST0381,Cliente 381,Pequena Empresa,Sudeste
+CUST0382,Cliente 382,Média Empresa,Sul
+CUST0383,Cliente 383,Média Empresa,Centro-Oeste
+CUST0384,Cliente 384,Grande Empresa,Sul
+CUST0385,Cliente 385,Grande Empresa,Centro-Oeste
+CUST0386,Cliente 386,Grande Empresa,Centro-Oeste
+CUST0387,Cliente 387,Pequena Empresa,Nordeste
+CUST0388,Cliente 388,Pequena Empresa,Nordeste
+CUST0389,Cliente 389,Grande Empresa,Centro-Oeste
+CUST0390,Cliente 390,Grande Empresa,Centro-Oeste
+CUST0391,Cliente 391,Autônomo,Sul
+CUST0392,Cliente 392,Média Empresa,Sul
+CUST0393,Cliente 393,Pequena Empresa,Nordeste
+CUST0394,Cliente 394,Grande Empresa,Sudeste
+CUST0395,Cliente 395,Pequena Empresa,Centro-Oeste
+CUST0396,Cliente 396,Autônomo,Sul
+CUST0397,Cliente 397,Grande Empresa,Nordeste
+CUST0398,Cliente 398,Média Empresa,Sul
+CUST0399,Cliente 399,Grande Empresa,Centro-Oeste
+CUST0400,Cliente 400,Grande Empresa,Centro-Oeste
+CUST0401,Cliente 401,Pequena Empresa,Norte
+CUST0402,Cliente 402,Autônomo,Sudeste
+CUST0403,Cliente 403,Média Empresa,Norte
+CUST0404,Cliente 404,Grande Empresa,Nordeste
+CUST0405,Cliente 405,Pequena Empresa,Sul
+CUST0406,Cliente 406,Grande Empresa,Nordeste
+CUST0407,Cliente 407,Pequena Empresa,Centro-Oeste
+CUST0408,Cliente 408,Pequena Empresa,Norte
+CUST0409,Cliente 409,Autônomo,Norte
+CUST0410,Cliente 410,Pequena Empresa,Norte
+CUST0411,Cliente 411,Pequena Empresa,Nordeste
+CUST0412,Cliente 412,Autônomo,Centro-Oeste
+CUST0413,Cliente 413,Autônomo,Sul
+CUST0414,Cliente 414,Média Empresa,Sul
+CUST0415,Cliente 415,Média Empresa,Nordeste
+CUST0416,Cliente 416,Média Empresa,Norte
+CUST0417,Cliente 417,Pequena Empresa,Sudeste
+CUST0418,Cliente 418,Pequena Empresa,Nordeste
+CUST0419,Cliente 419,Média Empresa,Nordeste
+CUST0420,Cliente 420,Grande Empresa,Centro-Oeste
+CUST0421,Cliente 421,Grande Empresa,Sul
+CUST0422,Cliente 422,Grande Empresa,Nordeste
+CUST0423,Cliente 423,Pequena Empresa,Nordeste
+CUST0424,Cliente 424,Média Empresa,Norte
+CUST0425,Cliente 425,Pequena Empresa,Norte
+CUST0426,Cliente 426,Média Empresa,Sudeste
+CUST0427,Cliente 427,Média Empresa,Centro-Oeste
+CUST0428,Cliente 428,Grande Empresa,Sudeste
+CUST0429,Cliente 429,Pequena Empresa,Norte
+CUST0430,Cliente 430,Pequena Empresa,Sul
+CUST0431,Cliente 431,Pequena Empresa,Norte
+CUST0432,Cliente 432,Grande Empresa,Centro-Oeste
+CUST0433,Cliente 433,Média Empresa,Norte
+CUST0434,Cliente 434,Pequena Empresa,Centro-Oeste
+CUST0435,Cliente 435,Pequena Empresa,Centro-Oeste
+CUST0436,Cliente 436,Grande Empresa,Centro-Oeste
+CUST0437,Cliente 437,Pequena Empresa,Centro-Oeste
+CUST0438,Cliente 438,Grande Empresa,Centro-Oeste
+CUST0439,Cliente 439,Grande Empresa,Sul
+CUST0440,Cliente 440,Pequena Empresa,Sudeste
+CUST0441,Cliente 441,Pequena Empresa,Nordeste
+CUST0442,Cliente 442,Autônomo,Sudeste
+CUST0443,Cliente 443,Pequena Empresa,Centro-Oeste
+CUST0444,Cliente 444,Pequena Empresa,Sul
+CUST0445,Cliente 445,Grande Empresa,Norte
+CUST0446,Cliente 446,Autônomo,Sul
+CUST0447,Cliente 447,Autônomo,Centro-Oeste
+CUST0448,Cliente 448,Grande Empresa,Sul
+CUST0449,Cliente 449,Pequena Empresa,Sul
+CUST0450,Cliente 450,Pequena Empresa,Centro-Oeste
+CUST0451,Cliente 451,Grande Empresa,Sul
+CUST0452,Cliente 452,Média Empresa,Nordeste
+CUST0453,Cliente 453,Média Empresa,Nordeste
+CUST0454,Cliente 454,Autônomo,Sul
+CUST0455,Cliente 455,Pequena Empresa,Norte
+CUST0456,Cliente 456,Média Empresa,Centro-Oeste
+CUST0457,Cliente 457,Pequena Empresa,Nordeste
+CUST0458,Cliente 458,Média Empresa,Norte
+CUST0459,Cliente 459,Pequena Empresa,Sul
+CUST0460,Cliente 460,Pequena Empresa,Norte
+CUST0461,Cliente 461,Pequena Empresa,Sudeste
+CUST0462,Cliente 462,Média Empresa,Nordeste
+CUST0463,Cliente 463,Grande Empresa,Sul
+CUST0464,Cliente 464,Média Empresa,Centro-Oeste
+CUST0465,Cliente 465,Autônomo,Sul
+CUST0466,Cliente 466,Pequena Empresa,Centro-Oeste
+CUST0467,Cliente 467,Pequena Empresa,Sul
+CUST0468,Cliente 468,Grande Empresa,Norte
+CUST0469,Cliente 469,Pequena Empresa,Norte
+CUST0470,Cliente 470,Autônomo,Norte
+CUST0471,Cliente 471,Pequena Empresa,Sudeste
+CUST0472,Cliente 472,Autônomo,Centro-Oeste
+CUST0473,Cliente 473,Pequena Empresa,Norte
+CUST0474,Cliente 474,Grande Empresa,Sudeste
+CUST0475,Cliente 475,Média Empresa,Centro-Oeste
+CUST0476,Cliente 476,Autônomo,Sul
+CUST0477,Cliente 477,Pequena Empresa,Sudeste
+CUST0478,Cliente 478,Média Empresa,Nordeste
+CUST0479,Cliente 479,Autônomo,Sudeste
+CUST0480,Cliente 480,Média Empresa,Sudeste
+CUST0481,Cliente 481,Média Empresa,Centro-Oeste
+CUST0482,Cliente 482,Média Empresa,Sul
+CUST0483,Cliente 483,Média Empresa,Nordeste
+CUST0484,Cliente 484,Média Empresa,Norte
+CUST0485,Cliente 485,Média Empresa,Norte
+CUST0486,Cliente 486,Autônomo,Sudeste
+CUST0487,Cliente 487,Pequena Empresa,Centro-Oeste
+CUST0488,Cliente 488,Pequena Empresa,Centro-Oeste
+CUST0489,Cliente 489,Autônomo,Norte
+CUST0490,Cliente 490,Grande Empresa,Nordeste
+CUST0491,Cliente 491,Média Empresa,Sul
+CUST0492,Cliente 492,Média Empresa,Nordeste
+CUST0493,Cliente 493,Pequena Empresa,Sul
+CUST0494,Cliente 494,Pequena Empresa,Norte
+CUST0495,Cliente 495,Média Empresa,Sul
+CUST0496,Cliente 496,Pequena Empresa,Centro-Oeste
+CUST0497,Cliente 497,Média Empresa,Sudeste
+CUST0498,Cliente 498,Pequena Empresa,Sudeste
+CUST0499,Cliente 499,Autônomo,Norte
+CUST0500,Cliente 500,Autônomo,Centro-Oeste
+CUST0501,Cliente 501,Média Empresa,Nordeste
+CUST0502,Cliente 502,Média Empresa,Centro-Oeste
+CUST0503,Cliente 503,Pequena Empresa,Sudeste
+CUST0504,Cliente 504,Grande Empresa,Sudeste
+CUST0505,Cliente 505,Média Empresa,Centro-Oeste
+CUST0506,Cliente 506,Pequena Empresa,Centro-Oeste
+CUST0507,Cliente 507,Autônomo,Sudeste
+CUST0508,Cliente 508,Grande Empresa,Nordeste
+CUST0509,Cliente 509,Autônomo,Norte
+CUST0510,Cliente 510,Grande Empresa,Norte
+CUST0511,Cliente 511,Média Empresa,Centro-Oeste
+CUST0512,Cliente 512,Média Empresa,Norte
+CUST0513,Cliente 513,Autônomo,Sudeste
+CUST0514,Cliente 514,Grande Empresa,Sudeste
+CUST0515,Cliente 515,Pequena Empresa,Centro-Oeste
+CUST0516,Cliente 516,Pequena Empresa,Centro-Oeste
+CUST0517,Cliente 517,Pequena Empresa,Centro-Oeste
+CUST0518,Cliente 518,Grande Empresa,Nordeste
+CUST0519,Cliente 519,Autônomo,Norte
+CUST0520,Cliente 520,Pequena Empresa,Centro-Oeste
+CUST0521,Cliente 521,Média Empresa,Sul
+CUST0522,Cliente 522,Pequena Empresa,Sul
+CUST0523,Cliente 523,Autônomo,Sudeste
+CUST0524,Cliente 524,Grande Empresa,Norte
+CUST0525,Cliente 525,Grande Empresa,Centro-Oeste
+CUST0526,Cliente 526,Média Empresa,Sul
+CUST0527,Cliente 527,Média Empresa,Norte
+CUST0528,Cliente 528,Pequena Empresa,Sudeste
+CUST0529,Cliente 529,Pequena Empresa,Nordeste
+CUST0530,Cliente 530,Grande Empresa,Norte
+CUST0531,Cliente 531,Grande Empresa,Norte
+CUST0532,Cliente 532,Autônomo,Nordeste
+CUST0533,Cliente 533,Autônomo,Norte
+CUST0534,Cliente 534,Média Empresa,Sudeste
+CUST0535,Cliente 535,Grande Empresa,Sudeste
+CUST0536,Cliente 536,Autônomo,Nordeste
+CUST0537,Cliente 537,Grande Empresa,Centro-Oeste
+CUST0538,Cliente 538,Pequena Empresa,Sul
+CUST0539,Cliente 539,Média Empresa,Centro-Oeste
+CUST0540,Cliente 540,Pequena Empresa,Norte
+CUST0541,Cliente 541,Autônomo,Sul
+CUST0542,Cliente 542,Média Empresa,Nordeste
+CUST0543,Cliente 543,Pequena Empresa,Nordeste
+CUST0544,Cliente 544,Média Empresa,Sul
+CUST0545,Cliente 545,Média Empresa,Sudeste
+CUST0546,Cliente 546,Pequena Empresa,Sul
+CUST0547,Cliente 547,Pequena Empresa,Norte
+CUST0548,Cliente 548,Média Empresa,Sudeste
+CUST0549,Cliente 549,Média Empresa,Nordeste
+CUST0550,Cliente 550,Grande Empresa,Sul
+CUST0551,Cliente 551,Média Empresa,Centro-Oeste
+CUST0552,Cliente 552,Grande Empresa,Centro-Oeste
+CUST0553,Cliente 553,Média Empresa,Norte
+CUST0554,Cliente 554,Média Empresa,Centro-Oeste
+CUST0555,Cliente 555,Grande Empresa,Sul
+CUST0556,Cliente 556,Média Empresa,Sul
+CUST0557,Cliente 557,Pequena Empresa,Centro-Oeste
+CUST0558,Cliente 558,Pequena Empresa,Sul
+CUST0559,Cliente 559,Grande Empresa,Norte
+CUST0560,Cliente 560,Média Empresa,Sudeste
+CUST0561,Cliente 561,Grande Empresa,Norte
+CUST0562,Cliente 562,Pequena Empresa,Norte
+CUST0563,Cliente 563,Pequena Empresa,Sul
+CUST0564,Cliente 564,Pequena Empresa,Sudeste
+CUST0565,Cliente 565,Pequena Empresa,Sul
+CUST0566,Cliente 566,Média Empresa,Nordeste
+CUST0567,Cliente 567,Pequena Empresa,Sul
+CUST0568,Cliente 568,Média Empresa,Sul
+CUST0569,Cliente 569,Autônomo,Sul
+CUST0570,Cliente 570,Pequena Empresa,Sudeste
+CUST0571,Cliente 571,Média Empresa,Sul
+CUST0572,Cliente 572,Grande Empresa,Sudeste
+CUST0573,Cliente 573,Pequena Empresa,Centro-Oeste
+CUST0574,Cliente 574,Média Empresa,Nordeste
+CUST0575,Cliente 575,Grande Empresa,Sudeste
+CUST0576,Cliente 576,Autônomo,Centro-Oeste
+CUST0577,Cliente 577,Pequena Empresa,Sudeste
+CUST0578,Cliente 578,Autônomo,Sudeste
+CUST0579,Cliente 579,Média Empresa,Nordeste
+CUST0580,Cliente 580,Pequena Empresa,Norte
+CUST0581,Cliente 581,Média Empresa,Norte
+CUST0582,Cliente 582,Autônomo,Sudeste
+CUST0583,Cliente 583,Média Empresa,Sul
+CUST0584,Cliente 584,Pequena Empresa,Centro-Oeste
+CUST0585,Cliente 585,Média Empresa,Sul
+CUST0586,Cliente 586,Pequena Empresa,Sul
+CUST0587,Cliente 587,Pequena Empresa,Sudeste
+CUST0588,Cliente 588,Pequena Empresa,Sudeste
+CUST0589,Cliente 589,Pequena Empresa,Sudeste
+CUST0590,Cliente 590,Pequena Empresa,Sudeste
+CUST0591,Cliente 591,Pequena Empresa,Norte
+CUST0592,Cliente 592,Média Empresa,Sudeste
+CUST0593,Cliente 593,Pequena Empresa,Norte
+CUST0594,Cliente 594,Pequena Empresa,Norte
+CUST0595,Cliente 595,Grande Empresa,Sudeste
+CUST0596,Cliente 596,Média Empresa,Nordeste
+CUST0597,Cliente 597,Média Empresa,Centro-Oeste
+CUST0598,Cliente 598,Pequena Empresa,Sul
+CUST0599,Cliente 599,Pequena Empresa,Norte
+CUST0600,Cliente 600,Pequena Empresa,Centro-Oeste
+CUST0601,Cliente 601,Pequena Empresa,Nordeste
+CUST0602,Cliente 602,Pequena Empresa,Sul
+CUST0603,Cliente 603,Pequena Empresa,Sul
+CUST0604,Cliente 604,Pequena Empresa,Norte
+CUST0605,Cliente 605,Pequena Empresa,Sudeste
+CUST0606,Cliente 606,Média Empresa,Nordeste
+CUST0607,Cliente 607,Pequena Empresa,Norte
+CUST0608,Cliente 608,Pequena Empresa,Nordeste
+CUST0609,Cliente 609,Média Empresa,Sudeste
+CUST0610,Cliente 610,Média Empresa,Sudeste
+CUST0611,Cliente 611,Pequena Empresa,Norte
+CUST0612,Cliente 612,Grande Empresa,Sudeste
+CUST0613,Cliente 613,Média Empresa,Centro-Oeste
+CUST0614,Cliente 614,Pequena Empresa,Sul
+CUST0615,Cliente 615,Grande Empresa,Norte
+CUST0616,Cliente 616,Autônomo,Nordeste
+CUST0617,Cliente 617,Pequena Empresa,Centro-Oeste
+CUST0618,Cliente 618,Pequena Empresa,Norte
+CUST0619,Cliente 619,Grande Empresa,Sudeste
+CUST0620,Cliente 620,Grande Empresa,Sudeste
+CUST0621,Cliente 621,Pequena Empresa,Sudeste
+CUST0622,Cliente 622,Pequena Empresa,Sudeste
+CUST0623,Cliente 623,Pequena Empresa,Nordeste
+CUST0624,Cliente 624,Média Empresa,Centro-Oeste
+CUST0625,Cliente 625,Média Empresa,Sul
+CUST0626,Cliente 626,Pequena Empresa,Nordeste
+CUST0627,Cliente 627,Média Empresa,Nordeste
+CUST0628,Cliente 628,Grande Empresa,Sul
+CUST0629,Cliente 629,Pequena Empresa,Sul
+CUST0630,Cliente 630,Pequena Empresa,Sudeste
+CUST0631,Cliente 631,Grande Empresa,Nordeste
+CUST0632,Cliente 632,Grande Empresa,Norte
+CUST0633,Cliente 633,Média Empresa,Sul
+CUST0634,Cliente 634,Média Empresa,Sul
+CUST0635,Cliente 635,Pequena Empresa,Centro-Oeste
+CUST0636,Cliente 636,Média Empresa,Norte
+CUST0637,Cliente 637,Média Empresa,Norte
+CUST0638,Cliente 638,Pequena Empresa,Sul
+CUST0639,Cliente 639,Pequena Empresa,Sudeste
+CUST0640,Cliente 640,Pequena Empresa,Centro-Oeste
+CUST0641,Cliente 641,Pequena Empresa,Norte
+CUST0642,Cliente 642,Pequena Empresa,Sul
+CUST0643,Cliente 643,Pequena Empresa,Norte
+CUST0644,Cliente 644,Pequena Empresa,Centro-Oeste
+CUST0645,Cliente 645,Pequena Empresa,Centro-Oeste
+CUST0646,Cliente 646,Grande Empresa,Nordeste
+CUST0647,Cliente 647,Média Empresa,Sul
+CUST0648,Cliente 648,Média Empresa,Centro-Oeste
+CUST0649,Cliente 649,Grande Empresa,Nordeste
+CUST0650,Cliente 650,Média Empresa,Nordeste
+CUST0651,Cliente 651,Pequena Empresa,Norte
+CUST0652,Cliente 652,Média Empresa,Norte
+CUST0653,Cliente 653,Média Empresa,Nordeste
+CUST0654,Cliente 654,Grande Empresa,Norte
+CUST0655,Cliente 655,Média Empresa,Centro-Oeste
+CUST0656,Cliente 656,Pequena Empresa,Sudeste
+CUST0657,Cliente 657,Pequena Empresa,Centro-Oeste
+CUST0658,Cliente 658,Pequena Empresa,Nordeste
+CUST0659,Cliente 659,Média Empresa,Nordeste
+CUST0660,Cliente 660,Média Empresa,Centro-Oeste
+CUST0661,Cliente 661,Pequena Empresa,Norte
+CUST0662,Cliente 662,Autônomo,Norte
+CUST0663,Cliente 663,Média Empresa,Nordeste
+CUST0664,Cliente 664,Pequena Empresa,Sul
+CUST0665,Cliente 665,Pequena Empresa,Norte
+CUST0666,Cliente 666,Pequena Empresa,Centro-Oeste
+CUST0667,Cliente 667,Pequena Empresa,Norte
+CUST0668,Cliente 668,Pequena Empresa,Centro-Oeste
+CUST0669,Cliente 669,Pequena Empresa,Nordeste
+CUST0670,Cliente 670,Pequena Empresa,Norte
+CUST0671,Cliente 671,Pequena Empresa,Centro-Oeste
+CUST0672,Cliente 672,Grande Empresa,Nordeste
+CUST0673,Cliente 673,Pequena Empresa,Sul
+CUST0674,Cliente 674,Média Empresa,Centro-Oeste
+CUST0675,Cliente 675,Média Empresa,Sul
+CUST0676,Cliente 676,Autônomo,Sul
+CUST0677,Cliente 677,Pequena Empresa,Sudeste
+CUST0678,Cliente 678,Pequena Empresa,Norte
+CUST0679,Cliente 679,Autônomo,Centro-Oeste
+CUST0680,Cliente 680,Grande Empresa,Sul
+CUST0681,Cliente 681,Grande Empresa,Sudeste
+CUST0682,Cliente 682,Pequena Empresa,Nordeste
+CUST0683,Cliente 683,Pequena Empresa,Centro-Oeste
+CUST0684,Cliente 684,Média Empresa,Sul
+CUST0685,Cliente 685,Autônomo,Norte
+CUST0686,Cliente 686,Média Empresa,Sudeste
+CUST0687,Cliente 687,Média Empresa,Sul
+CUST0688,Cliente 688,Pequena Empresa,Norte
+CUST0689,Cliente 689,Grande Empresa,Sul
+CUST0690,Cliente 690,Pequena Empresa,Centro-Oeste
+CUST0691,Cliente 691,Pequena Empresa,Centro-Oeste
+CUST0692,Cliente 692,Média Empresa,Centro-Oeste
+CUST0693,Cliente 693,Média Empresa,Sudeste
+CUST0694,Cliente 694,Pequena Empresa,Centro-Oeste
+CUST0695,Cliente 695,Pequena Empresa,Norte
+CUST0696,Cliente 696,Média Empresa,Sul
+CUST0697,Cliente 697,Pequena Empresa,Nordeste
+CUST0698,Cliente 698,Média Empresa,Norte
+CUST0699,Cliente 699,Pequena Empresa,Norte
+CUST0700,Cliente 700,Média Empresa,Centro-Oeste
+CUST0701,Cliente 701,Média Empresa,Sudeste
+CUST0702,Cliente 702,Pequena Empresa,Sul
+CUST0703,Cliente 703,Pequena Empresa,Sudeste
+CUST0704,Cliente 704,Pequena Empresa,Sul
+CUST0705,Cliente 705,Pequena Empresa,Sul
+CUST0706,Cliente 706,Autônomo,Sudeste
+CUST0707,Cliente 707,Pequena Empresa,Norte
+CUST0708,Cliente 708,Grande Empresa,Sul
+CUST0709,Cliente 709,Pequena Empresa,Sudeste
+CUST0710,Cliente 710,Média Empresa,Sul
+CUST0711,Cliente 711,Grande Empresa,Nordeste
+CUST0712,Cliente 712,Média Empresa,Norte
+CUST0713,Cliente 713,Média Empresa,Centro-Oeste
+CUST0714,Cliente 714,Média Empresa,Sul
+CUST0715,Cliente 715,Pequena Empresa,Nordeste
+CUST0716,Cliente 716,Autônomo,Centro-Oeste
+CUST0717,Cliente 717,Grande Empresa,Centro-Oeste
+CUST0718,Cliente 718,Autônomo,Sul
+CUST0719,Cliente 719,Pequena Empresa,Sudeste
+CUST0720,Cliente 720,Grande Empresa,Sul
+CUST0721,Cliente 721,Autônomo,Nordeste
+CUST0722,Cliente 722,Pequena Empresa,Centro-Oeste
+CUST0723,Cliente 723,Pequena Empresa,Sul
+CUST0724,Cliente 724,Grande Empresa,Sudeste
+CUST0725,Cliente 725,Média Empresa,Sul
+CUST0726,Cliente 726,Grande Empresa,Norte
+CUST0727,Cliente 727,Pequena Empresa,Sudeste
+CUST0728,Cliente 728,Grande Empresa,Nordeste
+CUST0729,Cliente 729,Pequena Empresa,Centro-Oeste
+CUST0730,Cliente 730,Pequena Empresa,Sul
+CUST0731,Cliente 731,Pequena Empresa,Sudeste
+CUST0732,Cliente 732,Grande Empresa,Norte
+CUST0733,Cliente 733,Média Empresa,Sudeste
+CUST0734,Cliente 734,Média Empresa,Norte
+CUST0735,Cliente 735,Pequena Empresa,Nordeste
+CUST0736,Cliente 736,Grande Empresa,Centro-Oeste
+CUST0737,Cliente 737,Pequena Empresa,Nordeste
+CUST0738,Cliente 738,Grande Empresa,Sul
+CUST0739,Cliente 739,Média Empresa,Sudeste
+CUST0740,Cliente 740,Pequena Empresa,Norte
+CUST0741,Cliente 741,Média Empresa,Norte
+CUST0742,Cliente 742,Pequena Empresa,Sudeste
+CUST0743,Cliente 743,Grande Empresa,Sudeste
+CUST0744,Cliente 744,Média Empresa,Sul
+CUST0745,Cliente 745,Pequena Empresa,Nordeste
+CUST0746,Cliente 746,Grande Empresa,Norte
+CUST0747,Cliente 747,Pequena Empresa,Sul
+CUST0748,Cliente 748,Média Empresa,Nordeste
+CUST0749,Cliente 749,Autônomo,Sul
+CUST0750,Cliente 750,Média Empresa,Norte
+CUST0751,Cliente 751,Pequena Empresa,Sudeste
+CUST0752,Cliente 752,Autônomo,Sudeste
+CUST0753,Cliente 753,Média Empresa,Nordeste
+CUST0754,Cliente 754,Pequena Empresa,Centro-Oeste
+CUST0755,Cliente 755,Pequena Empresa,Nordeste
+CUST0756,Cliente 756,Grande Empresa,Centro-Oeste
+CUST0757,Cliente 757,Média Empresa,Sul
+CUST0758,Cliente 758,Média Empresa,Sul
+CUST0759,Cliente 759,Grande Empresa,Norte
+CUST0760,Cliente 760,Grande Empresa,Centro-Oeste
+CUST0761,Cliente 761,Pequena Empresa,Norte
+CUST0762,Cliente 762,Pequena Empresa,Sudeste
+CUST0763,Cliente 763,Pequena Empresa,Centro-Oeste
+CUST0764,Cliente 764,Grande Empresa,Nordeste
+CUST0765,Cliente 765,Pequena Empresa,Sudeste
+CUST0766,Cliente 766,Média Empresa,Sudeste
+CUST0767,Cliente 767,Grande Empresa,Nordeste
+CUST0768,Cliente 768,Grande Empresa,Sudeste
+CUST0769,Cliente 769,Pequena Empresa,Centro-Oeste
+CUST0770,Cliente 770,Grande Empresa,Norte
+CUST0771,Cliente 771,Pequena Empresa,Sudeste
+CUST0772,Cliente 772,Grande Empresa,Centro-Oeste
+CUST0773,Cliente 773,Pequena Empresa,Sul
+CUST0774,Cliente 774,Pequena Empresa,Centro-Oeste
+CUST0775,Cliente 775,Grande Empresa,Norte
+CUST0776,Cliente 776,Pequena Empresa,Centro-Oeste
+CUST0777,Cliente 777,Pequena Empresa,Nordeste
+CUST0778,Cliente 778,Grande Empresa,Norte
+CUST0779,Cliente 779,Grande Empresa,Sul
+CUST0780,Cliente 780,Média Empresa,Nordeste
+CUST0781,Cliente 781,Média Empresa,Centro-Oeste
+CUST0782,Cliente 782,Média Empresa,Norte
+CUST0783,Cliente 783,Pequena Empresa,Sul
+CUST0784,Cliente 784,Pequena Empresa,Nordeste
+CUST0785,Cliente 785,Pequena Empresa,Sul
+CUST0786,Cliente 786,Autônomo,Centro-Oeste
+CUST0787,Cliente 787,Média Empresa,Sul
+CUST0788,Cliente 788,Média Empresa,Sudeste
+CUST0789,Cliente 789,Média Empresa,Nordeste
+CUST0790,Cliente 790,Autônomo,Sul
+CUST0791,Cliente 791,Pequena Empresa,Centro-Oeste
+CUST0792,Cliente 792,Média Empresa,Centro-Oeste
+CUST0793,Cliente 793,Média Empresa,Sul
+CUST0794,Cliente 794,Média Empresa,Centro-Oeste
+CUST0795,Cliente 795,Pequena Empresa,Norte
+CUST0796,Cliente 796,Grande Empresa,Norte
+CUST0797,Cliente 797,Autônomo,Norte
+CUST0798,Cliente 798,Média Empresa,Sudeste
+CUST0799,Cliente 799,Média Empresa,Sul
+CUST0800,Cliente 800,Autônomo,Sudeste
+CUST0801,Cliente 801,Grande Empresa,Centro-Oeste
+CUST0802,Cliente 802,Pequena Empresa,Sudeste
+CUST0803,Cliente 803,Média Empresa,Centro-Oeste
+CUST0804,Cliente 804,Média Empresa,Centro-Oeste
+CUST0805,Cliente 805,Média Empresa,Nordeste
+CUST0806,Cliente 806,Grande Empresa,Norte
+CUST0807,Cliente 807,Autônomo,Centro-Oeste
+CUST0808,Cliente 808,Autônomo,Nordeste
+CUST0809,Cliente 809,Média Empresa,Norte
+CUST0810,Cliente 810,Pequena Empresa,Centro-Oeste
+CUST0811,Cliente 811,Autônomo,Centro-Oeste
+CUST0812,Cliente 812,Grande Empresa,Sudeste
+CUST0813,Cliente 813,Pequena Empresa,Sudeste
+CUST0814,Cliente 814,Autônomo,Norte
+CUST0815,Cliente 815,Grande Empresa,Centro-Oeste
+CUST0816,Cliente 816,Média Empresa,Sul
+CUST0817,Cliente 817,Média Empresa,Sudeste
+CUST0818,Cliente 818,Pequena Empresa,Norte
+CUST0819,Cliente 819,Pequena Empresa,Centro-Oeste
+CUST0820,Cliente 820,Pequena Empresa,Centro-Oeste
+CUST0821,Cliente 821,Grande Empresa,Sul
+CUST0822,Cliente 822,Pequena Empresa,Norte
+CUST0823,Cliente 823,Pequena Empresa,Centro-Oeste
+CUST0824,Cliente 824,Pequena Empresa,Sudeste
+CUST0825,Cliente 825,Média Empresa,Sul
+CUST0826,Cliente 826,Autônomo,Norte
+CUST0827,Cliente 827,Pequena Empresa,Sul
+CUST0828,Cliente 828,Pequena Empresa,Sudeste
+CUST0829,Cliente 829,Grande Empresa,Norte
+CUST0830,Cliente 830,Média Empresa,Sul
+CUST0831,Cliente 831,Pequena Empresa,Nordeste
+CUST0832,Cliente 832,Média Empresa,Sudeste
+CUST0833,Cliente 833,Pequena Empresa,Sudeste
+CUST0834,Cliente 834,Pequena Empresa,Sudeste
+CUST0835,Cliente 835,Média Empresa,Nordeste
+CUST0836,Cliente 836,Média Empresa,Nordeste
+CUST0837,Cliente 837,Autônomo,Centro-Oeste
+CUST0838,Cliente 838,Pequena Empresa,Sul
+CUST0839,Cliente 839,Média Empresa,Centro-Oeste
+CUST0840,Cliente 840,Média Empresa,Sul
+CUST0841,Cliente 841,Pequena Empresa,Nordeste
+CUST0842,Cliente 842,Média Empresa,Nordeste
+CUST0843,Cliente 843,Pequena Empresa,Centro-Oeste
+CUST0844,Cliente 844,Autônomo,Norte
+CUST0845,Cliente 845,Pequena Empresa,Centro-Oeste
+CUST0846,Cliente 846,Média Empresa,Sul
+CUST0847,Cliente 847,Pequena Empresa,Centro-Oeste
+CUST0848,Cliente 848,Autônomo,Sudeste
+CUST0849,Cliente 849,Média Empresa,Sul
+CUST0850,Cliente 850,Média Empresa,Sul
+CUST0851,Cliente 851,Pequena Empresa,Norte
+CUST0852,Cliente 852,Grande Empresa,Nordeste
+CUST0853,Cliente 853,Pequena Empresa,Sul
+CUST0854,Cliente 854,Grande Empresa,Nordeste
+CUST0855,Cliente 855,Pequena Empresa,Centro-Oeste
+CUST0856,Cliente 856,Pequena Empresa,Sudeste
+CUST0857,Cliente 857,Pequena Empresa,Norte
+CUST0858,Cliente 858,Média Empresa,Nordeste
+CUST0859,Cliente 859,Média Empresa,Sul
+CUST0860,Cliente 860,Pequena Empresa,Nordeste
+CUST0861,Cliente 861,Grande Empresa,Sul
+CUST0862,Cliente 862,Média Empresa,Nordeste
+CUST0863,Cliente 863,Média Empresa,Sul
+CUST0864,Cliente 864,Média Empresa,Centro-Oeste
+CUST0865,Cliente 865,Média Empresa,Sul
+CUST0866,Cliente 866,Média Empresa,Sul
+CUST0867,Cliente 867,Pequena Empresa,Sudeste
+CUST0868,Cliente 868,Pequena Empresa,Sul
+CUST0869,Cliente 869,Grande Empresa,Sudeste
+CUST0870,Cliente 870,Autônomo,Norte
+CUST0871,Cliente 871,Pequena Empresa,Sudeste
+CUST0872,Cliente 872,Pequena Empresa,Centro-Oeste
+CUST0873,Cliente 873,Média Empresa,Sudeste
+CUST0874,Cliente 874,Média Empresa,Norte
+CUST0875,Cliente 875,Pequena Empresa,Centro-Oeste
+CUST0876,Cliente 876,Pequena Empresa,Nordeste
+CUST0877,Cliente 877,Grande Empresa,Nordeste
+CUST0878,Cliente 878,Média Empresa,Sudeste
+CUST0879,Cliente 879,Pequena Empresa,Sudeste
+CUST0880,Cliente 880,Pequena Empresa,Norte
+CUST0881,Cliente 881,Pequena Empresa,Norte
+CUST0882,Cliente 882,Média Empresa,Sul
+CUST0883,Cliente 883,Pequena Empresa,Norte
+CUST0884,Cliente 884,Pequena Empresa,Sul
+CUST0885,Cliente 885,Grande Empresa,Centro-Oeste
+CUST0886,Cliente 886,Pequena Empresa,Sudeste
+CUST0887,Cliente 887,Média Empresa,Centro-Oeste
+CUST0888,Cliente 888,Pequena Empresa,Norte
+CUST0889,Cliente 889,Pequena Empresa,Centro-Oeste
+CUST0890,Cliente 890,Pequena Empresa,Centro-Oeste
+CUST0891,Cliente 891,Grande Empresa,Centro-Oeste
+CUST0892,Cliente 892,Grande Empresa,Norte
+CUST0893,Cliente 893,Grande Empresa,Centro-Oeste
+CUST0894,Cliente 894,Pequena Empresa,Sul
+CUST0895,Cliente 895,Média Empresa,Norte
+CUST0896,Cliente 896,Pequena Empresa,Centro-Oeste
+CUST0897,Cliente 897,Pequena Empresa,Norte
+CUST0898,Cliente 898,Grande Empresa,Nordeste
+CUST0899,Cliente 899,Pequena Empresa,Sul
+CUST0900,Cliente 900,Pequena Empresa,Centro-Oeste
+CUST0901,Cliente 901,Pequena Empresa,Nordeste
+CUST0902,Cliente 902,Pequena Empresa,Nordeste
+CUST0903,Cliente 903,Pequena Empresa,Norte
+CUST0904,Cliente 904,Média Empresa,Nordeste
+CUST0905,Cliente 905,Média Empresa,Sul
+CUST0906,Cliente 906,Grande Empresa,Sul
+CUST0907,Cliente 907,Grande Empresa,Sudeste
+CUST0908,Cliente 908,Pequena Empresa,Sul
+CUST0909,Cliente 909,Pequena Empresa,Nordeste
+CUST0910,Cliente 910,Pequena Empresa,Sul
+CUST0911,Cliente 911,Média Empresa,Norte
+CUST0912,Cliente 912,Pequena Empresa,Sudeste
+CUST0913,Cliente 913,Média Empresa,Nordeste
+CUST0914,Cliente 914,Média Empresa,Sudeste
+CUST0915,Cliente 915,Média Empresa,Nordeste
+CUST0916,Cliente 916,Média Empresa,Norte
+CUST0917,Cliente 917,Pequena Empresa,Sudeste
+CUST0918,Cliente 918,Autônomo,Centro-Oeste
+CUST0919,Cliente 919,Grande Empresa,Nordeste
+CUST0920,Cliente 920,Pequena Empresa,Centro-Oeste
+CUST0921,Cliente 921,Grande Empresa,Sudeste
+CUST0922,Cliente 922,Média Empresa,Centro-Oeste
+CUST0923,Cliente 923,Grande Empresa,Centro-Oeste
+CUST0924,Cliente 924,Grande Empresa,Sudeste
+CUST0925,Cliente 925,Média Empresa,Norte
+CUST0926,Cliente 926,Pequena Empresa,Centro-Oeste
+CUST0927,Cliente 927,Pequena Empresa,Centro-Oeste
+CUST0928,Cliente 928,Média Empresa,Norte
+CUST0929,Cliente 929,Média Empresa,Centro-Oeste
+CUST0930,Cliente 930,Pequena Empresa,Centro-Oeste
+CUST0931,Cliente 931,Pequena Empresa,Centro-Oeste
+CUST0932,Cliente 932,Grande Empresa,Sul
+CUST0933,Cliente 933,Autônomo,Norte
+CUST0934,Cliente 934,Média Empresa,Centro-Oeste
+CUST0935,Cliente 935,Pequena Empresa,Norte
+CUST0936,Cliente 936,Pequena Empresa,Nordeste
+CUST0937,Cliente 937,Pequena Empresa,Nordeste
+CUST0938,Cliente 938,Autônomo,Centro-Oeste
+CUST0939,Cliente 939,Pequena Empresa,Norte
+CUST0940,Cliente 940,Média Empresa,Norte
+CUST0941,Cliente 941,Pequena Empresa,Norte
+CUST0942,Cliente 942,Média Empresa,Sul
+CUST0943,Cliente 943,Média Empresa,Nordeste
+CUST0944,Cliente 944,Grande Empresa,Norte
+CUST0945,Cliente 945,Pequena Empresa,Norte
+CUST0946,Cliente 946,Pequena Empresa,Sul
+CUST0947,Cliente 947,Pequena Empresa,Sul
+CUST0948,Cliente 948,Autônomo,Norte
+CUST0949,Cliente 949,Grande Empresa,Sudeste
+CUST0950,Cliente 950,Média Empresa,Norte
+CUST0951,Cliente 951,Média Empresa,Norte
+CUST0952,Cliente 952,Média Empresa,Sul
+CUST0953,Cliente 953,Pequena Empresa,Sul
+CUST0954,Cliente 954,Autônomo,Norte
+CUST0955,Cliente 955,Média Empresa,Norte
+CUST0956,Cliente 956,Pequena Empresa,Norte
+CUST0957,Cliente 957,Média Empresa,Sul
+CUST0958,Cliente 958,Pequena Empresa,Norte
+CUST0959,Cliente 959,Pequena Empresa,Norte
+CUST0960,Cliente 960,Grande Empresa,Centro-Oeste
+CUST0961,Cliente 961,Pequena Empresa,Sudeste
+CUST0962,Cliente 962,Média Empresa,Nordeste
+CUST0963,Cliente 963,Pequena Empresa,Sudeste
+CUST0964,Cliente 964,Pequena Empresa,Centro-Oeste
+CUST0965,Cliente 965,Pequena Empresa,Nordeste
+CUST0966,Cliente 966,Pequena Empresa,Norte
+CUST0967,Cliente 967,Grande Empresa,Centro-Oeste
+CUST0968,Cliente 968,Pequena Empresa,Norte
+CUST0969,Cliente 969,Média Empresa,Sul
+CUST0970,Cliente 970,Média Empresa,Centro-Oeste
+CUST0971,Cliente 971,Média Empresa,Sul
+CUST0972,Cliente 972,Autônomo,Centro-Oeste
+CUST0973,Cliente 973,Grande Empresa,Centro-Oeste
+CUST0974,Cliente 974,Pequena Empresa,Sul
+CUST0975,Cliente 975,Pequena Empresa,Nordeste
+CUST0976,Cliente 976,Pequena Empresa,Sudeste
+CUST0977,Cliente 977,Média Empresa,Norte
+CUST0978,Cliente 978,Pequena Empresa,Centro-Oeste
+CUST0979,Cliente 979,Média Empresa,Norte
+CUST0980,Cliente 980,Média Empresa,Sul
+CUST0981,Cliente 981,Pequena Empresa,Norte
+CUST0982,Cliente 982,Grande Empresa,Sul
+CUST0983,Cliente 983,Pequena Empresa,Norte
+CUST0984,Cliente 984,Pequena Empresa,Sudeste
+CUST0985,Cliente 985,Grande Empresa,Sudeste
+CUST0986,Cliente 986,Média Empresa,Sudeste
+CUST0987,Cliente 987,Média Empresa,Sudeste
+CUST0988,Cliente 988,Média Empresa,Sudeste
+CUST0989,Cliente 989,Pequena Empresa,Sudeste
+CUST0990,Cliente 990,Grande Empresa,Sul
+CUST0991,Cliente 991,Grande Empresa,Centro-Oeste
+CUST0992,Cliente 992,Média Empresa,Norte
+CUST0993,Cliente 993,Pequena Empresa,Sudeste
+CUST0994,Cliente 994,Média Empresa,Sul
+CUST0995,Cliente 995,Pequena Empresa,Sul
+CUST0996,Cliente 996,Pequena Empresa,Sul
+CUST0997,Cliente 997,Autônomo,Centro-Oeste
+CUST0998,Cliente 998,Pequena Empresa,Norte
+CUST0999,Cliente 999,Autônomo,Centro-Oeste
+CUST1000,Cliente 1000,Média Empresa,Nordeste
