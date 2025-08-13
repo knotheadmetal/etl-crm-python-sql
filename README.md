@@ -11,7 +11,7 @@ Este projeto demonstra a criação de um pipeline ETL (Extração, Transformaç�
     *   `matplotlib`/`plotly`: Visualização de dados.
     *   `schedule`: Agendamento de tarefas.
 *   **Google Sheets / CSV**: Como fonte de dados do CRM.
-*   **Jupyter Notebook / Google Colab**: Para desenvolvimento e experimentação.
+*   **Jupyter Notebook / Google Colab**: Para desenvolvimento e experimentação. 
 *   **Git / GitHub**: Para controle de versão e publicação do projeto.
 
 ## Estrutura do Projeto
