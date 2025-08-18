@@ -1,6 +1,6 @@
 # Projeto ETL e Análise Automatizada de Dados de CRM
 
-## Visão Geral
+## Visão Geral 
 
 Este projeto demonstra a criação de um pipeline ETL (Extração, Transformação, Carga) automatizado para análise de dados de CRM, utilizando ferramentas gratuitas. O objetivo é fornecer insights visuais sobre o comportamento do cliente, funil de vendas e desempenho do atendimento, democratizando o acesso à inteligência de dados para pequenos negócios e freelancers.
 
